@@ -1,4 +1,4 @@
-### Hi there, I'm furkan - aka [furkankoykiran][website] 👋
+### Hi there, I'm Furkan - aka [furkankoykiran][website] 👋
 
 [!Twitter Follow
 
