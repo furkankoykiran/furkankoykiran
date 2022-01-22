@@ -1,6 +1,6 @@
 ### Hi there, I'm furkan - aka [furkankoykiran][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/furkankoykiran?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FFurkan Köykıran&screen_name=furkankoykiran)
+[!Twitter Follow
 
 ## I'm a Designer and Developer!!
 
