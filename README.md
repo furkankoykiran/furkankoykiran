@@ -1,6 +1,6 @@
 ### Hi there, I'm Furkan - aka [furkankoykiran][website] 👋
 
-[![Website](https://img.shields.io/website?label=muminkoykiran.com.tr&style=for-the-badge&url=https%3A%2F%2Fmuminkoykiran.com.tr)](https://www.muminkoykiran.com.tr)
+[![Website](https://img.shields.io/website?label=https://furkankoykiran.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fmuminkoykiran.com.tr)](https://www.muminkoykiran.com.tr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/furkankoykiran?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffurkankoykirann&screen_name=furkankoykiran)
 
 ## I'm a Designer and Developer!!
