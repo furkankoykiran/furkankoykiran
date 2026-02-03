@@ -137,6 +137,12 @@ Designing and implementing scalable cloud infrastructure solutions with automate
 
 ---
 
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 💝 Support My Work
 
 <div align="center">
