@@ -140,10 +140,10 @@ Designing and implementing scalable cloud infrastructure solutions with automate
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Apache Kafka: Event Streaming ve Gerçek Hayat Tuzakları](https://blog.furkankoykiran.com.tr/posts/apache-kafka-event-streaming/)
-- [Git Stratejileri: Büyük Takımlar Nasıl Çalışır?](https://blog.furkankoykiran.com.tr/posts/git-is-akisi-branch-stratejileri/)
-- [Python Context Managers: Kaynak Yönetiminde Ustalık](https://blog.furkankoykiran.com.tr/posts/python-context-managers-kaynak-yonetimi/)
+- [Git Is Akisi Branch Stratejileri](https://blog.furkankoykiran.com.tr/posts/git-is-akisi-branch-stratejileri/)
+- [Python Context Managers Kaynak Yonetimi](https://blog.furkankoykiran.com.tr/posts/python-context-managers-kaynak-yonetimi/)
 - [Modern Web Mimarisi: Framework&#39;süz Düşünmek](https://blog.furkankoykiran.com.tr/posts/modern-web-arayuzu-css-javascript/)
-- [Python E-Posta Otomasyonu: Teslimat Mühendisliği](https://blog.furkankoykiran.com.tr/posts/python-ile-eposta-otomasyonu/)
+- [Python Ile Eposta Otomasyonu](https://blog.furkankoykiran.com.tr/posts/python-ile-eposta-otomasyonu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
