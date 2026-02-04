@@ -139,11 +139,11 @@ Designing and implementing scalable cloud infrastructure solutions with automate
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;ın Regex Kütüphanesine Yeni Özellik Eklemek: Bir Açık Kaynak Hikayesi](https://blog.furkankoykiran.com.tr/posts/google-re2-lookaround-proof-of-concept/)
 - [GitHub&#39;ın Resmi MCP Server Projesine Katkıda Bulundum: Bir Açık Kaynak Hikayesi](https://blog.furkankoykiran.com.tr/posts/github-mcp-server-acik-kaynak-katki/)
 - [GitLab&#39;dan GitHub&#39;a Dönüş: Bir Altyapı Migration Macerası](https://blog.furkankoykiran.com.tr/posts/gitlab-github-macerasi-jekyll-altyapisi/)
 - [Apache Kafka: Event Streaming ve Gerçek Hayat Tuzakları](https://blog.furkankoykiran.com.tr/posts/apache-kafka-event-streaming/)
 - [Git Stratejileri: Takım Çalışması ve Trunk Based Development](https://blog.furkankoykiran.com.tr/posts/git-is-akisi-branch-stratejileri/)
-- [Python Context Managers: Kaynak Yönetimi ve &#39;with&#39; Bloğu](https://blog.furkankoykiran.com.tr/posts/python-context-managers-kaynak-yonetimi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
