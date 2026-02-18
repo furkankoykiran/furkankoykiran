@@ -139,11 +139,11 @@ Designing and implementing scalable cloud infrastructure solutions with automate
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DevTo-MCP: DEV Community API&#39;si ile AI Asistanları Arasında Güvenli Bir Köprü](https://blog.furkankoykiran.com.tr/posts/devto-mcp-server-gelistirme-ve-yayinlama/)
 - [OmniWire-MCP: AI Modelleri İçin Güvenli, Hızlı ve Standartları Belirleyen Haber Köprüsü](https://blog.furkankoykiran.com.tr/posts/omniwire-mcp-ai-news-server/)
 - [Memoryze: Kendi Sınırlarını Çizdiğin, Özgür Bir Dil Öğrenme Platformu](https://blog.furkankoykiran.com.tr/posts/memoryze-flashcard-spaced-repetition/)
 - [Google&#39;ın Regex Kütüphanesine Yeni Özellik Eklemek: Bir Açık Kaynak Hikayesi](https://blog.furkankoykiran.com.tr/posts/google-re2-lookaround-proof-of-concept/)
 - [GitHub&#39;ın Resmi MCP Server Projesine Katkıda Bulundum: Bir Açık Kaynak Hikayesi](https://blog.furkankoykiran.com.tr/posts/github-mcp-server-acik-kaynak-katki/)
-- [GitLab&#39;dan GitHub&#39;a Dönüş: Bir Altyapı Migration Macerası](https://blog.furkankoykiran.com.tr/posts/gitlab-github-macerasi-jekyll-altyapisi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
