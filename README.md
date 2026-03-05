@@ -139,11 +139,11 @@ Designing and implementing scalable cloud infrastructure solutions with automate
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Whop-MCP: The AI Revolution in Store Management and the Signalyze VIP Story](https://blog.furkankoykiran.com.tr/posts/whop-mcp-ai-revolution-and-store-management/)
+- [Whop-MCP: Mağaza Yönetiminde Yapay Zeka Devrimi ve Signalyze VIP Hikayesi](https://blog.furkankoykiran.com.tr/posts/whop-mcp-magaza-yonetimi-ai-devrimi/)
 - [Yapay Zeka ile Makale Yazıp, Hedefe Ulaşmak: DevTo-MCP &amp; Gemini Hackathon Deneyimi](https://blog.furkankoykiran.com.tr/posts/mcp-gemini-challenge-deneyimi/)
 - [Telegram Wallet P2P API İle Kendi Trading Altyapınızı Kurun: Python, Node.js ve MCP Destekli Resmi Olmayan Ekosistem](https://blog.furkankoykiran.com.tr/posts/telegram-wallet-p2p-mcp-sdk-gelistirme-hikayesi/)
 - [DevTo-MCP: DEV Community API&#39;si ile AI Asistanları Arasında Güvenli Bir Köprü](https://blog.furkankoykiran.com.tr/posts/devto-mcp-server-gelistirme-ve-yayinlama/)
-- [OmniWire-MCP: AI Modelleri İçin Güvenli, Hızlı ve Standartları Belirleyen Haber Köprüsü](https://blog.furkankoykiran.com.tr/posts/omniwire-mcp-ai-news-server/)
-- [Memoryze: Kendi Sınırlarını Çizdiğin, Özgür Bir Dil Öğrenme Platformu](https://blog.furkankoykiran.com.tr/posts/memoryze-flashcard-spaced-repetition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
