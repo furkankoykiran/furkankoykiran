@@ -139,11 +139,11 @@ Designing and implementing scalable cloud infrastructure solutions with automate
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python SDK ve CLI Araçları Geliştirme Deneyimlerim](https://blog.furkankoykiran.com.tr/posts/python-sdk-cli/)
+- [Güvenlik Açıkları ve API Geliştirmeleri: 3 Critical Fix](https://blog.furkankoykiran.com.tr/posts/security-api-fixes/)
+- [MCP Ekosistemi ve AI Platformlarına Açık Kaynak Katkılarım](https://blog.furkankoykiran.com.tr/posts/mcp-ai-contributions/)
 - [Yapay Zeka ile Yüz Doğrulama: AI-Face-Detector Projesinin Hikayesi](https://blog.furkankoykiran.com.tr/posts/ai-face-detector-yapay-zeka-ile-yuz-dogrulama/)
 - [AI Face Detector: Building a Deepfake Detection System with 95% Accuracy](https://blog.furkankoykiran.com.tr/posts/ai-face-detector-deepfake-detection-with-deep-learning/)
-- [Whop-MCP: The AI Revolution in Store Management and the Signalyze VIP Story](https://blog.furkankoykiran.com.tr/posts/whop-mcp-ai-revolution-and-store-management/)
-- [Whop-MCP: Mağaza Yönetiminde Yapay Zeka Devrimi ve Signalyze VIP Hikayesi](https://blog.furkankoykiran.com.tr/posts/whop-mcp-magaza-yonetimi-ai-devrimi/)
-- [Yapay Zeka ile Makale Yazıp, Hedefe Ulaşmak: DevTo-MCP &amp; Gemini Hackathon Deneyimi](https://blog.furkankoykiran.com.tr/posts/mcp-gemini-challenge-deneyimi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
