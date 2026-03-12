@@ -154,7 +154,7 @@ Designing and implementing scalable cloud infrastructure solutions with automate
 <!-- BLOG-POST-LIST:START -->
 <table>
 <tr>
-<td><sub><a href="https://furkankoykiran.github.io">📝 Visit my blog</a> | Latest posts temporarily unavailable</sub></td>
+<td><sub>📝 Check my blog at <a href="https://blog.furkankoykiran.com.tr">blog.furkankoykiran.com.tr</a></sub></td>
 </tr>
 </table>
 <!-- BLOG-POST-LIST:END -->

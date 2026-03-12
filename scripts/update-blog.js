@@ -8,7 +8,7 @@
 const https = require('https');
 const fs = require('fs');
 
-const BLOG_URL = 'https://furkankoykiran.github.io';
+const BLOG_URL = 'https://blog.furkankoykiran.com.tr';
 const RSS_FEED = `${BLOG_URL}/feed.xml`;
 const README_PATH = './README.md';
 const MAX_POSTS = 3;
