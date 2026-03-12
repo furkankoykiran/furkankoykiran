@@ -78,6 +78,10 @@ function formatEvent(event) {
   switch (event.type) {
     case 'PushEvent':
       const commitCount = event.payload.commits?.length || 0;
+      // Skip events with zero commits (empty pushes)
+      if (commitCount === 0) {
+        return null;
+      }
       const branch = event.payload.ref?.replace('refs/heads/', '') || 'branch';
       return `- **${date}** - Pushed ${commitCount} commit${commitCount !== 1 ? 's' : ''} to \`${branch}\` in [${repo}](${repo.startsWith(USERNAME) ? `https://github.com/${repo}` : `https://github.com/${repo}`})`;
 

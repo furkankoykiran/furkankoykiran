@@ -159,7 +159,7 @@ Creating decentralized applications and smart contract integrations with focus o
 
 <div align="center">
 
-[![Read More](https://img.shields.io/badge/Read%20More on%20Blog-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.furkankoykiran.com.tr)
+[![Read More](https://img.shields.io/badge/Read%20More-Blog-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.furkankoykiran.com.tr)
 [![Dev.to](https://img.shields.io/badge/Dev.to%20Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/furkankoykiran)
 
 </div>
