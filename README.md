@@ -110,9 +110,48 @@ me.say_hi()
 <!-- ACTIVITY_START -->
 <table>
 <tr>
-<td><sub>🔄 Loading recent activity...</sub></td>
+<td>📝 Pushed 0 commit to <a href="https://github.com/furkankoykiran/furkankoykiran">furkankoykiran</a></td>
+<td align="right"><sub>Just now</sub></td>
+</tr>
+<tr>
+<td>📝 Pushed 0 commit to <a href="https://github.com/furkankoykiran/furkankoykiran">furkankoykiran</a></td>
+<td align="right"><sub>Just now</sub></td>
+</tr>
+<tr>
+<td>💬 Commented on issue in <a href="https://github.com/microsoft/playwright">playwright</a></td>
+<td align="right"><sub>1h ago</sub></td>
+</tr>
+<tr>
+<td>📝 Pushed 0 commit to <a href="https://github.com/furkankoykiran/playwright">playwright</a></td>
+<td align="right"><sub>1h ago</sub></td>
+</tr>
+<tr>
+<td>🔱 Forked <a href="https://github.com/onfabric/context-use">context-use</a></td>
+<td align="right"><sub>1h ago</sub></td>
+</tr>
+<tr>
+<td>🔄 Merged PR #174 in <a href="https://github.com/teng-lin/notebooklm-py">notebooklm-py</a></td>
+<td align="right"><sub>17h ago</sub></td>
+</tr>
+<tr>
+<td>📝 Pushed 0 commit to <a href="https://github.com/furkankoykiran/blog.furkankoykiran.github.io">blog.furkankoykiran.github.io</a></td>
+<td align="right"><sub>19h ago</sub></td>
+</tr>
+<tr>
+<td>📝 Pushed 0 commit to <a href="https://github.com/furkankoykiran/blog.furkankoykiran.github.io">blog.furkankoykiran.github.io</a></td>
+<td align="right"><sub>20h ago</sub></td>
+</tr>
+<tr>
+<td>⭐ Starred <a href="https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs">patchright-nodejs</a></td>
+<td align="right"><sub>20h ago</sub></td>
+</tr>
+<tr>
+<td>⭐ Starred <a href="https://github.com/Kaliiiiiiiiii-Vinyzu/patchright">patchright</a></td>
+<td align="right"><sub>20h ago</sub></td>
 </tr>
 </table>
+
+<sub>Last updated: 2026-03-12 16:14:00 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
