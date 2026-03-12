@@ -128,16 +128,9 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Mar 12** - Pushed 0 commits to `main` in [furkankoykiran/furkankoykiran](https://github.com/furkankoykiran/furkankoykiran)
-- **Mar 12** - Pushed 0 commits to `main` in [furkankoykiran/furkankoykiran](https://github.com/furkankoykiran/furkankoykiran)
-- **Mar 12** - Pushed 0 commits to `main` in [furkankoykiran/furkankoykiran](https://github.com/furkankoykiran/furkankoykiran)
-- **Mar 12** - Pushed 0 commits to `main` in [furkankoykiran/furkankoykiran](https://github.com/furkankoykiran/furkankoykiran)
 - **Mar 12** - Commented on issue [#39625](https://github.com/microsoft/playwright/pull/39625#issuecomment-4047450884) in [microsoft/playwright](https://github.com/microsoft/playwright)
-- **Mar 12** - Pushed 0 commits to `main` in [furkankoykiran/playwright](https://github.com/furkankoykiran/playwright)
 - **Mar 12** - Forked [onfabric/context-use](https://github.com/onfabric/context-use)
 - **Mar 11** - Merged PR [#174](undefined) in [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py): undefined
-- **Mar 11** - Pushed 0 commits to `master` in [furkankoykiran/blog.furkankoykiran.github.io](https://github.com/furkankoykiran/blog.furkankoykiran.github.io)
-- **Mar 11** - Pushed 0 commits to `master` in [furkankoykiran/blog.furkankoykiran.github.io](https://github.com/furkankoykiran/blog.furkankoykiran.github.io)
 
 <!-- ACTIVITY_END -->
 
