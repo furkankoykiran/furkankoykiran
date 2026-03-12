@@ -1,12 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Furkan Köykıran
+# Hi, I'm Furkan Koykiran
 
-### 🚀 Python Developer | Web3 Enthusiast | Trading Systems Builder
+### Python Developer | Web3 Enthusiast | MCP Server Builder | Trading Systems
 
-[![Website](https://img.shields.io/badge/Website-furkankoykiran.com.tr-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white)](http://furkankoykiran.com.tr)
+[![Website](https://img.shields.io/badge/Website-furkankoykiran.com.tr-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://furkankoykiran.com.tr)
 [![Email](https://img.shields.io/badge/Email-furkankoykiran@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkankoykiran@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Turkey-red?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![Dev.to](https://img.shields.io/badge/Dev.to-furkankoykiran-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/furkankoykiran)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/furkankoykiran?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1c1917)](https://www.twitter.com/furkankoykiran)
 [![GitHub followers](https://img.shields.io/github/followers/furkankoykiran?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/furkankoykiran)
@@ -15,198 +16,171 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Furkan Köykıran"
-        self.role = "Python Developer & Web3 Enthusiast"
-        self.location = "Turkey 🇹🇷"
-        self.interests = [
-            "🐍 Python Development",
-            "🔗 Web3 & Blockchain",
-            "📈 Trading Systems & Automation",
-            "🤖 Bot Development",
-            "☁️ Cloud Infrastructure"
+        self.name = "Furkan Koykiran"
+        self.role = "Python Developer & MCP Specialist"
+        self.location = "Turkey"
+        self.focus = [
+            "Model Context Protocol (MCP) Servers",
+            "AI/ML Integration",
+            "Trading Automation",
+            "Web3 & Blockchain"
         ]
-        
-    def current_focus(self):
-        return [
-            "Building trading automation systems",
-            "Developing Web3 applications",
-            "Creating intelligent bots and automation tools",
-            "Exploring DeFi and blockchain technologies"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together!")
+
+    def building(self):
+        return {
+            "mcp_servers": ["OmniWire-MCP", "DevTo-MCP", "whop-mcp"],
+            "ai_tools": ["AI Face Detector", "Computer Vision"],
+            "trading": ["Telegram Wallet P2P SDK", "Market Analytics"],
+            "productivity": ["Memoryze", "Codelyze"]
+        }
 
 me = Developer()
-me.say_hi()
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🌐 Web3 & Blockchain
+### AI & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Web3 & Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-### 🔧 Frameworks & Tools
+### Tools & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=furkankoykiran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkankoykiran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=furkankoykiran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&card_width=500"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkankoykiran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500"/>
+</a>
 
 </div>
 
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkankoykiran&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkankoykiran&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furkankoykiran&theme=tokyo-night&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furkankoykiran&theme=tokyo-night&hide_border=true)
 
 </div>
 
 ---
 
-## 📊 Recent Activity
+## What I Build
+
+### Model Context Protocol (MCP) Servers
+Building production-ready MCP servers that bridge AI assistants with external services. Developing fault-tolerant news aggregation systems, community platform integrations, payment management solutions, and cryptocurrency trading analytics tools. Focus on TypeScript implementation with comprehensive error handling and real-time capabilities.
+
+### AI & Machine Learning
+Creating deep learning solutions for authenticity verification and computer vision applications. Building models for deepfake detection with high accuracy using transfer learning and modern neural network architectures. Developing automated testing and validation systems for AI-generated content.
+
+### Trading & Financial Automation
+Developing algorithmic trading systems for cryptocurrency and forex markets. Building real-time market analytics tools, spread analysis platforms, and peer-to-peer trading intelligence systems. Creating automated bots for various trading platforms with focus on risk management and performance optimization.
+
+### Productivity & Developer Tools
+Building spaced repetition knowledge management systems and coding profile analyzers. Creating tools that help developers track their competitive programming progress across multiple platforms. Developing automation solutions that streamline daily workflows and enhance productivity.
+
+### Web3 & Blockchain Applications
+Creating decentralized applications and smart contract integrations with focus on DeFi protocols and blockchain infrastructure. Building tools for cryptocurrency wallet management, P2P trading, and blockchain analytics.
+
+---
+
+## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
-<table>
-<tr>
-<td>📝 Pushed 0 commit to <a href="https://github.com/furkankoykiran/furkankoykiran">furkankoykiran</a></td>
-<td align="right"><sub>Just now</sub></td>
-</tr>
-<tr>
-<td>📝 Pushed 0 commit to <a href="https://github.com/furkankoykiran/furkankoykiran">furkankoykiran</a></td>
-<td align="right"><sub>Just now</sub></td>
-</tr>
-<tr>
-<td>💬 Commented on issue in <a href="https://github.com/microsoft/playwright">playwright</a></td>
-<td align="right"><sub>1h ago</sub></td>
-</tr>
-<tr>
-<td>📝 Pushed 0 commit to <a href="https://github.com/furkankoykiran/playwright">playwright</a></td>
-<td align="right"><sub>1h ago</sub></td>
-</tr>
-<tr>
-<td>🔱 Forked <a href="https://github.com/onfabric/context-use">context-use</a></td>
-<td align="right"><sub>1h ago</sub></td>
-</tr>
-<tr>
-<td>🔄 Merged PR #174 in <a href="https://github.com/teng-lin/notebooklm-py">notebooklm-py</a></td>
-<td align="right"><sub>17h ago</sub></td>
-</tr>
-<tr>
-<td>📝 Pushed 0 commit to <a href="https://github.com/furkankoykiran/blog.furkankoykiran.github.io">blog.furkankoykiran.github.io</a></td>
-<td align="right"><sub>19h ago</sub></td>
-</tr>
-<tr>
-<td>📝 Pushed 0 commit to <a href="https://github.com/furkankoykiran/blog.furkankoykiran.github.io">blog.furkankoykiran.github.io</a></td>
-<td align="right"><sub>20h ago</sub></td>
-</tr>
-<tr>
-<td>⭐ Starred <a href="https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs">patchright-nodejs</a></td>
-<td align="right"><sub>20h ago</sub></td>
-</tr>
-<tr>
-<td>⭐ Starred <a href="https://github.com/Kaliiiiiiiiii-Vinyzu/patchright">patchright</a></td>
-<td align="right"><sub>20h ago</sub></td>
-</tr>
-</table>
-
-<sub>Last updated: 2026-03-12 16:14:00 UTC</sub>
+<!-- This section is automatically updated with recent GitHub activity -->
+- **Mar 12** - Updated profile README
+- **Mar 11** - Published blog post: Python SDK ve CLI Araçları Geliştirme Deneyimlerim
+- **Mar 09** - Updated MCP server repositories
+- **Mar 08** - Contributed to open source projects
 <!-- ACTIVITY_END -->
 
 ---
 
-## 🚀 What I Build
+## Latest Articles
 
-### 🤖 Automation & Bot Development
-Building intelligent automation systems and bots that streamline workflows and enhance productivity across various platforms
+<table>
+<tr>
+<td><a href="https://blog.furkankoykiran.com.tr/posts/python-sdk-cli/">Python SDK ve CLI Araçları Geliştirme Deneyimlerim</a> <br><sub>Mar 11, 2026</sub></td>
+</tr>
+<tr>
+<td><a href="https://dev.to/furkankoykiran/whop-mcp-the-ai-revolution-in-store-management-and-the-signalyze-vip-story-2ede">Whop-MCP: The AI Revolution in Store Management</a> <br><sub>Mar 5, 2026</sub></td>
+</tr>
+<tr>
+<td><a href="https://dev.to/furkankoykiran/building-devto-mcp-bridging-forem-api-and-ai-assistants-with-google-gemini-4a58">Building DevTo-MCP with Google Gemini</a> <br><sub>Feb 27, 2026</sub></td>
+</tr>
+</table>
 
-### 📈 Trading & Financial Systems
-Developing sophisticated trading algorithms, market analysis tools, and automated trading systems for cryptocurrency and forex markets
+<div align="center">
 
-### 🔗 Web3 & Blockchain Applications
-Creating decentralized applications and smart contract integrations with focus on DeFi protocols and blockchain infrastructure
+[![Read More](https://img.shields.io/badge/Read%20More on%20Blog-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.furkankoykiran.com.tr)
+[![Dev.to](https://img.shields.io/badge/Dev.to%20Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/furkankoykiran)
 
-### ☁️ Infrastructure & DevOps
-Designing and implementing scalable cloud infrastructure solutions with automated deployment pipelines and monitoring systems
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkankoykiran)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/furkankoykiran)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/furkankoykiran)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/furkankoykiran)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@furkankoykiran)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/furkankoykiran)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@furkankoykiran)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/furkankoykiran)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/UCXGn4Rqllr3GISS6pwKkYhw)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/furkankoykiran)
 
 </div>
 
 ---
 
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Python SDK ve CLI Araçları Geliştirme Deneyimlerim](https://blog.furkankoykiran.com.tr/posts/python-sdk-cli/)
-- [Güvenlik Açıkları ve API Geliştirmeleri: 3 Critical Fix](https://blog.furkankoykiran.com.tr/posts/security-api-fixes/)
-- [MCP Ekosistemi ve AI Platformlarına Açık Kaynak Katkılarım](https://blog.furkankoykiran.com.tr/posts/mcp-ai-contributions/)
-- [Yapay Zeka ile Yüz Doğrulama: AI-Face-Detector Projesinin Hikayesi](https://blog.furkankoykiran.com.tr/posts/ai-face-detector-yapay-zeka-ile-yuz-dogrulama/)
-- [AI Face Detector: Building a Deepfake Detection System with 95% Accuracy](https://blog.furkankoykiran.com.tr/posts/ai-face-detector-deepfake-detection-with-deep-learning/)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💝 Support My Work
+## Support My Work
 
 <div align="center">
 
-If you find my projects helpful or interesting, consider buying me a coffee! ☕
+If you find my projects helpful, consider supporting me:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/furkankoykiran)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/furkankoykiran)
 
 </div>
 
@@ -214,7 +188,7 @@ If you find my projects helpful or interesting, consider buying me a coffee! ☕
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
@@ -225,6 +199,6 @@ If you find my projects helpful or interesting, consider buying me a coffee! ☕
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=furkankoykiran&color=0891b2&style=for-the-badge&label=Profile+Views)
 
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** 🚀
+**Thanks for visiting! Feel free to explore my repositories.**
 
 </div>
