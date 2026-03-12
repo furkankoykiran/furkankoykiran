@@ -105,6 +105,18 @@ me.say_hi()
 
 ---
 
+## 📊 Recent Activity
+
+<!-- ACTIVITY_START -->
+<table>
+<tr>
+<td><sub>🔄 Loading recent activity...</sub></td>
+</tr>
+</table>
+<!-- ACTIVITY_END -->
+
+---
+
 ## 🚀 What I Build
 
 ### 🤖 Automation & Bot Development
@@ -138,12 +150,13 @@ Designing and implementing scalable cloud infrastructure solutions with automate
 ---
 
 ## ✍️ Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
-- [Python SDK ve CLI Araçları Geliştirme Deneyimlerim](https://blog.furkankoykiran.com.tr/posts/python-sdk-cli/)
-- [Güvenlik Açıkları ve API Geliştirmeleri: 3 Critical Fix](https://blog.furkankoykiran.com.tr/posts/security-api-fixes/)
-- [MCP Ekosistemi ve AI Platformlarına Açık Kaynak Katkılarım](https://blog.furkankoykiran.com.tr/posts/mcp-ai-contributions/)
-- [Yapay Zeka ile Yüz Doğrulama: AI-Face-Detector Projesinin Hikayesi](https://blog.furkankoykiran.com.tr/posts/ai-face-detector-yapay-zeka-ile-yuz-dogrulama/)
-- [AI Face Detector: Building a Deepfake Detection System with 95% Accuracy](https://blog.furkankoykiran.com.tr/posts/ai-face-detector-deepfake-detection-with-deep-learning/)
+<table>
+<tr>
+<td><sub>📝 Check my blog at <a href="https://furkankoykiran.github.io">furkankoykiran.github.io</a></sub></td>
+</tr>
+</table>
 <!-- BLOG-POST-LIST:END -->
 
 ---
