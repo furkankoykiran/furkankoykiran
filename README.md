@@ -193,7 +193,7 @@ Designing and implementing scalable cloud infrastructure solutions with automate
 <!-- BLOG-POST-LIST:START -->
 <table>
 <tr>
-<td><sub>📝 Check my blog at <a href="https://blog.furkankoykiran.com.tr">blog.furkankoykiran.com.tr</a></sub></td>
+<td><sub>📝 Check my blog at <a href="https://blog.furkankoykiran.com.tr">furkankoykiran.github.io</a></sub></td>
 </tr>
 </table>
 <!-- BLOG-POST-LIST:END -->
