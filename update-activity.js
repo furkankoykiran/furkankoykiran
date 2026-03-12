@@ -8,7 +8,7 @@ const USERNAME = 'furkankoykiran';
 const README_PATH = path.join(__dirname, 'README.md');
 const ACTIVITY_START = '<!-- ACTIVITY_START -->';
 const ACTIVITY_END = '<!-- ACTIVITY_END -->';
-const TWENTY_FOUR_HOURS_MS = 24 * 60 * 60 * 1000;
+const FORTY_EIGHT_HOURS_MS = 48 * 60 * 60 * 1000;
 
 // Fetch GitHub events for the user
 function fetchGitHubEvents() {
@@ -57,12 +57,12 @@ function fetchGitHubEvents() {
   });
 }
 
-// Filter events from the last 24 hours
+// Filter events from the last 48 hours
 function filterRecentEvents(events) {
-  const oneDayAgo = new Date(Date.now() - TWENTY_FOUR_HOURS_MS);
+  const fortyEightHoursAgo = new Date(Date.now() - FORTY_EIGHT_HOURS_MS);
   return events.filter(event => {
     const eventDate = new Date(event.created_at);
-    return eventDate >= oneDayAgo;
+    return eventDate >= fortyEightHoursAgo;
   });
 }
 
@@ -211,7 +211,7 @@ async function main() {
     const activityContent = generateActivityContent(events);
 
     if (!activityContent) {
-      console.log('No meaningful activity in the last 24 hours');
+      console.log('No meaningful activity in the last 48 hours');
       // Still update to clear the section if it has old content
       const readme = fs.readFileSync(README_PATH, 'utf8');
       const startIndex = readme.indexOf(ACTIVITY_START);

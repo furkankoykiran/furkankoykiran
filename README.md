@@ -126,11 +126,11 @@ Creating decentralized applications and smart contract integrations with focus o
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
-<!-- This section is automatically updated daily with recent GitHub activity -->
+<!-- This section is automatically updated hourly with recent GitHub activity -->
 
 - **Mar 12** - Commented on issue [#39625](https://github.com/microsoft/playwright/pull/39625#issuecomment-4047450884) in [microsoft/playwright](https://github.com/microsoft/playwright)
 - **Mar 12** - Forked [onfabric/context-use](https://github.com/onfabric/context-use)
-- **Mar 11** - Merged PR [#174](undefined) in [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py): undefined
+- **Mar 11** - Merged PR [#174](https://github.com/teng-lin/notebooklm-py/pull/174) in [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)
 
 <!-- ACTIVITY_END -->
 
