@@ -135,7 +135,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 11** - Merged PR [#174](undefined) in [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py): undefined
 - **Mar 11** - Starred [Kaliiiiiiiiii-Vinyzu/patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs)
 - **Mar 11** - Starred [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright)
-- **Mar 11** - Starred [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
 
 <!-- ACTIVITY_END -->
 
