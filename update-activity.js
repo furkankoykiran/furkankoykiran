@@ -10,6 +10,17 @@ const ACTIVITY_START = '<!-- ACTIVITY_START -->';
 const ACTIVITY_END = '<!-- ACTIVITY_END -->';
 const FORTY_EIGHT_HOURS_MS = 48 * 60 * 60 * 1000;
 
+// Helper function to safely get repo URL
+function getRepoUrl(repoName) {
+  return `https://github.com/${repoName}`;
+}
+
+// Helper function to capitalize first letter
+function capitalize(str) {
+  if (!str) return '';
+  return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
 // Fetch GitHub events for the user
 function fetchGitHubEvents() {
   return new Promise((resolve, reject) => {
@@ -74,6 +85,7 @@ function formatEvent(event) {
   });
 
   const repo = event.repo.name;
+  const repoUrl = getRepoUrl(repo);
 
   switch (event.type) {
     case 'PushEvent':
@@ -83,46 +95,68 @@ function formatEvent(event) {
         return null;
       }
       const branch = event.payload.ref?.replace('refs/heads/', '') || 'branch';
-      return `- **${date}** - Pushed ${commitCount} commit${commitCount !== 1 ? 's' : ''} to \`${branch}\` in [${repo}](${repo.startsWith(USERNAME) ? `https://github.com/${repo}` : `https://github.com/${repo}`})`;
+      return `- **${date}** - Pushed ${commitCount} commit${commitCount !== 1 ? 's' : ''} to \`${branch}\` in [${repo}](${repoUrl})`;
 
-    case 'PullRequestEvent':
-      const action = event.payload.action;
-      const prNumber = event.payload.pull_request.number;
-      const prTitle = event.payload.pull_request.title;
-      return `- **${date}** - ${action.charAt(0).toUpperCase() + action.slice(1)} PR [#${prNumber}](${event.payload.pull_request.html_url}) in [${repo}](${repo.startsWith(USERNAME) ? `https://github.com/${repo}` : `https://github.com/${repo}`}): ${prTitle}`;
+    case 'PullRequestEvent': {
+      const action = event.payload.action || 'updated';
+      const pr = event.payload.pull_request || {};
+      const prNumber = pr.number || '?';
+      const prTitle = pr.title || 'Untitled PR';
+      const prUrl = pr.html_url || `${repoUrl}/pull/${prNumber}`;
+      return `- **${date}** - ${capitalize(action)} PR [#${prNumber}](${prUrl}) in [${repo}](${repoUrl}): ${prTitle}`;
+    }
 
-    case 'IssuesEvent':
-      const issueAction = event.payload.action;
-      const issueNumber = event.payload.issue.number;
-      const issueTitle = event.payload.issue.title;
-      return `- **${date}** - ${issueAction.charAt(0).toUpperCase() + issueAction.slice(1)} issue [#${issueNumber}](${event.payload.issue.html_url}) in [${repo}](${repo.startsWith(USERNAME) ? `https://github.com/${repo}` : `https://github.com/${repo}`}): ${issueTitle}`;
+    case 'IssuesEvent': {
+      const issueAction = event.payload.action || 'updated';
+      const issue = event.payload.issue || {};
+      const issueNumber = issue.number || '?';
+      const issueTitle = issue.title || 'Untitled Issue';
+      const issueUrl = issue.html_url || `${repoUrl}/issues/${issueNumber}`;
+      return `- **${date}** - ${capitalize(issueAction)} issue [#${issueNumber}](${issueUrl}) in [${repo}](${repoUrl}): ${issueTitle}`;
+    }
 
-    case 'IssueCommentEvent':
-      const commentIssueNumber = event.payload.issue.number;
-      return `- **${date}** - Commented on issue [#${commentIssueNumber}](${event.payload.comment.html_url}) in [${repo}](${repo.startsWith(USERNAME) ? `https://github.com/${repo}` : `https://github.com/${repo}`})`;
+    case 'IssueCommentEvent': {
+      const comment = event.payload.comment || {};
+      const issue = event.payload.issue || {};
+      const commentIssueNumber = issue.number || '?';
+      const commentUrl = comment.html_url || `${repoUrl}/issues/${commentIssueNumber}`;
+      return `- **${date}** - Commented on issue [#${commentIssueNumber}](${commentUrl}) in [${repo}](${repoUrl})`;
+    }
 
-    case 'PullRequestReviewEvent':
-      const reviewPrNumber = event.payload.pull_request.number;
-      return `- **${date}** - Reviewed PR [#${reviewPrNumber}](${event.payload.review.html_url}) in [${repo}](${repo.startsWith(USERNAME) ? `https://github.com/${repo}` : `https://github.com/${repo}`})`;
+    case 'PullRequestReviewEvent': {
+      const review = event.payload.review || {};
+      const reviewPr = event.payload.pull_request || {};
+      const reviewPrNumber = reviewPr.number || '?';
+      const reviewUrl = review.html_url || `${repoUrl}/pull/${reviewPrNumber}`;
+      return `- **${date}** - Reviewed PR [#${reviewPrNumber}](${reviewUrl}) in [${repo}](${repoUrl})`;
+    }
 
-    case 'PullRequestReviewCommentEvent':
-      const commentPrNumber = event.payload.pull_request.number;
-      return `- **${date}** - Commented on PR [#${commentPrNumber}](${event.payload.comment.html_url}) in [${repo}](${repo.startsWith(USERNAME) ? `https://github.com/${repo}` : `https://github.com/${repo}`})`;
+    case 'PullRequestReviewCommentEvent': {
+      const prComment = event.payload.comment || {};
+      const prCommentPr = event.payload.pull_request || {};
+      const commentPrNumber = prCommentPr.number || '?';
+      const prCommentUrl = prComment.html_url || `${repoUrl}/pull/${commentPrNumber}`;
+      return `- **${date}** - Commented on PR [#${commentPrNumber}](${prCommentUrl}) in [${repo}](${repoUrl})`;
+    }
 
-    case 'CreateEvent':
-      const refType = event.payload.ref_type;
+    case 'CreateEvent': {
+      const refType = event.payload.ref_type || 'repository';
       const ref = event.payload.ref || '';
-      return `- **${date}** - Created ${refType}${ref ? ` \`${ref}\`` : ''} in [${repo}](${repo.startsWith(USERNAME) ? `https://github.com/${repo}` : `https://github.com/${repo}`})`;
+      return `- **${date}** - Created ${refType}${ref ? ` \`${ref}\`` : ''} in [${repo}](${repoUrl})`;
+    }
 
     case 'ForkEvent':
-      return `- **${date}** - Forked [${repo}](${repo.startsWith(USERNAME) ? `https://github.com/${repo}` : `https://github.com/${repo}`})`;
+      return `- **${date}** - Forked [${repo}](${repoUrl})`;
 
     case 'WatchEvent':
-      return `- **${date}** - Starred [${repo}](${repo.startsWith(USERNAME) ? `https://github.com/${repo}` : `https://github.com/${repo}`})`;
+      return `- **${date}** - Starred [${repo}](${repoUrl})`;
 
-    case 'ReleaseEvent':
-      const releaseName = event.payload.release.name || event.payload.release.tag_name;
-      return `- **${date}** - Published release [${releaseName}](${event.payload.release.html_url}) in [${repo}](${repo.startsWith(USERNAME) ? `https://github.com/${repo}` : `https://github.com/${repo}`})`;
+    case 'ReleaseEvent': {
+      const release = event.payload.release || {};
+      const releaseName = release.name || release.tag_name || 'Release';
+      const releaseUrl = release.html_url || `${repoUrl}/releases`;
+      return `- **${date}** - Published release [${releaseName}](${releaseUrl}) in [${repo}](${repoUrl})`;
+    }
 
     default:
       return null;
