@@ -129,8 +129,6 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
 - **Mar 13** - Merged PR [#39625](https://github.com/microsoft/playwright/pull/39625) in [microsoft/playwright](https://github.com/microsoft/playwright): Untitled PR
-- **Mar 12** - Starred [google/A2UI](https://github.com/google/A2UI)
-- **Mar 12** - Starred [InsForge/InsForge](https://github.com/InsForge/InsForge)
 
 <!-- ACTIVITY_END -->
 
