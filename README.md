@@ -128,6 +128,10 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 15** - Commented on issue [#34781](https://github.com/anthropics/claude-code/issues/34781#issuecomment-4064130217) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+- **Mar 15** - Opened issue [#34781](https://github.com/anthropics/claude-code/issues/34781) in [anthropics/claude-code](https://github.com/anthropics/claude-code): [BUG] "Allow for all projects" permission not applied to pending MCP requests in same session
+- **Mar 15** - Forked [anthropics/claude-code](https://github.com/anthropics/claude-code)
+- **Mar 15** - Forked [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
 - **Mar 15** - Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
 - **Mar 15** - Starred [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
 - **Mar 15** - Starred [gnh1201/notebooklm-rest-api](https://github.com/gnh1201/notebooklm-rest-api)
@@ -144,10 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 15** - Closed PR [#3929](https://github.com/keploy/keploy/pull/3929) in [keploy/keploy](https://github.com/keploy/keploy): PR #3929
 - **Mar 15** - Starred [garrytan/gstack](https://github.com/garrytan/gstack)
 - **Mar 15** - Opened PR [#3929](https://github.com/keploy/keploy/pull/3929) in [keploy/keploy](https://github.com/keploy/keploy): PR #3929
-- **Mar 15** - Created branch `fix/3854-http-response-leak` in [furkankoykiran/keploy](https://github.com/furkankoykiran/keploy)
-- **Mar 15** - Commented on issue [#3827](https://github.com/keploy/keploy/issues/3827#issuecomment-4061773410) in [keploy/keploy](https://github.com/keploy/keploy)
-- **Mar 15** - Opened PR [#3928](https://github.com/keploy/keploy/pull/3928) in [keploy/keploy](https://github.com/keploy/keploy): PR #3928
-- **Mar 15** - Created branch `fix/starttcpdns-error-return` in [furkankoykiran/keploy](https://github.com/furkankoykiran/keploy)
 
 <!-- ACTIVITY_END -->
 
