@@ -8,7 +8,6 @@ const USERNAME = 'furkankoykiran';
 const README_PATH = path.join(__dirname, 'README.md');
 const ACTIVITY_START = '<!-- ACTIVITY_START -->';
 const ACTIVITY_END = '<!-- ACTIVITY_END -->';
-const FORTY_EIGHT_HOURS_MS = 48 * 60 * 60 * 1000;
 
 // Helper function to safely get repo URL
 function getRepoUrl(repoName) {
@@ -68,15 +67,6 @@ function fetchGitHubEvents() {
   });
 }
 
-// Filter events from the last 48 hours
-function filterRecentEvents(events) {
-  const fortyEightHoursAgo = new Date(Date.now() - FORTY_EIGHT_HOURS_MS);
-  return events.filter(event => {
-    const eventDate = new Date(event.created_at);
-    return eventDate >= fortyEightHoursAgo;
-  });
-}
-
 // Format event to a readable string
 function formatEvent(event) {
   const date = new Date(event.created_at).toLocaleDateString('en-US', {
@@ -101,7 +91,7 @@ function formatEvent(event) {
       const action = event.payload.action || 'updated';
       const pr = event.payload.pull_request || {};
       const prNumber = pr.number || '?';
-      const prTitle = pr.title || 'Untitled PR';
+      const prTitle = pr.title || `PR #${prNumber}`;
       const prUrl = pr.html_url || `${repoUrl}/pull/${prNumber}`;
       return `- **${date}** - ${capitalize(action)} PR [#${prNumber}](${prUrl}) in [${repo}](${repoUrl}): ${prTitle}`;
     }
@@ -110,7 +100,7 @@ function formatEvent(event) {
       const issueAction = event.payload.action || 'updated';
       const issue = event.payload.issue || {};
       const issueNumber = issue.number || '?';
-      const issueTitle = issue.title || 'Untitled Issue';
+      const issueTitle = issue.title || `Issue #${issueNumber}`;
       const issueUrl = issue.html_url || `${repoUrl}/issues/${issueNumber}`;
       return `- **${date}** - ${capitalize(issueAction)} issue [#${issueNumber}](${issueUrl}) in [${repo}](${repoUrl}): ${issueTitle}`;
     }
@@ -165,14 +155,12 @@ function formatEvent(event) {
 
 // Generate activity content
 function generateActivityContent(events) {
-  const recentEvents = filterRecentEvents(events);
-
-  if (recentEvents.length === 0) {
+  if (events.length === 0) {
     return null; // No activity to report
   }
 
   // Format events and filter out nulls
-  const formattedEvents = recentEvents
+  const formattedEvents = events
     .map(formatEvent)
     .filter(event => event !== null);
 
@@ -180,48 +168,120 @@ function generateActivityContent(events) {
     return null;
   }
 
-  // Limit to 10 most recent events
-  const limitedEvents = formattedEvents.slice(0, 10);
+  // Limit to 20 most recent events
+  const limitedEvents = formattedEvents.slice(0, 20);
 
   return `${ACTIVITY_START}\n<!-- This section is automatically updated daily with recent GitHub activity -->\n\n${limitedEvents.join('\n')}\n\n${ACTIVITY_END}`;
 }
 
+// Fetch blog posts from RSS feed
+function fetchBlogPosts() {
+  return new Promise((resolve, reject) => {
+    const options = {
+      hostname: 'blog.furkankoykiran.com.tr',
+      path: '/feed.xml',
+      method: 'GET',
+      headers: {
+        'User-Agent': 'Node.js'
+      }
+    };
+
+    https.get(options, (res) => {
+      let data = '';
+
+      res.on('data', (chunk) => {
+        data += chunk;
+      });
+
+      res.on('end', () => {
+        if (res.statusCode === 200) {
+          try {
+            // Parse RSS items using regex
+            const items = [];
+            const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+            let match;
+            let count = 0;
+
+            while ((match = itemRegex.exec(data)) !== null && count < 5) {
+              const itemContent = match[1];
+              const titleMatch = /<title><!\[CDATA\[(.*?)\]\]><\/title>|<title>(.*?)<\/title>/s.exec(itemContent);
+              const linkMatch = /<link>(.*?)<\/link>/.exec(itemContent);
+              const pubDateMatch = /<pubDate>(.*?)<\/pubDate>/.exec(itemContent);
+
+              if (titleMatch && linkMatch) {
+                const title = titleMatch[2] || titleMatch[1];
+                const link = linkMatch[1];
+                const pubDate = pubDateMatch ? new Date(pubDateMatch[1]).toLocaleDateString('en-US', {
+                  month: 'short', day: 'numeric', year: 'numeric'
+                }) : '';
+
+                items.push({ title, link, pubDate });
+                count++;
+              }
+            }
+            resolve(items);
+          } catch (error) {
+            reject(new Error(`Failed to parse blog feed: ${error.message}`));
+          }
+        } else {
+          reject(new Error(`Blog feed returned status ${res.statusCode}`));
+        }
+      });
+    }).on('error', (err) => {
+      reject(err);
+    });
+  });
+}
+
+// Format blog posts as markdown
+function formatBlogPosts(posts) {
+  if (!posts || posts.length === 0) {
+    return '<!-- No blog posts found -->';
+  }
+  return posts.map(post =>
+    `- [${post.title}](${post.link}) ${post.pubDate ? `(${post.pubDate})` : ''}`
+  ).join('\n');
+}
+
 // Get empty activity section content
-function getEmptySection() {
+function getEmptyActivitySection() {
   return `${ACTIVITY_START}\n<!-- This section is automatically updated daily with recent GitHub activity -->\n${ACTIVITY_END}`;
 }
 
-// Update README file
-function updateReadme(activityContent) {
+// Update README file with both activity and blog sections
+function updateReadmeSections(activityContent, blogContent) {
   const readme = fs.readFileSync(README_PATH, 'utf8');
+  let updatedReadme = readme;
 
-  // Find the activity section
-  const startIndex = readme.indexOf(ACTIVITY_START);
-  const endIndex = readme.indexOf(ACTIVITY_END);
+  // Update activity section
+  const activityStartIndex = readme.indexOf(ACTIVITY_START);
+  const activityEndIndex = readme.indexOf(ACTIVITY_END);
 
-  if (startIndex === -1 || endIndex === -1) {
+  if (activityStartIndex === -1 || activityEndIndex === -1) {
     console.error('Activity markers not found in README.md');
     process.exit(1);
   }
 
-  // If no activity, check if section is already empty
-  if (!activityContent) {
-    const currentSection = readme.substring(startIndex, endIndex + ACTIVITY_END.length);
-    const emptySection = getEmptySection();
+  const activitySection = activityContent || getEmptyActivitySection();
+  updatedReadme =
+    updatedReadme.substring(0, activityStartIndex) +
+    activitySection +
+    updatedReadme.substring(activityEndIndex + ACTIVITY_END.length);
 
-    if (currentSection.trim() === emptySection.trim()) {
-      console.log('No recent activity and section already empty. No changes needed.');
-      return false;
-    }
+  // Update blog section
+  const blogStart = '<!-- BLOG_START -->';
+  const blogEnd = '<!-- BLOG_END -->';
+  const blogStartIndex = updatedReadme.indexOf(blogStart);
+  const blogEndIndex = updatedReadme.indexOf(blogEnd);
 
-    activityContent = emptySection;
+  if (blogStartIndex !== -1 && blogEndIndex !== -1) {
+    updatedReadme =
+      updatedReadme.substring(0, blogStartIndex) +
+      blogContent +
+      updatedReadme.substring(blogEndIndex + blogEnd.length);
+  } else {
+    console.warn('Blog markers not found in README.md - skipping blog section update');
   }
-
-  // Replace the content between markers
-  const updatedReadme =
-    readme.substring(0, startIndex) +
-    activityContent +
-    readme.substring(endIndex + ACTIVITY_END.length);
 
   // Check if content actually changed
   if (readme === updatedReadme) {
@@ -242,30 +302,30 @@ async function main() {
 
     console.log(`Found ${events.length} total events`);
 
+    // Generate activity content
     const activityContent = generateActivityContent(events);
 
-    if (!activityContent) {
-      console.log('No meaningful activity in the last 48 hours');
-      // Still update to clear the section if it has old content
-      const readme = fs.readFileSync(README_PATH, 'utf8');
-      const startIndex = readme.indexOf(ACTIVITY_START);
-      const endIndex = readme.indexOf(ACTIVITY_END);
-
-      if (startIndex !== -1 && endIndex !== -1) {
-        const currentContent = readme.substring(startIndex, endIndex + ACTIVITY_END.length);
-        const emptyContent = getEmptySection();
-
-        if (currentContent !== emptyContent) {
-          updateReadme(null);
-        }
+    // Fetch blog posts
+    let blogContent = '<!-- BLOG_START -->\n<!-- This section is automatically updated with recent blog posts from personal blog -->\n<!-- BLOG_END -->';
+    try {
+      console.log('Fetching blog posts...');
+      const posts = await fetchBlogPosts();
+      if (posts.length > 0) {
+        console.log(`Found ${posts.length} blog posts`);
+        const formattedPosts = formatBlogPosts(posts);
+        blogContent = `<!-- BLOG_START -->\n<!-- This section is automatically updated with recent blog posts from personal blog -->\n\n${formattedPosts}\n\n<!-- BLOG_END -->`;
+      } else {
+        console.log('No blog posts found');
       }
-      return;
+    } catch (blogError) {
+      console.warn('Failed to fetch blog posts:', blogError.message);
     }
 
-    const updated = updateReadme(activityContent);
+    // Update README
+    const updated = updateReadmeSections(activityContent, blogContent);
 
     if (updated) {
-      console.log('Activity section updated with recent events');
+      console.log('Sections updated successfully');
     }
 
   } catch (error) {
