@@ -128,34 +128,36 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Mar 15** - Closed PR [#3930](https://github.com/keploy/keploy/pull/3930) in [keploy/keploy](https://github.com/keploy/keploy): Untitled PR
-- **Mar 15** - Opened PR [#3930](https://github.com/keploy/keploy/pull/3930) in [keploy/keploy](https://github.com/keploy/keploy): Untitled PR
-- **Mar 15** - Closed PR [#3929](https://github.com/keploy/keploy/pull/3929) in [keploy/keploy](https://github.com/keploy/keploy): Untitled PR
+- **Mar 15** - Commented on issue [#3854](https://github.com/keploy/keploy/issues/3854#issuecomment-4062095453) in [keploy/keploy](https://github.com/keploy/keploy)
+- **Mar 15** - Opened PR [#3932](https://github.com/keploy/keploy/pull/3932) in [keploy/keploy](https://github.com/keploy/keploy): PR #3932
+- **Mar 15** - Created branch `fix/3854-response-leak` in [furkankoykiran/keploy](https://github.com/furkankoykiran/keploy)
+- **Mar 15** - Closed PR [#3931](https://github.com/keploy/keploy/pull/3931) in [keploy/keploy](https://github.com/keploy/keploy): PR #3931
+- **Mar 15** - Opened PR [#3931](https://github.com/keploy/keploy/pull/3931) in [keploy/keploy](https://github.com/keploy/keploy): PR #3931
+- **Mar 15** - Created branch `fix/http-response-body-leak` in [furkankoykiran/keploy](https://github.com/furkankoykiran/keploy)
+- **Mar 15** - Closed PR [#3930](https://github.com/keploy/keploy/pull/3930) in [keploy/keploy](https://github.com/keploy/keploy): PR #3930
+- **Mar 15** - Opened PR [#3930](https://github.com/keploy/keploy/pull/3930) in [keploy/keploy](https://github.com/keploy/keploy): PR #3930
+- **Mar 15** - Closed PR [#3929](https://github.com/keploy/keploy/pull/3929) in [keploy/keploy](https://github.com/keploy/keploy): PR #3929
 - **Mar 15** - Starred [garrytan/gstack](https://github.com/garrytan/gstack)
-- **Mar 15** - Opened PR [#3929](https://github.com/keploy/keploy/pull/3929) in [keploy/keploy](https://github.com/keploy/keploy): Untitled PR
+- **Mar 15** - Opened PR [#3929](https://github.com/keploy/keploy/pull/3929) in [keploy/keploy](https://github.com/keploy/keploy): PR #3929
 - **Mar 15** - Created branch `fix/3854-http-response-leak` in [furkankoykiran/keploy](https://github.com/furkankoykiran/keploy)
 - **Mar 15** - Commented on issue [#3827](https://github.com/keploy/keploy/issues/3827#issuecomment-4061773410) in [keploy/keploy](https://github.com/keploy/keploy)
-- **Mar 15** - Opened PR [#3928](https://github.com/keploy/keploy/pull/3928) in [keploy/keploy](https://github.com/keploy/keploy): Untitled PR
+- **Mar 15** - Opened PR [#3928](https://github.com/keploy/keploy/pull/3928) in [keploy/keploy](https://github.com/keploy/keploy): PR #3928
 - **Mar 15** - Created branch `fix/starttcpdns-error-return` in [furkankoykiran/keploy](https://github.com/furkankoykiran/keploy)
 - **Mar 15** - Commented on issue [#3821](https://github.com/keploy/keploy/issues/3821#issuecomment-4061739892) in [keploy/keploy](https://github.com/keploy/keploy)
+- **Mar 15** - Commented on issue [#3927](https://github.com/keploy/keploy/pull/3927#issuecomment-4061736911) in [keploy/keploy](https://github.com/keploy/keploy)
+- **Mar 15** - Commented on issue [#3927](https://github.com/keploy/keploy/pull/3927#issuecomment-4061736492) in [keploy/keploy](https://github.com/keploy/keploy)
+- **Mar 14** - Opened PR [#3927](https://github.com/keploy/keploy/pull/3927) in [keploy/keploy](https://github.com/keploy/keploy): PR #3927
+- **Mar 14** - Created branch `fix/use-after-close-isgobinary` in [furkankoykiran/keploy](https://github.com/furkankoykiran/keploy)
 
 <!-- ACTIVITY_END -->
 
 ---
 
-## Latest Articles
+## Latest Blog Posts
 
-<table>
-<tr>
-<td><a href="https://blog.furkankoykiran.com.tr/posts/python-sdk-cli/">Python SDK ve CLI Araçları Geliştirme Deneyimlerim</a> <br><sub>Mar 11, 2026</sub></td>
-</tr>
-<tr>
-<td><a href="https://dev.to/furkankoykiran/whop-mcp-the-ai-revolution-in-store-management-and-the-signalyze-vip-story-2ede">Whop-MCP: The AI Revolution in Store Management</a> <br><sub>Mar 5, 2026</sub></td>
-</tr>
-<tr>
-<td><a href="https://dev.to/furkankoykiran/building-devto-mcp-bridging-forem-api-and-ai-assistants-with-google-gemini-4a58">Building DevTo-MCP with Google Gemini</a> <br><sub>Feb 27, 2026</sub></td>
-</tr>
-</table>
+<!-- BLOG_START -->
+<!-- This section is automatically updated with recent blog posts from personal blog -->
+<!-- BLOG_END -->
 
 <div align="center">
 
