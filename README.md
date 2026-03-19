@@ -128,6 +128,7 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 19** - Starred [jshuadvd/LongRoPE](https://github.com/jshuadvd/LongRoPE)
 - **Mar 18** - Starred [openai/parameter-golf](https://github.com/openai/parameter-golf)
 - **Mar 18** - Commented on issue [#1879](https://github.com/langchain-ai/deepagents/pull/1879#issuecomment-4079264525) in [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
 - **Mar 17** - Starred [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 17** - Starred [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
 - **Mar 17** - Commented on issue [#22758](https://github.com/google-gemini/gemini-cli/pull/22758#issuecomment-4072120344) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 - **Mar 17** - Commented on issue [#22563](https://github.com/google-gemini/gemini-cli/issues/22563#issuecomment-4072119641) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-- **Mar 17** - Commented on PR [#22758](https://github.com/google-gemini/gemini-cli/pull/22758#discussion_r2944128951) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 
 <!-- ACTIVITY_END -->
 
