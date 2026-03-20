@@ -128,6 +128,8 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 20** - Starred [Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)
+- **Mar 20** - Starred [varunr89/resume-tailoring-skill](https://github.com/varunr89/resume-tailoring-skill)
 - **Mar 20** - Merged PR [#3927](https://github.com/keploy/keploy/pull/3927) in [keploy/keploy](https://github.com/keploy/keploy): PR #3927
 - **Mar 20** - Merged PR [#3932](https://github.com/keploy/keploy/pull/3932) in [keploy/keploy](https://github.com/keploy/keploy): PR #3932
 - **Mar 20** - Starred [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright)
@@ -146,8 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 17** - Reviewed PR [#3927](https://github.com/keploy/keploy/pull/3927#pullrequestreview-3963648902) in [keploy/keploy](https://github.com/keploy/keploy)
 - **Mar 17** - Commented on PR [#3927](https://github.com/keploy/keploy/pull/3927#discussion_r2949449848) in [keploy/keploy](https://github.com/keploy/keploy)
 - **Mar 17** - Reviewed PR [#3927](https://github.com/keploy/keploy/pull/3927#pullrequestreview-3963648359) in [keploy/keploy](https://github.com/keploy/keploy)
-- **Mar 17** - Starred [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)
-- **Mar 17** - Starred [healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)
 
 <!-- ACTIVITY_END -->
 
