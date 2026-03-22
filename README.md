@@ -128,6 +128,9 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 22** - Starred [apireno/DOMShell](https://github.com/apireno/DOMShell)
+- **Mar 22** - Commented on issue [#118](https://github.com/HKUDS/CLI-Anything/pull/118#issuecomment-4105920625) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- **Mar 22** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3986735434) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Mar 21** - Commented on issue [#90](https://github.com/HKUDS/CLI-Anything/issues/90#issuecomment-4104825647) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Mar 21** - Commented on issue [#118](https://github.com/HKUDS/CLI-Anything/pull/118#issuecomment-4104090755) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Mar 21** - Commented on issue [#118](https://github.com/HKUDS/CLI-Anything/pull/118#issuecomment-4104017864) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
@@ -145,9 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 21** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3986456485) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Mar 21** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2969991145) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Mar 21** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3986456024) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 21** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2969990925) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 21** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3986455781) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 21** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2969990749) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
 <!-- ACTIVITY_END -->
 
