@@ -147,7 +147,7 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355631) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Mar 22** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3987996659) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Mar 22** - Commented on issue [#118](https://github.com/HKUDS/CLI-Anything/pull/118#issuecomment-4105965022) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Forked [apireno/DOMShell](https://github.com/apireno/DOMShell)
+- **Mar 22** - Starred [apireno/DOMShell](https://github.com/apireno/DOMShell)
 
 <!-- ACTIVITY_END -->
 
