@@ -128,6 +128,7 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 24** - Closed issue [#12817](https://github.com/lobehub/lobehub/issues/12817) in [lobehub/lobehub](https://github.com/lobehub/lobehub): 🐛 Regression: Onboarding crash when clicking model selection dropdown (React Error #185)
 - **Mar 22** - Merged PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): PR #118
 - **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355751) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Mar 22** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3987996762) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355671) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355631) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Mar 22** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3987996659) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Commented on issue [#118](https://github.com/HKUDS/CLI-Anything/pull/118#issuecomment-4105965022) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
 <!-- ACTIVITY_END -->
 
