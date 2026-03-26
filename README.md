@@ -128,6 +128,10 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 26** - Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
+- **Mar 25** - Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+- **Mar 25** - Starred [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
+- **Mar 25** - Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
 - **Mar 25** - Starred [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 - **Mar 24** - Closed issue [#12817](https://github.com/lobehub/lobehub/issues/12817) in [lobehub/lobehub](https://github.com/lobehub/lobehub): 🐛 Regression: Onboarding crash when clicking model selection dropdown (React Error #185)
 - **Mar 22** - Merged PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): PR #118
@@ -144,10 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355716) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Mar 22** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3987996731) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355690) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3987996703) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3987996686) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355671) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355631) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
 <!-- ACTIVITY_END -->
 
