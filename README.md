@@ -128,6 +128,18 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 27** - Merged PR [#4](https://github.com/furkankoykiran/awesome-trending-repos/pull/4) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #4
+- **Mar 27** - Opened PR [#4](https://github.com/furkankoykiran/awesome-trending-repos/pull/4) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #4
+- **Mar 27** - Created branch `fix/github-pages-direct-deploy` in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
+- **Mar 27** - Opened PR [#156](https://github.com/HKUDS/CLI-Anything/pull/156) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): PR #156
+- **Mar 27** - Created branch `security/domshell-security-hardening` in [furkankoykiran/CLI-Anything](https://github.com/furkankoykiran/CLI-Anything)
+- **Mar 27** - Opened issue [#155](https://github.com/HKUDS/CLI-Anything/issues/155) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): [Security]: Browser DOMShell MCP hardening - remaining attack surfaces
+- **Mar 27** - Merged PR [#3](https://github.com/furkankoykiran/awesome-trending-repos/pull/3) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #3
+- **Mar 27** - Opened PR [#3](https://github.com/furkankoykiran/awesome-trending-repos/pull/3) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #3
+- **Mar 27** - Created branch `fix/ci-failure-and-readme` in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
+- **Mar 27** - Merged PR [#2](https://github.com/furkankoykiran/awesome-trending-repos/pull/2) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #2
+- **Mar 27** - Opened PR [#2](https://github.com/furkankoykiran/awesome-trending-repos/pull/2) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #2
+- **Mar 27** - Created branch `feature/modern-platform` in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
 - **Mar 26** - Starred [xdevplatform/twitter-python-ads-sdk](https://github.com/xdevplatform/twitter-python-ads-sdk)
 - **Mar 26** - Forked [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
 - **Mar 26** - Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
@@ -136,18 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 25** - Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
 - **Mar 25** - Starred [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 - **Mar 24** - Closed issue [#12817](https://github.com/lobehub/lobehub/issues/12817) in [lobehub/lobehub](https://github.com/lobehub/lobehub): 🐛 Regression: Onboarding crash when clicking model selection dropdown (React Error #185)
-- **Mar 22** - Merged PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): PR #118
-- **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355751) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3987996762) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355908) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3987996865) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355881) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3987996841) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355844) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3987996821) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355825) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Reviewed PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#pullrequestreview-3987996802) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 22** - Commented on PR [#118](https://github.com/HKUDS/CLI-Anything/pull/118#discussion_r2971355716) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
 <!-- ACTIVITY_END -->
 
