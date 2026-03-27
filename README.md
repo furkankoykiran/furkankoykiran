@@ -128,6 +128,11 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 27** - Opened issue [#157](https://github.com/HKUDS/CLI-Anything/issues/157) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): [Feature]: Browser DOMShell MCP Security Hardening - Phase 2
+- **Mar 27** - Merged PR [#5](https://github.com/furkankoykiran/awesome-trending-repos/pull/5) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #5
+- **Mar 27** - Opened PR [#5](https://github.com/furkankoykiran/awesome-trending-repos/pull/5) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #5
+- **Mar 27** - Created branch `modernize-and-cleanup` in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
+- **Mar 27** - Commented on issue [#156](https://github.com/HKUDS/CLI-Anything/pull/156#issuecomment-4144129323) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Mar 27** - Merged PR [#4](https://github.com/furkankoykiran/awesome-trending-repos/pull/4) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #4
 - **Mar 27** - Opened PR [#4](https://github.com/furkankoykiran/awesome-trending-repos/pull/4) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #4
 - **Mar 27** - Created branch `fix/github-pages-direct-deploy` in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
@@ -143,11 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 26** - Starred [xdevplatform/twitter-python-ads-sdk](https://github.com/xdevplatform/twitter-python-ads-sdk)
 - **Mar 26** - Forked [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
 - **Mar 26** - Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
-- **Mar 25** - Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
-- **Mar 25** - Starred [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
-- **Mar 25** - Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
-- **Mar 25** - Starred [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
-- **Mar 24** - Closed issue [#12817](https://github.com/lobehub/lobehub/issues/12817) in [lobehub/lobehub](https://github.com/lobehub/lobehub): 🐛 Regression: Onboarding crash when clicking model selection dropdown (React Error #185)
 
 <!-- ACTIVITY_END -->
 
