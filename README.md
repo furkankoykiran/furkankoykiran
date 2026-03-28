@@ -128,6 +128,8 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 28** - Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)
+- **Mar 28** - Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
 - **Mar 28** - Starred [poshan0126/dotclaude](https://github.com/poshan0126/dotclaude)
 - **Mar 28** - Starred [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - **Mar 28** - Starred [ton-blockchain/wallet-contract-v5](https://github.com/ton-blockchain/wallet-contract-v5)
@@ -146,8 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 27** - Merged PR [#4](https://github.com/furkankoykiran/awesome-trending-repos/pull/4) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #4
 - **Mar 27** - Opened PR [#4](https://github.com/furkankoykiran/awesome-trending-repos/pull/4) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #4
 - **Mar 27** - Created branch `fix/github-pages-direct-deploy` in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
-- **Mar 27** - Opened PR [#156](https://github.com/HKUDS/CLI-Anything/pull/156) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): PR #156
-- **Mar 27** - Created branch `security/domshell-security-hardening` in [furkankoykiran/CLI-Anything](https://github.com/furkankoykiran/CLI-Anything)
 
 <!-- ACTIVITY_END -->
 
