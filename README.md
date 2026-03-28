@@ -128,6 +128,8 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 28** - Starred [ton-blockchain/wallet-contract-v5](https://github.com/ton-blockchain/wallet-contract-v5)
+- **Mar 28** - Starred [AminForou/mcp-gsc](https://github.com/AminForou/mcp-gsc)
 - **Mar 28** - Starred [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
 - **Mar 28** - Starred [openai/codex](https://github.com/openai/codex)
 - **Mar 28** - Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
@@ -146,8 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 27** - Created branch `security/domshell-security-hardening` in [furkankoykiran/CLI-Anything](https://github.com/furkankoykiran/CLI-Anything)
 - **Mar 27** - Opened issue [#155](https://github.com/HKUDS/CLI-Anything/issues/155) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): [Security]: Browser DOMShell MCP hardening - remaining attack surfaces
 - **Mar 27** - Merged PR [#3](https://github.com/furkankoykiran/awesome-trending-repos/pull/3) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #3
-- **Mar 27** - Opened PR [#3](https://github.com/furkankoykiran/awesome-trending-repos/pull/3) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #3
-- **Mar 27** - Created branch `fix/ci-failure-and-readme` in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
 
 <!-- ACTIVITY_END -->
 
