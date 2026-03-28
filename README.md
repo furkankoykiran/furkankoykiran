@@ -128,6 +128,11 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 28** - Starred [block/goose](https://github.com/block/goose)
+- **Mar 28** - Commented on issue [#1021](https://github.com/github/spec-kit/issues/1021#issuecomment-4148943530) in [github/spec-kit](https://github.com/github/spec-kit)
+- **Mar 28** - Commented on issue [#1021](https://github.com/github/spec-kit/issues/1021#issuecomment-4148942010) in [github/spec-kit](https://github.com/github/spec-kit)
+- **Mar 28** - Opened PR [#2015](https://github.com/github/spec-kit/pull/2015) in [github/spec-kit](https://github.com/github/spec-kit): PR #2015
+- **Mar 28** - Created branch `add-goose-agent-support` in [furkankoykiran/spec-kit](https://github.com/furkankoykiran/spec-kit)
 - **Mar 28** - Forked [github/spec-kit](https://github.com/github/spec-kit)
 - **Mar 28** - Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)
 - **Mar 28** - Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
@@ -143,11 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 27** - Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - **Mar 27** - Opened issue [#157](https://github.com/HKUDS/CLI-Anything/issues/157) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): [Feature]: Browser DOMShell MCP Security Hardening - Phase 2
 - **Mar 27** - Merged PR [#5](https://github.com/furkankoykiran/awesome-trending-repos/pull/5) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #5
-- **Mar 27** - Opened PR [#5](https://github.com/furkankoykiran/awesome-trending-repos/pull/5) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #5
-- **Mar 27** - Created branch `modernize-and-cleanup` in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
-- **Mar 27** - Commented on issue [#156](https://github.com/HKUDS/CLI-Anything/pull/156#issuecomment-4144129323) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- **Mar 27** - Merged PR [#4](https://github.com/furkankoykiran/awesome-trending-repos/pull/4) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #4
-- **Mar 27** - Opened PR [#4](https://github.com/furkankoykiran/awesome-trending-repos/pull/4) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #4
 
 <!-- ACTIVITY_END -->
 
