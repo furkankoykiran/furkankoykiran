@@ -128,6 +128,12 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 28** - Starred [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
+- **Mar 28** - Starred [openai/codex](https://github.com/openai/codex)
+- **Mar 28** - Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+- **Mar 27** - Starred [datalab-to/chandra](https://github.com/datalab-to/chandra)
+- **Mar 27** - Starred [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+- **Mar 27** - Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - **Mar 27** - Opened issue [#157](https://github.com/HKUDS/CLI-Anything/issues/157) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): [Feature]: Browser DOMShell MCP Security Hardening - Phase 2
 - **Mar 27** - Merged PR [#5](https://github.com/furkankoykiran/awesome-trending-repos/pull/5) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #5
 - **Mar 27** - Opened PR [#5](https://github.com/furkankoykiran/awesome-trending-repos/pull/5) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #5
@@ -142,12 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 27** - Merged PR [#3](https://github.com/furkankoykiran/awesome-trending-repos/pull/3) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #3
 - **Mar 27** - Opened PR [#3](https://github.com/furkankoykiran/awesome-trending-repos/pull/3) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #3
 - **Mar 27** - Created branch `fix/ci-failure-and-readme` in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
-- **Mar 27** - Merged PR [#2](https://github.com/furkankoykiran/awesome-trending-repos/pull/2) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #2
-- **Mar 27** - Opened PR [#2](https://github.com/furkankoykiran/awesome-trending-repos/pull/2) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #2
-- **Mar 27** - Created branch `feature/modern-platform` in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
-- **Mar 26** - Starred [xdevplatform/twitter-python-ads-sdk](https://github.com/xdevplatform/twitter-python-ads-sdk)
-- **Mar 26** - Forked [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-- **Mar 26** - Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
 
 <!-- ACTIVITY_END -->
 
