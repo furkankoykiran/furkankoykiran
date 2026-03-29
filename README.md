@@ -128,6 +128,8 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 29** - Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+- **Mar 29** - Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 - **Mar 28** - Starred [block/goose](https://github.com/block/goose)
 - **Mar 28** - Commented on issue [#1021](https://github.com/github/spec-kit/issues/1021#issuecomment-4148943530) in [github/spec-kit](https://github.com/github/spec-kit)
 - **Mar 28** - Commented on issue [#1021](https://github.com/github/spec-kit/issues/1021#issuecomment-4148942010) in [github/spec-kit](https://github.com/github/spec-kit)
@@ -146,8 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 27** - Starred [datalab-to/chandra](https://github.com/datalab-to/chandra)
 - **Mar 27** - Starred [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 - **Mar 27** - Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
-- **Mar 27** - Opened issue [#157](https://github.com/HKUDS/CLI-Anything/issues/157) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): [Feature]: Browser DOMShell MCP Security Hardening - Phase 2
-- **Mar 27** - Merged PR [#5](https://github.com/furkankoykiran/awesome-trending-repos/pull/5) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #5
 
 <!-- ACTIVITY_END -->
 
