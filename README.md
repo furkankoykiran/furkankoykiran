@@ -128,6 +128,7 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 30** - Starred [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp)
 - **Mar 30** - Commented on issue [#2015](https://github.com/github/spec-kit/pull/2015#issuecomment-4157672404) in [github/spec-kit](https://github.com/github/spec-kit)
 - **Mar 29** - Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 - **Mar 29** - Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 28** - Starred [openai/codex](https://github.com/openai/codex)
 - **Mar 28** - Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 - **Mar 27** - Starred [datalab-to/chandra](https://github.com/datalab-to/chandra)
-- **Mar 27** - Starred [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 
 <!-- ACTIVITY_END -->
 
