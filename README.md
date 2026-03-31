@@ -128,6 +128,13 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 31** - Reviewed PR [#2015](https://github.com/github/spec-kit/pull/2015#pullrequestreview-4038570236) in [github/spec-kit](https://github.com/github/spec-kit)
+- **Mar 31** - Commented on issue [#2015](https://github.com/github/spec-kit/pull/2015#issuecomment-4163858185) in [github/spec-kit](https://github.com/github/spec-kit)
+- **Mar 31** - Commented on PR [#2015](https://github.com/github/spec-kit/pull/2015#discussion_r3016963574) in [github/spec-kit](https://github.com/github/spec-kit)
+- **Mar 31** - Commented on PR [#2015](https://github.com/github/spec-kit/pull/2015#discussion_r3016963808) in [github/spec-kit](https://github.com/github/spec-kit)
+- **Mar 31** - Commented on PR [#2015](https://github.com/github/spec-kit/pull/2015#discussion_r3016963325) in [github/spec-kit](https://github.com/github/spec-kit)
+- **Mar 31** - Reviewed PR [#2015](https://github.com/github/spec-kit/pull/2015#pullrequestreview-4038570932) in [github/spec-kit](https://github.com/github/spec-kit)
+- **Mar 31** - Reviewed PR [#2015](https://github.com/github/spec-kit/pull/2015#pullrequestreview-4038570570) in [github/spec-kit](https://github.com/github/spec-kit)
 - **Mar 31** - Commented on issue [#306729](https://github.com/microsoft/vscode/issues/306729#issuecomment-4163462425) in [microsoft/vscode](https://github.com/microsoft/vscode)
 - **Mar 30** - Starred [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp)
 - **Mar 30** - Commented on issue [#2015](https://github.com/github/spec-kit/pull/2015#issuecomment-4157672404) in [github/spec-kit](https://github.com/github/spec-kit)
@@ -141,13 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 28** - Forked [github/spec-kit](https://github.com/github/spec-kit)
 - **Mar 28** - Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)
 - **Mar 28** - Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
-- **Mar 28** - Starred [poshan0126/dotclaude](https://github.com/poshan0126/dotclaude)
-- **Mar 28** - Starred [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- **Mar 28** - Starred [ton-blockchain/wallet-contract-v5](https://github.com/ton-blockchain/wallet-contract-v5)
-- **Mar 28** - Starred [AminForou/mcp-gsc](https://github.com/AminForou/mcp-gsc)
-- **Mar 28** - Starred [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
-- **Mar 28** - Starred [openai/codex](https://github.com/openai/codex)
-- **Mar 28** - Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 <!-- ACTIVITY_END -->
 
