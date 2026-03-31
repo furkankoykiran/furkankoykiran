@@ -128,6 +128,7 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 31** - Commented on issue [#306729](https://github.com/microsoft/vscode/issues/306729#issuecomment-4163462425) in [microsoft/vscode](https://github.com/microsoft/vscode)
 - **Mar 30** - Starred [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp)
 - **Mar 30** - Commented on issue [#2015](https://github.com/github/spec-kit/pull/2015#issuecomment-4157672404) in [github/spec-kit](https://github.com/github/spec-kit)
 - **Mar 29** - Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Mar 28** - Starred [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
 - **Mar 28** - Starred [openai/codex](https://github.com/openai/codex)
 - **Mar 28** - Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
-- **Mar 27** - Starred [datalab-to/chandra](https://github.com/datalab-to/chandra)
 
 <!-- ACTIVITY_END -->
 
