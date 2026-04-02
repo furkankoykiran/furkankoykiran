@@ -128,6 +128,12 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 2** - Starred [harish-garg/Awesome-Polymarket-Tools](https://github.com/harish-garg/Awesome-Polymarket-Tools)
+- **Apr 2** - Starred [Polymarket/agents](https://github.com/Polymarket/agents)
+- **Apr 2** - Starred [discountry/polymarket-trading-bot](https://github.com/discountry/polymarket-trading-bot)
+- **Apr 2** - Starred [caiovicentino/polymarket-mcp-server](https://github.com/caiovicentino/polymarket-mcp-server)
+- **Apr 2** - Starred [lazy-dinosaur/ccxt-mcp](https://github.com/lazy-dinosaur/ccxt-mcp)
+- **Apr 2** - Starred [kukapay/freqtrade-mcp](https://github.com/kukapay/freqtrade-mcp)
 - **Apr 2** - Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
 - **Apr 2** - Starred [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent)
 - **Apr 2** - Labeled issue [#10](https://github.com/furkankoykiran/OmniWire-MCP/issues/10) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] Keyword extraction from news item titles
@@ -142,12 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 1** - Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
 - **Apr 1** - Starred [kafein-technology/KAI-Flow](https://github.com/kafein-technology/KAI-Flow)
 - **Apr 1** - Commented on issue [#39984](https://github.com/microsoft/playwright/pull/39984#issuecomment-4170233101) in [microsoft/playwright](https://github.com/microsoft/playwright)
-- **Apr 1** - Commented on issue [#2015](https://github.com/github/spec-kit/pull/2015#issuecomment-4170210367) in [github/spec-kit](https://github.com/github/spec-kit)
-- **Apr 1** - Commented on PR [#2015](https://github.com/github/spec-kit/pull/2015#discussion_r3022196890) in [github/spec-kit](https://github.com/github/spec-kit)
-- **Apr 1** - Reviewed PR [#2015](https://github.com/github/spec-kit/pull/2015#pullrequestreview-4044308125) in [github/spec-kit](https://github.com/github/spec-kit)
-- **Apr 1** - Commented on PR [#2015](https://github.com/github/spec-kit/pull/2015#discussion_r3022195687) in [github/spec-kit](https://github.com/github/spec-kit)
-- **Apr 1** - Reviewed PR [#2015](https://github.com/github/spec-kit/pull/2015#pullrequestreview-4044306786) in [github/spec-kit](https://github.com/github/spec-kit)
-- **Apr 1** - Reviewed PR [#2015](https://github.com/github/spec-kit/pull/2015#pullrequestreview-4044305696) in [github/spec-kit](https://github.com/github/spec-kit)
 
 <!-- ACTIVITY_END -->
 
