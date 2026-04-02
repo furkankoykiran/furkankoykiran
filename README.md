@@ -128,6 +128,14 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 2** - Labeled issue [#10](https://github.com/furkankoykiran/OmniWire-MCP/issues/10) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] Keyword extraction from news item titles
+- **Apr 2** - Opened issue [#10](https://github.com/furkankoykiran/OmniWire-MCP/issues/10) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] Keyword extraction from news item titles
+- **Apr 2** - Labeled issue [#9](https://github.com/furkankoykiran/OmniWire-MCP/issues/9) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] XML entity expansion limit protection in RSS adapter
+- **Apr 2** - Opened issue [#9](https://github.com/furkankoykiran/OmniWire-MCP/issues/9) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] XML entity expansion limit protection in RSS adapter
+- **Apr 2** - Labeled issue [#8](https://github.com/furkankoykiran/OmniWire-MCP/issues/8) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] Cross-source deduplication in fetch-news results
+- **Apr 2** - Opened issue [#8](https://github.com/furkankoykiran/OmniWire-MCP/issues/8) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] Cross-source deduplication in fetch-news results
+- **Apr 2** - Labeled issue [#7](https://github.com/furkankoykiran/OmniWire-MCP/issues/7) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] Built-in threat classification for news items
+- **Apr 2** - Opened issue [#7](https://github.com/furkankoykiran/OmniWire-MCP/issues/7) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] Built-in threat classification for news items
 - **Apr 1** - Starred [oraios/serena](https://github.com/oraios/serena)
 - **Apr 1** - Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
 - **Apr 1** - Starred [kafein-technology/KAI-Flow](https://github.com/kafein-technology/KAI-Flow)
@@ -140,14 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 1** - Reviewed PR [#2015](https://github.com/github/spec-kit/pull/2015#pullrequestreview-4044305696) in [github/spec-kit](https://github.com/github/spec-kit)
 - **Apr 1** - Commented on PR [#2015](https://github.com/github/spec-kit/pull/2015#discussion_r3022194747) in [github/spec-kit](https://github.com/github/spec-kit)
 - **Apr 1** - Commented on issue [#3993](https://github.com/keploy/keploy/pull/3993#issuecomment-4167848753) in [keploy/keploy](https://github.com/keploy/keploy)
-- **Apr 1** - Commented on PR [#3993](https://github.com/keploy/keploy/pull/3993#discussion_r3020059719) in [keploy/keploy](https://github.com/keploy/keploy)
-- **Apr 1** - Reviewed PR [#3993](https://github.com/keploy/keploy/pull/3993#pullrequestreview-4041977786) in [keploy/keploy](https://github.com/keploy/keploy)
-- **Apr 1** - Commented on PR [#3993](https://github.com/keploy/keploy/pull/3993#discussion_r3020059493) in [keploy/keploy](https://github.com/keploy/keploy)
-- **Apr 1** - Reviewed PR [#3993](https://github.com/keploy/keploy/pull/3993#pullrequestreview-4041977574) in [keploy/keploy](https://github.com/keploy/keploy)
-- **Apr 1** - Commented on PR [#3993](https://github.com/keploy/keploy/pull/3993#discussion_r3020058370) in [keploy/keploy](https://github.com/keploy/keploy)
-- **Apr 1** - Reviewed PR [#3993](https://github.com/keploy/keploy/pull/3993#pullrequestreview-4041976559) in [keploy/keploy](https://github.com/keploy/keploy)
-- **Apr 1** - Commented on PR [#3993](https://github.com/keploy/keploy/pull/3993#discussion_r3020058162) in [keploy/keploy](https://github.com/keploy/keploy)
-- **Apr 1** - Reviewed PR [#3993](https://github.com/keploy/keploy/pull/3993#pullrequestreview-4041976383) in [keploy/keploy](https://github.com/keploy/keploy)
 
 <!-- ACTIVITY_END -->
 
