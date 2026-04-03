@@ -128,6 +128,7 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 3** - Commented on issue [#39984](https://github.com/microsoft/playwright/pull/39984#issuecomment-4183934329) in [microsoft/playwright](https://github.com/microsoft/playwright)
 - **Apr 3** - Starred [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server)
 - **Apr 2** - Starred [harish-garg/Awesome-Polymarket-Tools](https://github.com/harish-garg/Awesome-Polymarket-Tools)
 - **Apr 2** - Starred [Polymarket/agents](https://github.com/Polymarket/agents)
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 2** - Opened issue [#7](https://github.com/furkankoykiran/OmniWire-MCP/issues/7) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] Built-in threat classification for news items
 - **Apr 1** - Starred [oraios/serena](https://github.com/oraios/serena)
 - **Apr 1** - Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
-- **Apr 1** - Starred [kafein-technology/KAI-Flow](https://github.com/kafein-technology/KAI-Flow)
 
 <!-- ACTIVITY_END -->
 
