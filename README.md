@@ -128,6 +128,13 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 4** - Merged PR [#2](https://github.com/furkankoykiran/coderlegion-mcp/pull/2) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #2
+- **Apr 4** - Opened PR [#2](https://github.com/furkankoykiran/coderlegion-mcp/pull/2) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #2
+- **Apr 4** - Created branch `feat/scoped-package-and-publish-config` in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp)
+- **Apr 4** - Published release [v1.0.0 — Initial Release](https://github.com/furkankoykiran/coderlegion-mcp/releases/tag/untagged-293fb2f82a2dafcfb442) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp)
+- **Apr 4** - Merged PR [#1](https://github.com/furkankoykiran/coderlegion-mcp/pull/1) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #1
+- **Apr 4** - Opened PR [#1](https://github.com/furkankoykiran/coderlegion-mcp/pull/1) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #1
+- **Apr 4** - Created branch `feat/initial-typescript-mcp-server` in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp)
 - **Apr 4** - Starred [furkankoykiran/freqtrade-mcp](https://github.com/furkankoykiran/freqtrade-mcp)
 - **Apr 4** - Merged PR [#2](https://github.com/furkankoykiran/freqtrade-mcp/pull/2) in [furkankoykiran/freqtrade-mcp](https://github.com/furkankoykiran/freqtrade-mcp): PR #2
 - **Apr 4** - Opened PR [#2](https://github.com/furkankoykiran/freqtrade-mcp/pull/2) in [furkankoykiran/freqtrade-mcp](https://github.com/furkankoykiran/freqtrade-mcp): PR #2
@@ -141,13 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 2** - Starred [Polymarket/agents](https://github.com/Polymarket/agents)
 - **Apr 2** - Starred [discountry/polymarket-trading-bot](https://github.com/discountry/polymarket-trading-bot)
 - **Apr 2** - Starred [caiovicentino/polymarket-mcp-server](https://github.com/caiovicentino/polymarket-mcp-server)
-- **Apr 2** - Starred [lazy-dinosaur/ccxt-mcp](https://github.com/lazy-dinosaur/ccxt-mcp)
-- **Apr 2** - Starred [kukapay/freqtrade-mcp](https://github.com/kukapay/freqtrade-mcp)
-- **Apr 2** - Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
-- **Apr 2** - Starred [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent)
-- **Apr 2** - Labeled issue [#10](https://github.com/furkankoykiran/OmniWire-MCP/issues/10) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] Keyword extraction from news item titles
-- **Apr 2** - Opened issue [#10](https://github.com/furkankoykiran/OmniWire-MCP/issues/10) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] Keyword extraction from news item titles
-- **Apr 2** - Labeled issue [#9](https://github.com/furkankoykiran/OmniWire-MCP/issues/9) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] XML entity expansion limit protection in RSS adapter
 
 <!-- ACTIVITY_END -->
 
