@@ -128,6 +128,7 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 4** - Starred [furkankoykiran/freqtrade-mcp](https://github.com/furkankoykiran/freqtrade-mcp)
 - **Apr 4** - Merged PR [#2](https://github.com/furkankoykiran/freqtrade-mcp/pull/2) in [furkankoykiran/freqtrade-mcp](https://github.com/furkankoykiran/freqtrade-mcp): PR #2
 - **Apr 4** - Opened PR [#2](https://github.com/furkankoykiran/freqtrade-mcp/pull/2) in [furkankoykiran/freqtrade-mcp](https://github.com/furkankoykiran/freqtrade-mcp): PR #2
 - **Apr 4** - Created branch `feat/github-packages-publish` in [furkankoykiran/freqtrade-mcp](https://github.com/furkankoykiran/freqtrade-mcp)
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 2** - Labeled issue [#10](https://github.com/furkankoykiran/OmniWire-MCP/issues/10) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] Keyword extraction from news item titles
 - **Apr 2** - Opened issue [#10](https://github.com/furkankoykiran/OmniWire-MCP/issues/10) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] Keyword extraction from news item titles
 - **Apr 2** - Labeled issue [#9](https://github.com/furkankoykiran/OmniWire-MCP/issues/9) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] XML entity expansion limit protection in RSS adapter
-- **Apr 2** - Opened issue [#9](https://github.com/furkankoykiran/OmniWire-MCP/issues/9) in [furkankoykiran/OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP): [FEATURE] XML entity expansion limit protection in RSS adapter
 
 <!-- ACTIVITY_END -->
 
