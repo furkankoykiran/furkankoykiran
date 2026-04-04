@@ -128,6 +128,18 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 4** - Merged PR [#11](https://github.com/furkankoykiran/coderlegion-mcp/pull/11) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #11
+- **Apr 4** - Opened PR [#11](https://github.com/furkankoykiran/coderlegion-mcp/pull/11) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #11
+- **Apr 4** - Created branch `docs/update-readme-v1.1.0` in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp)
+- **Apr 4** - Closed issue [#9](https://github.com/furkankoykiran/coderlegion-mcp/issues/9) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Enhancement: Switch POST encoding from URL-encoded to multipart/form-data
+- **Apr 4** - Closed issue [#6](https://github.com/furkankoykiran/coderlegion-mcp/issues/6) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: create_post success detection unreliable (302 redirect does not guarantee post creation)
+- **Apr 4** - Closed issue [#5](https://github.com/furkankoykiran/coderlegion-mcp/issues/5) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: Error messages return page metadata instead of actual validation errors
+- **Apr 4** - Closed issue [#4](https://github.com/furkankoykiran/coderlegion-mcp/issues/4) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: edit_post always fails with validation error
+- **Apr 4** - Closed issue [#7](https://github.com/furkankoykiran/coderlegion-mcp/issues/7) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add delete_post tool
+- **Apr 4** - Merged PR [#10](https://github.com/furkankoykiran/coderlegion-mcp/pull/10) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #10
+- **Apr 4** - Closed issue [#3](https://github.com/furkankoykiran/coderlegion-mcp/issues/3) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: create_post fails silently or returns false positive for medium/long content
+- **Apr 4** - Opened PR [#10](https://github.com/furkankoykiran/coderlegion-mcp/pull/10) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #10
+- **Apr 4** - Created branch `fix/bugs-and-profile-editing` in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp)
 - **Apr 4** - Starred [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp)
 - **Apr 4** - Labeled issue [#7](https://github.com/furkankoykiran/coderlegion-mcp/issues/7) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add delete_post tool
 - **Apr 4** - Opened issue [#7](https://github.com/furkankoykiran/coderlegion-mcp/issues/7) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add delete_post tool
@@ -136,18 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 4** - Labeled issue [#8](https://github.com/furkankoykiran/coderlegion-mcp/issues/8) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add image upload support
 - **Apr 4** - Opened issue [#8](https://github.com/furkankoykiran/coderlegion-mcp/issues/8) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add image upload support
 - **Apr 4** - Labeled issue [#6](https://github.com/furkankoykiran/coderlegion-mcp/issues/6) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: create_post success detection unreliable (302 redirect does not guarantee post creation)
-- **Apr 4** - Opened issue [#6](https://github.com/furkankoykiran/coderlegion-mcp/issues/6) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: create_post success detection unreliable (302 redirect does not guarantee post creation)
-- **Apr 4** - Labeled issue [#5](https://github.com/furkankoykiran/coderlegion-mcp/issues/5) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: Error messages return page metadata instead of actual validation errors
-- **Apr 4** - Opened issue [#5](https://github.com/furkankoykiran/coderlegion-mcp/issues/5) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: Error messages return page metadata instead of actual validation errors
-- **Apr 4** - Labeled issue [#4](https://github.com/furkankoykiran/coderlegion-mcp/issues/4) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: edit_post always fails with validation error
-- **Apr 4** - Opened issue [#4](https://github.com/furkankoykiran/coderlegion-mcp/issues/4) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: edit_post always fails with validation error
-- **Apr 4** - Labeled issue [#3](https://github.com/furkankoykiran/coderlegion-mcp/issues/3) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: create_post fails silently or returns false positive for medium/long content
-- **Apr 4** - Opened issue [#3](https://github.com/furkankoykiran/coderlegion-mcp/issues/3) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: create_post fails silently or returns false positive for medium/long content
-- **Apr 4** - Merged PR [#2](https://github.com/furkankoykiran/coderlegion-mcp/pull/2) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #2
-- **Apr 4** - Opened PR [#2](https://github.com/furkankoykiran/coderlegion-mcp/pull/2) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #2
-- **Apr 4** - Created branch `feat/scoped-package-and-publish-config` in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp)
-- **Apr 4** - Published release [v1.0.0 — Initial Release](https://github.com/furkankoykiran/coderlegion-mcp/releases/tag/untagged-293fb2f82a2dafcfb442) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp)
-- **Apr 4** - Merged PR [#1](https://github.com/furkankoykiran/coderlegion-mcp/pull/1) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #1
 
 <!-- ACTIVITY_END -->
 
