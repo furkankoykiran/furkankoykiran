@@ -128,6 +128,7 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 5** - Starred [chadi0x/TheBigBrother](https://github.com/chadi0x/TheBigBrother)
 - **Apr 4** - Merged PR [#11](https://github.com/furkankoykiran/coderlegion-mcp/pull/11) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #11
 - **Apr 4** - Opened PR [#11](https://github.com/furkankoykiran/coderlegion-mcp/pull/11) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #11
 - **Apr 4** - Created branch `docs/update-readme-v1.1.0` in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp)
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 4** - Opened issue [#9](https://github.com/furkankoykiran/coderlegion-mcp/issues/9) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Enhancement: Switch POST encoding from URL-encoded to multipart/form-data
 - **Apr 4** - Labeled issue [#8](https://github.com/furkankoykiran/coderlegion-mcp/issues/8) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add image upload support
 - **Apr 4** - Opened issue [#8](https://github.com/furkankoykiran/coderlegion-mcp/issues/8) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add image upload support
-- **Apr 4** - Labeled issue [#6](https://github.com/furkankoykiran/coderlegion-mcp/issues/6) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: create_post success detection unreliable (302 redirect does not guarantee post creation)
 
 <!-- ACTIVITY_END -->
 
