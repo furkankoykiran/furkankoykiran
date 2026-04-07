@@ -128,6 +128,7 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 7** - Merged PR [#156](https://github.com/HKUDS/CLI-Anything/pull/156) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): PR #156
 - **Apr 7** - Starred [santifer/career-ops](https://github.com/santifer/career-ops)
 - **Apr 7** - Starred [xdevplatform/xmcp](https://github.com/xdevplatform/xmcp)
 - **Apr 5** - Starred [chadi0x/TheBigBrother](https://github.com/chadi0x/TheBigBrother)
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 4** - Labeled issue [#7](https://github.com/furkankoykiran/coderlegion-mcp/issues/7) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add delete_post tool
 - **Apr 4** - Opened issue [#7](https://github.com/furkankoykiran/coderlegion-mcp/issues/7) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add delete_post tool
 - **Apr 4** - Labeled issue [#9](https://github.com/furkankoykiran/coderlegion-mcp/issues/9) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Enhancement: Switch POST encoding from URL-encoded to multipart/form-data
-- **Apr 4** - Opened issue [#9](https://github.com/furkankoykiran/coderlegion-mcp/issues/9) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Enhancement: Switch POST encoding from URL-encoded to multipart/form-data
 
 <!-- ACTIVITY_END -->
 
