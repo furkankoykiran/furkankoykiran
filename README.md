@@ -128,6 +128,7 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 7** - Starred [santifer/career-ops](https://github.com/santifer/career-ops)
 - **Apr 7** - Starred [xdevplatform/xmcp](https://github.com/xdevplatform/xmcp)
 - **Apr 5** - Starred [chadi0x/TheBigBrother](https://github.com/chadi0x/TheBigBrother)
 - **Apr 4** - Merged PR [#11](https://github.com/furkankoykiran/coderlegion-mcp/pull/11) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #11
@@ -136,8 +137,8 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 4** - Closed issue [#9](https://github.com/furkankoykiran/coderlegion-mcp/issues/9) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Enhancement: Switch POST encoding from URL-encoded to multipart/form-data
 - **Apr 4** - Closed issue [#6](https://github.com/furkankoykiran/coderlegion-mcp/issues/6) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: create_post success detection unreliable (302 redirect does not guarantee post creation)
 - **Apr 4** - Closed issue [#5](https://github.com/furkankoykiran/coderlegion-mcp/issues/5) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: Error messages return page metadata instead of actual validation errors
-- **Apr 4** - Closed issue [#4](https://github.com/furkankoykiran/coderlegion-mcp/issues/4) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: edit_post always fails with validation error
 - **Apr 4** - Closed issue [#7](https://github.com/furkankoykiran/coderlegion-mcp/issues/7) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add delete_post tool
+- **Apr 4** - Closed issue [#4](https://github.com/furkankoykiran/coderlegion-mcp/issues/4) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: edit_post always fails with validation error
 - **Apr 4** - Merged PR [#10](https://github.com/furkankoykiran/coderlegion-mcp/pull/10) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #10
 - **Apr 4** - Closed issue [#3](https://github.com/furkankoykiran/coderlegion-mcp/issues/3) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: create_post fails silently or returns false positive for medium/long content
 - **Apr 4** - Opened PR [#10](https://github.com/furkankoykiran/coderlegion-mcp/pull/10) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #10
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 4** - Opened issue [#7](https://github.com/furkankoykiran/coderlegion-mcp/issues/7) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add delete_post tool
 - **Apr 4** - Labeled issue [#9](https://github.com/furkankoykiran/coderlegion-mcp/issues/9) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Enhancement: Switch POST encoding from URL-encoded to multipart/form-data
 - **Apr 4** - Opened issue [#9](https://github.com/furkankoykiran/coderlegion-mcp/issues/9) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Enhancement: Switch POST encoding from URL-encoded to multipart/form-data
-- **Apr 4** - Labeled issue [#8](https://github.com/furkankoykiran/coderlegion-mcp/issues/8) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add image upload support
 
 <!-- ACTIVITY_END -->
 
