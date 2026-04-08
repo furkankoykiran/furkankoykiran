@@ -128,6 +128,9 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 8** - Merged PR [#1](https://github.com/furkankoykiran/Quorum/pull/1) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #1
+- **Apr 8** - Opened PR [#1](https://github.com/furkankoykiran/Quorum/pull/1) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #1
+- **Apr 8** - Created branch `day-2-mcp-clients` in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum)
 - **Apr 7** - Merged PR [#156](https://github.com/HKUDS/CLI-Anything/pull/156) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): PR #156
 - **Apr 7** - Starred [santifer/career-ops](https://github.com/santifer/career-ops)
 - **Apr 7** - Starred [xdevplatform/xmcp](https://github.com/xdevplatform/xmcp)
@@ -145,9 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 4** - Opened PR [#10](https://github.com/furkankoykiran/coderlegion-mcp/pull/10) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #10
 - **Apr 4** - Created branch `fix/bugs-and-profile-editing` in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp)
 - **Apr 4** - Starred [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp)
-- **Apr 4** - Labeled issue [#7](https://github.com/furkankoykiran/coderlegion-mcp/issues/7) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add delete_post tool
-- **Apr 4** - Opened issue [#7](https://github.com/furkankoykiran/coderlegion-mcp/issues/7) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Feature: Add delete_post tool
-- **Apr 4** - Labeled issue [#9](https://github.com/furkankoykiran/coderlegion-mcp/issues/9) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Enhancement: Switch POST encoding from URL-encoded to multipart/form-data
 
 <!-- ACTIVITY_END -->
 
