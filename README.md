@@ -128,6 +128,18 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 9** - Merged PR [#9](https://github.com/furkankoykiran/Quorum/pull/9) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #9
+- **Apr 9** - Opened PR [#9](https://github.com/furkankoykiran/Quorum/pull/9) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #9
+- **Apr 9** - Created branch `feat/settings-runner-cleanup` in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum)
+- **Apr 9** - Closed issue [#6](https://github.com/furkankoykiran/Quorum/issues/6) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): MCP client hangs when MCP_ENTRY env vars are set to empty string
+- **Apr 9** - Closed issue [#7](https://github.com/furkankoykiran/Quorum/issues/7) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): News agent gets generic tech headlines instead of crypto news when RSS_FEEDS is unset
+- **Apr 9** - Merged PR [#8](https://github.com/furkankoykiran/Quorum/pull/8) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #8
+- **Apr 9** - Opened PR [#8](https://github.com/furkankoykiran/Quorum/pull/8) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #8
+- **Apr 9** - Created branch `fix/mcp-asyncio-and-rss-feeds` in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum)
+- **Apr 9** - Labeled issue [#7](https://github.com/furkankoykiran/Quorum/issues/7) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): News agent gets generic tech headlines instead of crypto news when RSS_FEEDS is unset
+- **Apr 9** - Opened issue [#7](https://github.com/furkankoykiran/Quorum/issues/7) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): News agent gets generic tech headlines instead of crypto news when RSS_FEEDS is unset
+- **Apr 9** - Labeled issue [#6](https://github.com/furkankoykiran/Quorum/issues/6) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): MCP client hangs when MCP_ENTRY env vars are set to empty string
+- **Apr 9** - Opened issue [#6](https://github.com/furkankoykiran/Quorum/issues/6) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): MCP client hangs when MCP_ENTRY env vars are set to empty string
 - **Apr 9** - Commented on issue [#2015](https://github.com/github/spec-kit/pull/2015#issuecomment-4214603365) in [github/spec-kit](https://github.com/github/spec-kit)
 - **Apr 9** - Merged PR [#5](https://github.com/furkankoykiran/Quorum/pull/5) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #5
 - **Apr 9** - Opened PR [#5](https://github.com/furkankoykiran/Quorum/pull/5) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #5
@@ -136,18 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 8** - Opened PR [#2](https://github.com/furkankoykiran/Quorum/pull/2) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #2
 - **Apr 8** - Created branch `chore/github-governance` in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum)
 - **Apr 8** - Merged PR [#1](https://github.com/furkankoykiran/Quorum/pull/1) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #1
-- **Apr 8** - Opened PR [#1](https://github.com/furkankoykiran/Quorum/pull/1) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #1
-- **Apr 8** - Created branch `day-2-mcp-clients` in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum)
-- **Apr 7** - Merged PR [#156](https://github.com/HKUDS/CLI-Anything/pull/156) in [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): PR #156
-- **Apr 7** - Starred [santifer/career-ops](https://github.com/santifer/career-ops)
-- **Apr 7** - Starred [xdevplatform/xmcp](https://github.com/xdevplatform/xmcp)
-- **Apr 5** - Starred [chadi0x/TheBigBrother](https://github.com/chadi0x/TheBigBrother)
-- **Apr 4** - Merged PR [#11](https://github.com/furkankoykiran/coderlegion-mcp/pull/11) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #11
-- **Apr 4** - Opened PR [#11](https://github.com/furkankoykiran/coderlegion-mcp/pull/11) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): PR #11
-- **Apr 4** - Created branch `docs/update-readme-v1.1.0` in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp)
-- **Apr 4** - Closed issue [#9](https://github.com/furkankoykiran/coderlegion-mcp/issues/9) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Enhancement: Switch POST encoding from URL-encoded to multipart/form-data
-- **Apr 4** - Closed issue [#6](https://github.com/furkankoykiran/coderlegion-mcp/issues/6) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: create_post success detection unreliable (302 redirect does not guarantee post creation)
-- **Apr 4** - Closed issue [#5](https://github.com/furkankoykiran/coderlegion-mcp/issues/5) in [furkankoykiran/coderlegion-mcp](https://github.com/furkankoykiran/coderlegion-mcp): Bug: Error messages return page metadata instead of actual validation errors
 
 <!-- ACTIVITY_END -->
 
