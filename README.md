@@ -128,6 +128,8 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 9** - Commented on PR [#2015](https://github.com/github/spec-kit/pull/2015#discussion_r3061007394) in [github/spec-kit](https://github.com/github/spec-kit)
+- **Apr 9** - Reviewed PR [#2015](https://github.com/github/spec-kit/pull/2015#pullrequestreview-4085847791) in [github/spec-kit](https://github.com/github/spec-kit)
 - **Apr 9** - Commented on issue [#2015](https://github.com/github/spec-kit/pull/2015#issuecomment-4215743757) in [github/spec-kit](https://github.com/github/spec-kit)
 - **Apr 9** - Commented on PR [#2015](https://github.com/github/spec-kit/pull/2015#discussion_r3059201988) in [github/spec-kit](https://github.com/github/spec-kit)
 - **Apr 9** - Reviewed PR [#2015](https://github.com/github/spec-kit/pull/2015#pullrequestreview-4083802214) in [github/spec-kit](https://github.com/github/spec-kit)
@@ -146,8 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 9** - Created branch `fix/mcp-asyncio-and-rss-feeds` in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum)
 - **Apr 9** - Labeled issue [#7](https://github.com/furkankoykiran/Quorum/issues/7) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): News agent gets generic tech headlines instead of crypto news when RSS_FEEDS is unset
 - **Apr 9** - Opened issue [#7](https://github.com/furkankoykiran/Quorum/issues/7) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): News agent gets generic tech headlines instead of crypto news when RSS_FEEDS is unset
-- **Apr 9** - Labeled issue [#6](https://github.com/furkankoykiran/Quorum/issues/6) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): MCP client hangs when MCP_ENTRY env vars are set to empty string
-- **Apr 9** - Opened issue [#6](https://github.com/furkankoykiran/Quorum/issues/6) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): MCP client hangs when MCP_ENTRY env vars are set to empty string
 
 <!-- ACTIVITY_END -->
 
