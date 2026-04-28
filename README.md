@@ -128,6 +128,7 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 28** - Opened issue [#1567](https://github.com/rtk-ai/rtk/issues/1567) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk): feat: proximity-based extraction for minified files (`rtk extract`)
 - **Apr 27** - Forked [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 - **Apr 27** - Merged PR [#2](https://github.com/furkankoykiran/.claude/pull/2) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #2
 - **Apr 27** - Opened PR [#2](https://github.com/furkankoykiran/.claude/pull/2) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #2
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 25** - Opened PR [#35](https://github.com/furkankoykiran/Quorum/pull/35) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #35
 - **Apr 25** - Created branch `feat/unified-api-deployment` in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum)
 - **Apr 24** - Merged PR [#34](https://github.com/furkankoykiran/Quorum/pull/34) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #34
-- **Apr 24** - Opened PR [#34](https://github.com/furkankoykiran/Quorum/pull/34) in [furkankoykiran/Quorum](https://github.com/furkankoykiran/Quorum): PR #34
 
 <!-- ACTIVITY_END -->
 
