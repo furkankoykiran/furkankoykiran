@@ -128,6 +128,8 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Apr 29** - Starred [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
+- **Apr 29** - Opened issue [#610](https://github.com/safishamsi/graphify/issues/610) in [safishamsi/graphify](https://github.com/safishamsi/graphify): fix(llm): kimi-k2.6 rejects temperature=0 — raises 400 on every call
 - **Apr 29** - Merged PR [#3](https://github.com/furkankoykiran/.claude/pull/3) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #3
 - **Apr 29** - Opened PR [#3](https://github.com/furkankoykiran/.claude/pull/3) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #3
 - **Apr 29** - Created branch `feat/graphify-integration` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
@@ -146,8 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 26** - Created branch `initial-import` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Apr 26** - Created branch `main` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Apr 26** - Labeled issue [#3](https://github.com/furkankoykiran/DevTo-MCP/issues/3) in [furkankoykiran/DevTo-MCP](https://github.com/furkankoykiran/DevTo-MCP): [Feature]: Append publication watermark from MCP on article create/update
-- **Apr 26** - Opened issue [#3](https://github.com/furkankoykiran/DevTo-MCP/issues/3) in [furkankoykiran/DevTo-MCP](https://github.com/furkankoykiran/DevTo-MCP): [Feature]: Append publication watermark from MCP on article create/update
-- **Apr 26** - Starred [narcisbugeag/vscord](https://github.com/narcisbugeag/vscord)
 
 <!-- ACTIVITY_END -->
 
