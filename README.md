@@ -128,6 +128,7 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **May 2** - Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 - **Apr 29** - Starred [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
 - **Apr 29** - Opened issue [#610](https://github.com/safishamsi/graphify/issues/610) in [safishamsi/graphify](https://github.com/safishamsi/graphify): fix(llm): kimi-k2.6 rejects temperature=0 — raises 400 on every call
 - **Apr 29** - Merged PR [#3](https://github.com/furkankoykiran/.claude/pull/3) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #3
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 26** - Opened PR [#1](https://github.com/furkankoykiran/.claude/pull/1) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #1
 - **Apr 26** - Created branch `initial-import` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Apr 26** - Created branch `main` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Apr 26** - Labeled issue [#3](https://github.com/furkankoykiran/DevTo-MCP/issues/3) in [furkankoykiran/DevTo-MCP](https://github.com/furkankoykiran/DevTo-MCP): [Feature]: Append publication watermark from MCP on article create/update
 
 <!-- ACTIVITY_END -->
 
