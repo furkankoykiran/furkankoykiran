@@ -143,11 +143,11 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 27** - Forked [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 - **Apr 27** - Merged PR [#2](https://github.com/furkankoykiran/.claude/pull/2) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #2
 - **Apr 27** - Opened PR [#2](https://github.com/furkankoykiran/.claude/pull/2) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #2
-- **Apr 27** - Created branch `feat/manim-narration` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Apr 27** - Starred [DojoCodingLabs/remotion-superpowers](https://github.com/DojoCodingLabs/remotion-superpowers)
 - **Apr 26** - Merged PR [#1](https://github.com/furkankoykiran/.claude/pull/1) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #1
 - **Apr 26** - Opened PR [#1](https://github.com/furkankoykiran/.claude/pull/1) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #1
 - **Apr 26** - Labeled issue [#3](https://github.com/furkankoykiran/DevTo-MCP/issues/3) in [furkankoykiran/DevTo-MCP](https://github.com/furkankoykiran/DevTo-MCP): [Feature]: Append publication watermark from MCP on article create/update
+- **Apr 26** - Opened issue [#3](https://github.com/furkankoykiran/DevTo-MCP/issues/3) in [furkankoykiran/DevTo-MCP](https://github.com/furkankoykiran/DevTo-MCP): [Feature]: Append publication watermark from MCP on article create/update
 
 <!-- ACTIVITY_END -->
 
