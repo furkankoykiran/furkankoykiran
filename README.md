@@ -128,13 +128,15 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **May 5** - Merged PR [#11](https://github.com/furkankoykiran/Orekas/pull/11) in [furkankoykiran/Orekas](https://github.com/furkankoykiran/Orekas): PR #11
+- **May 5** - Opened PR [#11](https://github.com/furkankoykiran/Orekas/pull/11) in [furkankoykiran/Orekas](https://github.com/furkankoykiran/Orekas): PR #11
+- **May 5** - Created branch `feat/donutsmp-utility-modules` in [furkankoykiran/Orekas](https://github.com/furkankoykiran/Orekas)
 - **May 4** - Forked [realnnpg/glazed](https://github.com/realnnpg/glazed)
 - **May 2** - Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 - **Apr 29** - Starred [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
 - **Apr 29** - Opened issue [#610](https://github.com/safishamsi/graphify/issues/610) in [safishamsi/graphify](https://github.com/safishamsi/graphify): fix(llm): kimi-k2.6 rejects temperature=0 — raises 400 on every call
 - **Apr 29** - Merged PR [#3](https://github.com/furkankoykiran/.claude/pull/3) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #3
 - **Apr 29** - Opened PR [#3](https://github.com/furkankoykiran/.claude/pull/3) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #3
-- **Apr 29** - Created branch `feat/graphify-integration` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Apr 28** - Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
 - **Apr 28** - Commented on issue [#1571](https://github.com/rtk-ai/rtk/pull/1571#issuecomment-4334400506) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 - **Apr 28** - Opened PR [#1571](https://github.com/rtk-ai/rtk/pull/1571) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk): PR #1571
@@ -146,8 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 26** - Merged PR [#1](https://github.com/furkankoykiran/.claude/pull/1) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #1
 - **Apr 26** - Opened PR [#1](https://github.com/furkankoykiran/.claude/pull/1) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #1
 - **Apr 26** - Labeled issue [#3](https://github.com/furkankoykiran/DevTo-MCP/issues/3) in [furkankoykiran/DevTo-MCP](https://github.com/furkankoykiran/DevTo-MCP): [Feature]: Append publication watermark from MCP on article create/update
-- **Apr 26** - Opened issue [#3](https://github.com/furkankoykiran/DevTo-MCP/issues/3) in [furkankoykiran/DevTo-MCP](https://github.com/furkankoykiran/DevTo-MCP): [Feature]: Append publication watermark from MCP on article create/update
-- **Apr 26** - Starred [leonardssh/vscord](https://github.com/leonardssh/vscord)
 
 <!-- ACTIVITY_END -->
 
