@@ -138,7 +138,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 28** - Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
 - **Apr 28** - Commented on issue [#1571](https://github.com/rtk-ai/rtk/pull/1571#issuecomment-4334400506) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 - **Apr 28** - Opened PR [#1571](https://github.com/rtk-ai/rtk/pull/1571) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk): PR #1571
-- **Apr 28** - Created branch `feat/proximity-extract` in [furkankoykiran/rtk](https://github.com/furkankoykiran/rtk)
 - **Apr 28** - Opened issue [#1567](https://github.com/rtk-ai/rtk/issues/1567) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk): feat: proximity-based extraction for minified files (`rtk extract`)
 - **Apr 27** - Forked [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 - **Apr 27** - Merged PR [#2](https://github.com/furkankoykiran/.claude/pull/2) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #2
@@ -148,6 +147,7 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 26** - Opened PR [#1](https://github.com/furkankoykiran/.claude/pull/1) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #1
 - **Apr 26** - Labeled issue [#3](https://github.com/furkankoykiran/DevTo-MCP/issues/3) in [furkankoykiran/DevTo-MCP](https://github.com/furkankoykiran/DevTo-MCP): [Feature]: Append publication watermark from MCP on article create/update
 - **Apr 26** - Opened issue [#3](https://github.com/furkankoykiran/DevTo-MCP/issues/3) in [furkankoykiran/DevTo-MCP](https://github.com/furkankoykiran/DevTo-MCP): [Feature]: Append publication watermark from MCP on article create/update
+- **Apr 26** - Starred [leonardssh/vscord](https://github.com/leonardssh/vscord)
 
 <!-- ACTIVITY_END -->
 
