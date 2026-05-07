@@ -128,6 +128,10 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **May 7** - Opened PR [#1366](https://github.com/garrytan/gstack/pull/1366) in [garrytan/gstack](https://github.com/garrytan/gstack): PR #1366
+- **May 7** - Created branch `fix/root-no-sandbox` in [furkankoykiran/gstack](https://github.com/furkankoykiran/gstack)
+- **May 7** - Forked [garrytan/gstack](https://github.com/garrytan/gstack)
+- **May 7** - Opened issue [#1364](https://github.com/garrytan/gstack/issues/1364) in [garrytan/gstack](https://github.com/garrytan/gstack): Linux/WSL root user: /browse fails to start Chromium without CI=1 (missing --no-sandbox)
 - **May 5** - Merged PR [#11](https://github.com/furkankoykiran/Orekas/pull/11) in [furkankoykiran/Orekas](https://github.com/furkankoykiran/Orekas): PR #11
 - **May 5** - Opened PR [#11](https://github.com/furkankoykiran/Orekas/pull/11) in [furkankoykiran/Orekas](https://github.com/furkankoykiran/Orekas): PR #11
 - **May 5** - Created branch `feat/donutsmp-utility-modules` in [furkankoykiran/Orekas](https://github.com/furkankoykiran/Orekas)
@@ -144,10 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 27** - Forked [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 - **Apr 27** - Merged PR [#2](https://github.com/furkankoykiran/.claude/pull/2) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #2
 - **Apr 27** - Opened PR [#2](https://github.com/furkankoykiran/.claude/pull/2) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #2
-- **Apr 27** - Starred [DojoCodingLabs/remotion-superpowers](https://github.com/DojoCodingLabs/remotion-superpowers)
-- **Apr 26** - Merged PR [#1](https://github.com/furkankoykiran/.claude/pull/1) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #1
-- **Apr 26** - Opened PR [#1](https://github.com/furkankoykiran/.claude/pull/1) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #1
-- **Apr 26** - Labeled issue [#3](https://github.com/furkankoykiran/DevTo-MCP/issues/3) in [furkankoykiran/DevTo-MCP](https://github.com/furkankoykiran/DevTo-MCP): [Feature]: Append publication watermark from MCP on article create/update
 
 <!-- ACTIVITY_END -->
 
