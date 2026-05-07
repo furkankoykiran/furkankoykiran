@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Furkan Koykiran
+# Hi, I'm Furkan Köykıran
 
 ### Python Developer | Web3 Enthusiast | MCP Server Builder | Trading Systems
 
@@ -21,7 +21,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Furkan Koykiran"
+        self.name = "Furkan Köykıran"
         self.role = "Python Developer & MCP Specialist"
         self.location = "Turkey"
         self.focus = [
