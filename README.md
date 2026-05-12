@@ -128,6 +128,7 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **May 12** - Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
 - **May 7** - Opened PR [#1366](https://github.com/garrytan/gstack/pull/1366) in [garrytan/gstack](https://github.com/garrytan/gstack): PR #1366
 - **May 7** - Created branch `fix/root-no-sandbox` in [furkankoykiran/gstack](https://github.com/furkankoykiran/gstack)
 - **May 7** - Forked [garrytan/gstack](https://github.com/garrytan/gstack)
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Apr 28** - Opened issue [#1567](https://github.com/rtk-ai/rtk/issues/1567) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk): feat: proximity-based extraction for minified files (`rtk extract`)
 - **Apr 27** - Forked [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 - **Apr 27** - Merged PR [#2](https://github.com/furkankoykiran/.claude/pull/2) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #2
-- **Apr 27** - Opened PR [#2](https://github.com/furkankoykiran/.claude/pull/2) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #2
 
 <!-- ACTIVITY_END -->
 
