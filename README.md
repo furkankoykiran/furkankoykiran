@@ -128,6 +128,13 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **May 14** - Merged PR [#5](https://github.com/furkankoykiran/.claude/pull/5) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #5
+- **May 14** - Opened PR [#5](https://github.com/furkankoykiran/.claude/pull/5) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #5
+- **May 14** - Created branch `feat/context-diet` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
+- **May 14** - Merged PR [#4](https://github.com/furkankoykiran/.claude/pull/4) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #4
+- **May 14** - Opened PR [#4](https://github.com/furkankoykiran/.claude/pull/4) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #4
+- **May 14** - Created branch `feat/karpathy-guidelines` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
+- **May 13** - Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 - **May 12** - Starred [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air)
 - **May 12** - Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
 - **May 7** - Opened PR [#1366](https://github.com/garrytan/gstack/pull/1366) in [garrytan/gstack](https://github.com/garrytan/gstack): PR #1366
@@ -141,13 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **May 2** - Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 - **Apr 29** - Starred [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
 - **Apr 29** - Opened issue [#610](https://github.com/safishamsi/graphify/issues/610) in [safishamsi/graphify](https://github.com/safishamsi/graphify): fix(llm): kimi-k2.6 rejects temperature=0 — raises 400 on every call
-- **Apr 29** - Merged PR [#3](https://github.com/furkankoykiran/.claude/pull/3) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #3
-- **Apr 29** - Opened PR [#3](https://github.com/furkankoykiran/.claude/pull/3) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #3
-- **Apr 28** - Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
-- **Apr 28** - Commented on issue [#1571](https://github.com/rtk-ai/rtk/pull/1571#issuecomment-4334400506) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-- **Apr 28** - Opened PR [#1571](https://github.com/rtk-ai/rtk/pull/1571) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk): PR #1571
-- **Apr 28** - Opened issue [#1567](https://github.com/rtk-ai/rtk/issues/1567) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk): feat: proximity-based extraction for minified files (`rtk extract`)
-- **Apr 27** - Forked [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 
 <!-- ACTIVITY_END -->
 
