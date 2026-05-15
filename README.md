@@ -144,10 +144,10 @@ Creating decentralized applications and smart contract integrations with focus o
 - **May 7** - Opened issue [#1364](https://github.com/garrytan/gstack/issues/1364) in [garrytan/gstack](https://github.com/garrytan/gstack): Linux/WSL root user: /browse fails to start Chromium without CI=1 (missing --no-sandbox)
 - **May 5** - Merged PR [#11](https://github.com/furkankoykiran/Orekas/pull/11) in [furkankoykiran/Orekas](https://github.com/furkankoykiran/Orekas): PR #11
 - **May 5** - Opened PR [#11](https://github.com/furkankoykiran/Orekas/pull/11) in [furkankoykiran/Orekas](https://github.com/furkankoykiran/Orekas): PR #11
-- **May 5** - Created branch `feat/donutsmp-utility-modules` in [furkankoykiran/Orekas](https://github.com/furkankoykiran/Orekas)
 - **May 4** - Forked [realnnpg/glazed](https://github.com/realnnpg/glazed)
 - **May 2** - Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 - **Apr 29** - Starred [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
+- **Apr 29** - Opened issue [#610](https://github.com/safishamsi/graphify/issues/610) in [safishamsi/graphify](https://github.com/safishamsi/graphify): fix(llm): kimi-k2.6 rejects temperature=0 — raises 400 on every call
 
 <!-- ACTIVITY_END -->
 
