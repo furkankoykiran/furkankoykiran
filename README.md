@@ -140,7 +140,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **May 12** - Starred [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air)
 - **May 12** - Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
 - **May 7** - Opened PR [#1366](https://github.com/garrytan/gstack/pull/1366) in [garrytan/gstack](https://github.com/garrytan/gstack): PR #1366
-- **May 7** - Created branch `fix/root-no-sandbox` in [furkankoykiran/gstack](https://github.com/furkankoykiran/gstack)
 - **May 7** - Forked [garrytan/gstack](https://github.com/garrytan/gstack)
 - **May 7** - Opened issue [#1364](https://github.com/garrytan/gstack/issues/1364) in [garrytan/gstack](https://github.com/garrytan/gstack): Linux/WSL root user: /browse fails to start Chromium without CI=1 (missing --no-sandbox)
 - **May 5** - Merged PR [#11](https://github.com/furkankoykiran/Orekas/pull/11) in [furkankoykiran/Orekas](https://github.com/furkankoykiran/Orekas): PR #11
@@ -148,6 +147,7 @@ Creating decentralized applications and smart contract integrations with focus o
 - **May 4** - Forked [realnnpg/glazed](https://github.com/realnnpg/glazed)
 - **May 2** - Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 - **Apr 29** - Starred [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
+- **Apr 29** - Opened issue [#610](https://github.com/safishamsi/graphify/issues/610) in [safishamsi/graphify](https://github.com/safishamsi/graphify): fix(llm): kimi-k2.6 rejects temperature=0 — raises 400 on every call
 
 <!-- ACTIVITY_END -->
 
