@@ -128,6 +128,11 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **May 17** - Published release [v0.5.0 — Auto-update mechanism](https://github.com/furkankoykiran/contextify-cli/releases/tag/v0.5.0) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli)
+- **May 17** - Merged PR [#3](https://github.com/furkankoykiran/contextify-cli/pull/3) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #3
+- **May 17** - Opened PR [#3](https://github.com/furkankoykiran/contextify-cli/pull/3) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #3
+- **May 17** - Created branch `chore/oss-repo-hardening` in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli)
+- **May 17** - Merged PR [#1](https://github.com/furkankoykiran/contextify-cli/pull/1) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #1
 - **May 17** - Opened PR [#1](https://github.com/furkankoykiran/contextify-cli/pull/1) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #1
 - **May 17** - Created branch `feat/auto-update-mechanism` in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli)
 - **May 17** - Created branch `main` in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli)
@@ -143,11 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **May 14** - Created branch `feat/karpathy-guidelines` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **May 13** - Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 - **May 12** - Starred [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air)
-- **May 12** - Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
-- **May 7** - Opened PR [#1366](https://github.com/garrytan/gstack/pull/1366) in [garrytan/gstack](https://github.com/garrytan/gstack): PR #1366
-- **May 7** - Forked [garrytan/gstack](https://github.com/garrytan/gstack)
-- **May 7** - Opened issue [#1364](https://github.com/garrytan/gstack/issues/1364) in [garrytan/gstack](https://github.com/garrytan/gstack): Linux/WSL root user: /browse fails to start Chromium without CI=1 (missing --no-sandbox)
-- **May 5** - Merged PR [#11](https://github.com/furkankoykiran/Orekas/pull/11) in [furkankoykiran/Orekas](https://github.com/furkankoykiran/Orekas): PR #11
 
 <!-- ACTIVITY_END -->
 
