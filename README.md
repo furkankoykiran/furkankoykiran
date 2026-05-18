@@ -128,6 +128,9 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **May 18** - Merged PR [#9](https://github.com/furkankoykiran/contextify-cli/pull/9) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #9
+- **May 18** - Opened PR [#9](https://github.com/furkankoykiran/contextify-cli/pull/9) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #9
+- **May 18** - Created branch `feat/compile-command` in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli)
 - **May 17** - Published release [v0.5.0 — Auto-update mechanism](https://github.com/furkankoykiran/contextify-cli/releases/tag/v0.5.0) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli)
 - **May 17** - Merged PR [#3](https://github.com/furkankoykiran/contextify-cli/pull/3) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #3
 - **May 17** - Opened PR [#3](https://github.com/furkankoykiran/contextify-cli/pull/3) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #3
@@ -145,9 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **May 14** - Created branch `feat/context-diet` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **May 14** - Merged PR [#4](https://github.com/furkankoykiran/.claude/pull/4) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #4
 - **May 14** - Opened PR [#4](https://github.com/furkankoykiran/.claude/pull/4) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #4
-- **May 14** - Created branch `feat/karpathy-guidelines` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **May 13** - Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-- **May 12** - Starred [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air)
 
 <!-- ACTIVITY_END -->
 
