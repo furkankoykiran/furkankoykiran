@@ -128,6 +128,10 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **May 18** - Created branch `main` in [furkankoykiran/contextify-examples](https://github.com/furkankoykiran/contextify-examples)
+- **May 18** - Created branch `main` in [furkankoykiran/contextify-sdk](https://github.com/furkankoykiran/contextify-sdk)
+- **May 18** - Created branch `main` in [furkankoykiran/contextify-hooks](https://github.com/furkankoykiran/contextify-hooks)
+- **May 18** - Created branch `main` in [furkankoykiran/contextify-mcp](https://github.com/furkankoykiran/contextify-mcp)
 - **May 18** - Merged PR [#9](https://github.com/furkankoykiran/contextify-cli/pull/9) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #9
 - **May 18** - Opened PR [#9](https://github.com/furkankoykiran/contextify-cli/pull/9) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #9
 - **May 18** - Created branch `feat/compile-command` in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli)
@@ -144,10 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **May 16** - Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 - **May 14** - Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 - **May 14** - Merged PR [#5](https://github.com/furkankoykiran/.claude/pull/5) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #5
-- **May 14** - Opened PR [#5](https://github.com/furkankoykiran/.claude/pull/5) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #5
-- **May 14** - Created branch `feat/context-diet` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **May 14** - Merged PR [#4](https://github.com/furkankoykiran/.claude/pull/4) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #4
-- **May 14** - Opened PR [#4](https://github.com/furkankoykiran/.claude/pull/4) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #4
 
 <!-- ACTIVITY_END -->
 
