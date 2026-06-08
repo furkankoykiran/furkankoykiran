@@ -138,7 +138,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **May 18** - Created branch `main` in [furkankoykiran/contextify-mcp](https://github.com/furkankoykiran/contextify-mcp)
 - **May 18** - Merged PR [#9](https://github.com/furkankoykiran/contextify-cli/pull/9) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #9
 - **May 18** - Opened PR [#9](https://github.com/furkankoykiran/contextify-cli/pull/9) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #9
-- **May 18** - Created branch `feat/compile-command` in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli)
 - **May 17** - Published release [v0.5.0 — Auto-update mechanism](https://github.com/furkankoykiran/contextify-cli/releases/tag/v0.5.0) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli)
 - **May 17** - Merged PR [#3](https://github.com/furkankoykiran/contextify-cli/pull/3) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #3
 - **May 17** - Opened PR [#3](https://github.com/furkankoykiran/contextify-cli/pull/3) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #3
@@ -148,6 +147,7 @@ Creating decentralized applications and smart contract integrations with focus o
 - **May 16** - Forked [undefined](https://github.com/undefined)
 - **May 16** - Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 - **May 14** - Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- **May 14** - Merged PR [#5](https://github.com/furkankoykiran/.claude/pull/5) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #5
 
 <!-- ACTIVITY_END -->
 
