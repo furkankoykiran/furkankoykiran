@@ -128,6 +128,7 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Jun 11** - Starred [cyanheads/orcid-mcp-server](https://github.com/cyanheads/orcid-mcp-server)
 - **Jun 7** - Starred [muminkoykiran/safe-tab-url-lister](https://github.com/muminkoykiran/safe-tab-url-lister)
 - **May 19** - Merged PR [#6](https://github.com/furkankoykiran/.claude/pull/6) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #6
 - **May 19** - Opened PR [#6](https://github.com/furkankoykiran/.claude/pull/6) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #6
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **May 14** - Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 - **May 14** - Merged PR [#5](https://github.com/furkankoykiran/.claude/pull/5) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #5
 - **May 14** - Opened PR [#5](https://github.com/furkankoykiran/.claude/pull/5) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #5
-- **May 14** - Merged PR [#4](https://github.com/furkankoykiran/.claude/pull/4) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #4
 
 <!-- ACTIVITY_END -->
 
