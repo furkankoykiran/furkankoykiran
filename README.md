@@ -146,8 +146,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **May 16** - Forked [undefined](https://github.com/undefined)
 - **May 16** - Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 - **May 14** - Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
-- **May 14** - Merged PR [#5](https://github.com/furkankoykiran/.claude/pull/5) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #5
-- **May 14** - Opened PR [#5](https://github.com/furkankoykiran/.claude/pull/5) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #5
 
 <!-- ACTIVITY_END -->
 
