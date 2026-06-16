@@ -144,7 +144,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **May 17** - Opened PR [#1](https://github.com/furkankoykiran/contextify-cli/pull/1) in [furkankoykiran/contextify-cli](https://github.com/furkankoykiran/contextify-cli): PR #1
 - **May 16** - Commented on issue [#2093](https://github.com/modelcontextprotocol/typescript-sdk/issues/2093#issuecomment-4468455046) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
 - **May 16** - Forked [undefined](https://github.com/undefined)
-- **May 16** - Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 
 <!-- ACTIVITY_END -->
 
