@@ -174,7 +174,73 @@ function generateActivityContent(events) {
   return `${ACTIVITY_START}\n<!-- This section is automatically updated daily with recent GitHub activity -->\n\n${limitedEvents.join('\n')}\n\n${ACTIVITY_END}`;
 }
 
-// Fetch blog posts from RSS feed
+// Decode the handful of XML entities a feed title can carry.
+function decodeXml(str) {
+  return str
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'")
+    .replace(/&amp;/g, '&')
+    .trim();
+}
+
+function formatFeedDate(raw) {
+  if (!raw) return '';
+  const d = new Date(raw);
+  if (Number.isNaN(d.getTime())) return '';
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+}
+
+// Parse a feed into { title, link, pubDate } entries, newest first.
+//
+// The blog is Jekyll, which publishes ATOM: <entry> elements with the URL in a
+// <link href="..."> attribute and the date in <published>. The original parser
+// only understood RSS 2.0 — <item>, <link>text</link>, <pubDate> — so it
+// matched nothing on every run since the feature landed, logged "No blog posts
+// found", and left the README placeholder in place. Both shapes are handled
+// now so the section keeps working whichever the blog emits.
+function parseFeed(xml) {
+  const posts = [];
+
+  const push = (title, link, date) => {
+    if (!title || !link) return;
+    posts.push({ title: decodeXml(title), link: decodeXml(link), pubDate: formatFeedDate(date) });
+  };
+
+  // Atom
+  const entryRe = /<entry\b[^>]*>([\s\S]*?)<\/entry>/g;
+  let m;
+  while ((m = entryRe.exec(xml)) !== null) {
+    const e = m[1];
+    const title = /<title\b[^>]*>([\s\S]*?)<\/title>/.exec(e);
+    // Prefer rel="alternate"; fall back to the first href, since a feed may
+    // omit rel entirely. Never take rel="self" or an enclosure.
+    const alt = /<link\b[^>]*rel=["']alternate["'][^>]*href=["']([^"']+)["'][^>]*\/?>/.exec(e)
+      || /<link\b[^>]*href=["']([^"']+)["'][^>]*rel=["']alternate["'][^>]*\/?>/.exec(e)
+      || /<link\b[^>]*href=["']([^"']+)["'][^>]*\/?>/.exec(e);
+    const date = /<published\b[^>]*>([\s\S]*?)<\/published>/.exec(e)
+      || /<updated\b[^>]*>([\s\S]*?)<\/updated>/.exec(e);
+    push(title && title[1], alt && alt[1], date && date[1]);
+  }
+
+  // RSS 2.0
+  if (posts.length === 0) {
+    const itemRe = /<item\b[^>]*>([\s\S]*?)<\/item>/g;
+    while ((m = itemRe.exec(xml)) !== null) {
+      const e = m[1];
+      const title = /<title\b[^>]*>([\s\S]*?)<\/title>/.exec(e);
+      const link = /<link\b[^>]*>([\s\S]*?)<\/link>/.exec(e);
+      const date = /<pubDate\b[^>]*>([\s\S]*?)<\/pubDate>/.exec(e);
+      push(title && title[1], link && link[1], date && date[1]);
+    }
+  }
+
+  return posts.slice(0, 5);
+}
+
+// Fetch blog posts from the blog's feed (Atom or RSS)
 function fetchBlogPosts() {
   return new Promise((resolve, reject) => {
     const options = {
@@ -196,30 +262,7 @@ function fetchBlogPosts() {
       res.on('end', () => {
         if (res.statusCode === 200) {
           try {
-            // Parse RSS items using regex
-            const items = [];
-            const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-            let match;
-            let count = 0;
-
-            while ((match = itemRegex.exec(data)) !== null && count < 5) {
-              const itemContent = match[1];
-              const titleMatch = /<title><!\[CDATA\[(.*?)\]\]><\/title>|<title>(.*?)<\/title>/s.exec(itemContent);
-              const linkMatch = /<link>(.*?)<\/link>/.exec(itemContent);
-              const pubDateMatch = /<pubDate>(.*?)<\/pubDate>/.exec(itemContent);
-
-              if (titleMatch && linkMatch) {
-                const title = titleMatch[2] || titleMatch[1];
-                const link = linkMatch[1];
-                const pubDate = pubDateMatch ? new Date(pubDateMatch[1]).toLocaleDateString('en-US', {
-                  month: 'short', day: 'numeric', year: 'numeric'
-                }) : '';
-
-                items.push({ title, link, pubDate });
-                count++;
-              }
-            }
-            resolve(items);
+            resolve(parseFeed(data));
           } catch (error) {
             reject(new Error(`Failed to parse blog feed: ${error.message}`));
           }
