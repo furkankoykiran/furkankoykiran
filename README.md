@@ -128,26 +128,26 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Jun 16** - Merged PR [#13](https://github.com/furkankoykiran/.claude/pull/13) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #13
-- **Jun 16** - Opened PR [#13](https://github.com/furkankoykiran/.claude/pull/13) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #13
-- **Jun 16** - Created branch `chore/quiet-expected-install-warnings` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Jun 16** - Merged PR [#12](https://github.com/furkankoykiran/.claude/pull/12) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #12
-- **Jun 16** - Opened PR [#12](https://github.com/furkankoykiran/.claude/pull/12) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #12
-- **Jun 16** - Created branch `fix/graphify-pipx-fallback` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Jun 16** - Merged PR [#11](https://github.com/furkankoykiran/.claude/pull/11) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #11
-- **Jun 16** - Opened PR [#11](https://github.com/furkankoykiran/.claude/pull/11) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #11
-- **Jun 16** - Created branch `refactor/skills-agents-best-practices` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Jun 16** - Merged PR [#10](https://github.com/furkankoykiran/.claude/pull/10) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #10
-- **Jun 16** - Opened PR [#10](https://github.com/furkankoykiran/.claude/pull/10) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #10
-- **Jun 16** - Created branch `feat/skill-sets-and-plugin-marketplaces` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Jun 16** - Merged PR [#9](https://github.com/furkankoykiran/.claude/pull/9) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #9
-- **Jun 16** - Opened PR [#9](https://github.com/furkankoykiran/.claude/pull/9) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #9
-- **Jun 16** - Created branch `feat/graphify-auto-upgrade` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Jun 12** - Merged PR [#7](https://github.com/furkankoykiran/.claude/pull/7) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #7
-- **Jun 12** - Opened PR [#7](https://github.com/furkankoykiran/.claude/pull/7) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #7
-- **Jun 12** - Created branch `feat/robust-cross-platform-bootstrap` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Jun 11** - Starred [cyanheads/orcid-mcp-server](https://github.com/cyanheads/orcid-mcp-server)
-- **Jun 7** - Starred [muminkoykiran/safe-tab-url-lister](https://github.com/muminkoykiran/safe-tab-url-lister)
+- **Sep 7** - Opened PR [#56](https://github.com/furkankoykiran/.claude/pull/56) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #56
+- **Sep 2** - Starred [hieunc229/mailflare](https://github.com/hieunc229/mailflare)
+- **Aug 29** - Starred [google/googletest](https://github.com/google/googletest)
+- **Aug 25** - Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
+- **Aug 25** - Starred [Wasdubya/x64dbgMCP](https://github.com/Wasdubya/x64dbgMCP)
+- **Aug 23** - Starred [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)
+- **Aug 21** - Opened issue [#88536](https://github.com/anthropics/claude-code/issues/88536) in [anthropics/claude-code](https://github.com/anthropics/claude-code): [Bug] 400 "text content blocks must be non-empty": empty text block from a custom ANTHROPIC_BASE_URL is persisted and replayed forever — deterministic repro
+- **Aug 21** - Starred [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+- **Aug 18** - Opened issue [#2627](https://github.com/garrytan/gstack/issues/2627) in [garrytan/gstack](https://github.com/garrytan/gstack): Nothing reclaims per-repo .gstack state — browse-audit.jsonl is append-only by design and bin/ has no cleanup verb
+- **Aug 18** - Opened issue [#87678](https://github.com/anthropics/claude-code/issues/87678) in [anthropics/claude-code](https://github.com/anthropics/claude-code): [BUG] ~/.cache/claude-cli-nodejs is only swept for the current cwd's slug — slugs for deleted projects and for /tmp scratchpad cwds are unreachable forever
+- **Aug 18** - Opened issue [#87677](https://github.com/anthropics/claude-code/issues/87677) in [anthropics/claude-code](https://github.com/anthropics/claude-code): [BUG] ~/.claude.json.tmp.<pid>.<hash> atomic-write leftovers are never reclaimed by the retention sweep
+- **Aug 18** - Opened issue [#55](https://github.com/furkankoykiran/.claude/issues/55) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): No disk-hygiene surface — cleanupPeriodDays is never mentioned, and nothing reports what ~/.claude costs
+- **Aug 18** - Opened issue [#54](https://github.com/furkankoykiran/.claude/issues/54) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): Provider switch overwrites settings.json wholesale — the docker-volume deny rules and both safety hooks don't survive it
+- **Aug 15** - Merged PR [#2](https://github.com/divimerocom-art/emergent-divimero/pull/2) in [divimerocom-art/emergent-divimero](https://github.com/divimerocom-art/emergent-divimero): PR #2
+- **Aug 15** - Opened PR [#2](https://github.com/divimerocom-art/emergent-divimero/pull/2) in [divimerocom-art/emergent-divimero](https://github.com/divimerocom-art/emergent-divimero): PR #2
+- **Aug 15** - Created branch `feat/contest-site-chrome-w5` in [divimerocom-art/emergent-divimero](https://github.com/divimerocom-art/emergent-divimero)
+- **Aug 15** - Merged PR [#1](https://github.com/divimerocom-art/emergent-divimero/pull/1) in [divimerocom-art/emergent-divimero](https://github.com/divimerocom-art/emergent-divimero): PR #1
+- **Aug 15** - Opened PR [#1](https://github.com/divimerocom-art/emergent-divimero/pull/1) in [divimerocom-art/emergent-divimero](https://github.com/divimerocom-art/emergent-divimero): PR #1
+- **Aug 15** - Created branch `feat/contest-credibility-w4` in [divimerocom-art/emergent-divimero](https://github.com/divimerocom-art/emergent-divimero)
+- **Aug 11** - Commented on issue [#5](https://github.com/furkankoykiran/ProspectForge/pull/5#issuecomment-5253921474) in [furkankoykiran/ProspectForge](https://github.com/furkankoykiran/ProspectForge)
 
 <!-- ACTIVITY_END -->
 
@@ -157,6 +157,13 @@ Creating decentralized applications and smart contract integrations with focus o
 
 <!-- BLOG_START -->
 <!-- This section is automatically updated with recent blog posts from personal blog -->
+
+- [GitHub Actions Dakikaları Bitti: Kendi Sunucuma Self-Hosted Runner Kurdum](https://blog.furkankoykiran.com.tr/posts/github-actions-self-hosted-runner-tr/) (May 6, 2026)
+- [Free CI Minutes Are Gone: Setting Up a GitHub Actions Self-Hosted Runner on Linux](https://blog.furkankoykiran.com.tr/posts/github-actions-self-hosted-runner-en/) (May 6, 2026)
+- [freqtrade-mcp: Bota Claude Üzerinden Sor](https://blog.furkankoykiran.com.tr/posts/freqtrade-mcp-server-tr/) (Apr 4, 2026)
+- [freqtrade-mcp: Ask Claude to Check Your Trades](https://blog.furkankoykiran.com.tr/posts/freqtrade-mcp-server-en/) (Apr 4, 2026)
+- [awesome-trending-repos: GitHub Trending için Modern Web Arayüzü](https://blog.furkankoykiran.com.tr/posts/awesome-trending-repos-web/) (Mar 27, 2026)
+
 <!-- BLOG_END -->
 
 <div align="center">
