@@ -128,6 +128,18 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Sep 7** - Merged PR [#58](https://github.com/furkankoykiran/.claude/pull/58) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #58
+- **Sep 7** - Opened PR [#58](https://github.com/furkankoykiran/.claude/pull/58) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #58
+- **Sep 7** - Created branch `fix/version-bump-0.5.1` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
+- **Sep 7** - Merged PR [#57](https://github.com/furkankoykiran/.claude/pull/57) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #57
+- **Sep 7** - Commented on issue [#57](https://github.com/furkankoykiran/.claude/pull/57#issuecomment-5573375118) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
+- **Sep 7** - Opened PR [#57](https://github.com/furkankoykiran/.claude/pull/57) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #57
+- **Sep 7** - Closed PR [#52](https://github.com/furkankoykiran/.claude/pull/52) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #52
+- **Sep 7** - Commented on issue [#52](https://github.com/furkankoykiran/.claude/pull/52#issuecomment-5573097518) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
+- **Sep 7** - Merged PR [#56](https://github.com/furkankoykiran/.claude/pull/56) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #56
+- **Sep 7** - Closed issue [#55](https://github.com/furkankoykiran/.claude/issues/55) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): No disk-hygiene surface — cleanupPeriodDays is never mentioned, and nothing reports what ~/.claude costs
+- **Sep 7** - Closed issue [#54](https://github.com/furkankoykiran/.claude/issues/54) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): Provider switch overwrites settings.json wholesale — the docker-volume deny rules and both safety hooks don't survive it
+- **Sep 7** - Closed issue [#53](https://github.com/furkankoykiran/.claude/issues/53) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): fkt update leaves skills/gstack stale — it falls outside every update path
 - **Sep 7** - Opened PR [#56](https://github.com/furkankoykiran/.claude/pull/56) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #56
 - **Sep 2** - Starred [hieunc229/mailflare](https://github.com/hieunc229/mailflare)
 - **Aug 29** - Starred [google/googletest](https://github.com/google/googletest)
@@ -136,18 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Aug 23** - Starred [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)
 - **Aug 21** - Opened issue [#88536](https://github.com/anthropics/claude-code/issues/88536) in [anthropics/claude-code](https://github.com/anthropics/claude-code): [Bug] 400 "text content blocks must be non-empty": empty text block from a custom ANTHROPIC_BASE_URL is persisted and replayed forever — deterministic repro
 - **Aug 21** - Starred [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
-- **Aug 18** - Opened issue [#2627](https://github.com/garrytan/gstack/issues/2627) in [garrytan/gstack](https://github.com/garrytan/gstack): Nothing reclaims per-repo .gstack state — browse-audit.jsonl is append-only by design and bin/ has no cleanup verb
-- **Aug 18** - Opened issue [#87678](https://github.com/anthropics/claude-code/issues/87678) in [anthropics/claude-code](https://github.com/anthropics/claude-code): [BUG] ~/.cache/claude-cli-nodejs is only swept for the current cwd's slug — slugs for deleted projects and for /tmp scratchpad cwds are unreachable forever
-- **Aug 18** - Opened issue [#87677](https://github.com/anthropics/claude-code/issues/87677) in [anthropics/claude-code](https://github.com/anthropics/claude-code): [BUG] ~/.claude.json.tmp.<pid>.<hash> atomic-write leftovers are never reclaimed by the retention sweep
-- **Aug 18** - Opened issue [#55](https://github.com/furkankoykiran/.claude/issues/55) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): No disk-hygiene surface — cleanupPeriodDays is never mentioned, and nothing reports what ~/.claude costs
-- **Aug 18** - Opened issue [#54](https://github.com/furkankoykiran/.claude/issues/54) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): Provider switch overwrites settings.json wholesale — the docker-volume deny rules and both safety hooks don't survive it
-- **Aug 15** - Merged PR [#2](https://github.com/divimerocom-art/emergent-divimero/pull/2) in [divimerocom-art/emergent-divimero](https://github.com/divimerocom-art/emergent-divimero): PR #2
-- **Aug 15** - Opened PR [#2](https://github.com/divimerocom-art/emergent-divimero/pull/2) in [divimerocom-art/emergent-divimero](https://github.com/divimerocom-art/emergent-divimero): PR #2
-- **Aug 15** - Created branch `feat/contest-site-chrome-w5` in [divimerocom-art/emergent-divimero](https://github.com/divimerocom-art/emergent-divimero)
-- **Aug 15** - Merged PR [#1](https://github.com/divimerocom-art/emergent-divimero/pull/1) in [divimerocom-art/emergent-divimero](https://github.com/divimerocom-art/emergent-divimero): PR #1
-- **Aug 15** - Opened PR [#1](https://github.com/divimerocom-art/emergent-divimero/pull/1) in [divimerocom-art/emergent-divimero](https://github.com/divimerocom-art/emergent-divimero): PR #1
-- **Aug 15** - Created branch `feat/contest-credibility-w4` in [divimerocom-art/emergent-divimero](https://github.com/divimerocom-art/emergent-divimero)
-- **Aug 11** - Commented on issue [#5](https://github.com/furkankoykiran/ProspectForge/pull/5#issuecomment-5253921474) in [furkankoykiran/ProspectForge](https://github.com/furkankoykiran/ProspectForge)
 
 <!-- ACTIVITY_END -->
 
