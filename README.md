@@ -128,6 +128,11 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Sep 24** - Starred [agent-next/polymarket-paper-trader](https://github.com/agent-next/polymarket-paper-trader)
+- **Sep 24** - Starred [ent0n29/polybot](https://github.com/ent0n29/polybot)
+- **Sep 24** - Starred [evan-kolberg/prediction-market-backtesting](https://github.com/evan-kolberg/prediction-market-backtesting)
+- **Sep 24** - Starred [mortada/fredapi](https://github.com/mortada/fredapi)
+- **Sep 24** - Starred [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)
 - **Sep 14** - Opened issue [#2864](https://github.com/garrytan/gstack/issues/2864) in [garrytan/gstack](https://github.com/garrytan/gstack): Skip the Aside readiness probe on Linux and Windows and select the fallback browser directly
 - **Sep 7** - Created branch `fix/concurrency-queue-and-ignore` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Sep 7** - Created branch `fix/github-reliability-program` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
@@ -143,11 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Sep 7** - Closed issue [#55](https://github.com/furkankoykiran/.claude/issues/55) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): No disk-hygiene surface — cleanupPeriodDays is never mentioned, and nothing reports what ~/.claude costs
 - **Sep 7** - Closed issue [#54](https://github.com/furkankoykiran/.claude/issues/54) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): Provider switch overwrites settings.json wholesale — the docker-volume deny rules and both safety hooks don't survive it
 - **Sep 7** - Closed issue [#53](https://github.com/furkankoykiran/.claude/issues/53) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): fkt update leaves skills/gstack stale — it falls outside every update path
-- **Sep 7** - Opened PR [#56](https://github.com/furkankoykiran/.claude/pull/56) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #56
-- **Sep 2** - Starred [hieunc229/mailflare](https://github.com/hieunc229/mailflare)
-- **Aug 29** - Starred [google/googletest](https://github.com/google/googletest)
-- **Aug 25** - Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
-- **Aug 25** - Starred [Wasdubya/x64dbgMCP](https://github.com/Wasdubya/x64dbgMCP)
 
 <!-- ACTIVITY_END -->
 
