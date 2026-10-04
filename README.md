@@ -128,6 +128,12 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 4** - Merged PR [#78](https://github.com/furkankoykiran/.claude/pull/78) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #78
+- **Oct 4** - Opened PR [#78](https://github.com/furkankoykiran/.claude/pull/78) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #78
+- **Oct 3** - Created branch `fix/codex-bridge-native-backend` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
+- **Oct 3** - Merged PR [#77](https://github.com/furkankoykiran/.claude/pull/77) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #77
+- **Oct 3** - Opened PR [#77](https://github.com/furkankoykiran/.claude/pull/77) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #77
+- **Oct 3** - Created branch `fix/ccs-codex-bridge-regressions` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Oct 3** - Merged PR [#76](https://github.com/furkankoykiran/.claude/pull/76) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #76
 - **Oct 3** - Opened PR [#76](https://github.com/furkankoykiran/.claude/pull/76) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #76
 - **Oct 3** - Created branch `fix/codex-prompt-block-forwarding` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
@@ -142,12 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Sep 30** - Opened PR [#70](https://github.com/furkankoykiran/.claude/pull/70) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #70
 - **Sep 29** - Starred [latent-spaces/brag](https://github.com/latent-spaces/brag)
 - **Sep 24** - Starred [agent-next/polymarket-paper-trader](https://github.com/agent-next/polymarket-paper-trader)
-- **Sep 24** - Starred [ent0n29/polybot](https://github.com/ent0n29/polybot)
-- **Sep 24** - Starred [evan-kolberg/prediction-market-backtesting](https://github.com/evan-kolberg/prediction-market-backtesting)
-- **Sep 24** - Starred [mortada/fredapi](https://github.com/mortada/fredapi)
-- **Sep 24** - Starred [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)
-- **Sep 14** - Opened issue [#2864](https://github.com/garrytan/gstack/issues/2864) in [garrytan/gstack](https://github.com/garrytan/gstack): Skip the Aside readiness probe on Linux and Windows and select the fallback browser directly
-- **Sep 7** - Created branch `fix/concurrency-queue-and-ignore` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 
 <!-- ACTIVITY_END -->
 
