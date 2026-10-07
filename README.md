@@ -128,6 +128,11 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 7** - Starred [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp)
+- **Oct 7** - Starred [henrygd/beszel](https://github.com/henrygd/beszel)
+- **Oct 5** - Created branch `fix/catalog-shrinking-tools-not-review` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
+- **Oct 6** - Starred [blixvip/NullMotion](https://github.com/blixvip/NullMotion)
+- **Oct 6** - Starred [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Oct 5** - Merged PR [#82](https://github.com/furkankoykiran/.claude/pull/82) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #82
 - **Oct 5** - Opened PR [#82](https://github.com/furkankoykiran/.claude/pull/82) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #82
 - **Oct 5** - Created branch `feat/remove-manim-and-readme-video` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
@@ -143,11 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 3** - Created branch `fix/ccs-codex-bridge-regressions` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Oct 3** - Merged PR [#76](https://github.com/furkankoykiran/.claude/pull/76) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #76
 - **Oct 3** - Opened PR [#76](https://github.com/furkankoykiran/.claude/pull/76) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #76
-- **Oct 3** - Created branch `fix/codex-prompt-block-forwarding` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Oct 3** - Merged PR [#75](https://github.com/furkankoykiran/.claude/pull/75) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #75
-- **Oct 3** - Opened PR [#75](https://github.com/furkankoykiran/.claude/pull/75) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #75
-- **Oct 2** - Merged PR [#73](https://github.com/furkankoykiran/.claude/pull/73) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #73
-- **Oct 2** - Opened PR [#73](https://github.com/furkankoykiran/.claude/pull/73) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #73
 
 <!-- ACTIVITY_END -->
 
