@@ -128,6 +128,15 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 7** - Created branch `feat/turkish-localization` in [furkankoykiran/nutrition-mcp](https://github.com/furkankoykiran/nutrition-mcp)
+- **Oct 7** - Created branch `tmp-probe` in [furkankoykiran/nutrition-mcp](https://github.com/furkankoykiran/nutrition-mcp)
+- **Oct 8** - Merged PR [#223](https://github.com/akutishevsky/nutrition-mcp/pull/223) in [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp): PR #223
+- **Oct 7** - Opened issue [#2566](https://github.com/henrygd/beszel/issues/2566) in [henrygd/beszel](https://github.com/henrygd/beszel): [Feature]: Disk usage growth trend / time-to-threshold estimate
+- **Oct 7** - Commented on issue [#222](https://github.com/akutishevsky/nutrition-mcp/issues/222#issuecomment-6042938352) in [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp)
+- **Oct 7** - Opened PR [#223](https://github.com/akutishevsky/nutrition-mcp/pull/223) in [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp): PR #223
+- **Oct 7** - Opened issue [#222](https://github.com/akutishevsky/nutrition-mcp/issues/222) in [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp): Add Turkish (tr) as a site and widget locale
+- **Oct 7** - Forked [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp)
+- **Oct 7** - Starred [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads)
 - **Oct 7** - Starred [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp)
 - **Oct 7** - Starred [henrygd/beszel](https://github.com/henrygd/beszel)
 - **Oct 5** - Created branch `fix/catalog-shrinking-tools-not-review` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
@@ -139,15 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 5** - Merged PR [#81](https://github.com/furkankoykiran/.claude/pull/81) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #81
 - **Oct 5** - Opened PR [#81](https://github.com/furkankoykiran/.claude/pull/81) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #81
 - **Oct 4** - Created branch `fix/update-automation-policy` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Oct 4** - Unlabeled PR [#74](https://github.com/furkankoykiran/.claude/pull/74) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #74
-- **Oct 4** - Merged PR [#78](https://github.com/furkankoykiran/.claude/pull/78) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #78
-- **Oct 4** - Opened PR [#78](https://github.com/furkankoykiran/.claude/pull/78) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #78
-- **Oct 3** - Created branch `fix/codex-bridge-native-backend` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Oct 3** - Merged PR [#77](https://github.com/furkankoykiran/.claude/pull/77) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #77
-- **Oct 3** - Opened PR [#77](https://github.com/furkankoykiran/.claude/pull/77) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #77
-- **Oct 3** - Created branch `fix/ccs-codex-bridge-regressions` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Oct 3** - Merged PR [#76](https://github.com/furkankoykiran/.claude/pull/76) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #76
-- **Oct 3** - Opened PR [#76](https://github.com/furkankoykiran/.claude/pull/76) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #76
 
 <!-- ACTIVITY_END -->
 
