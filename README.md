@@ -128,6 +128,8 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 9** - Created branch `main` in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
+- **Oct 8** - Starred [github/annotation-toolkit](https://github.com/github/annotation-toolkit)
 - **Oct 7** - Created branch `feat/turkish-localization` in [furkankoykiran/nutrition-mcp](https://github.com/furkankoykiran/nutrition-mcp)
 - **Oct 7** - Created branch `tmp-probe` in [furkankoykiran/nutrition-mcp](https://github.com/furkankoykiran/nutrition-mcp)
 - **Oct 8** - Merged PR [#223](https://github.com/akutishevsky/nutrition-mcp/pull/223) in [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp): PR #223
@@ -146,8 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 5** - Opened PR [#82](https://github.com/furkankoykiran/.claude/pull/82) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #82
 - **Oct 5** - Created branch `feat/remove-manim-and-readme-video` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Oct 5** - Merged PR [#81](https://github.com/furkankoykiran/.claude/pull/81) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #81
-- **Oct 5** - Opened PR [#81](https://github.com/furkankoykiran/.claude/pull/81) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #81
-- **Oct 4** - Created branch `fix/update-automation-policy` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 
 <!-- ACTIVITY_END -->
 
