@@ -128,26 +128,26 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 9** - Merged PR [#87](https://github.com/furkankoykiran/.claude/pull/87) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #87
+- **Oct 9** - Created branch `fix/system-messages-test-parity` in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
+- **Oct 9** - Created branch `main` in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway)
+- **Oct 9** - Merged PR [#1](https://github.com/furkankoykiran/claude-gemini-gateway/pull/1) in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway): PR #1
+- **Oct 9** - Merged PR [#1](https://github.com/furkankoykiran/claude-codex-gateway/pull/1) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway): PR #1
+- **Oct 9** - Starred [snowyukitty/LumenDeck](https://github.com/snowyukitty/LumenDeck)
+- **Oct 9** - Starred [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray)
+- **Oct 9** - Opened PR [#1](https://github.com/furkankoykiran/claude-gemini-gateway/pull/1) in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway): PR #1
+- **Oct 9** - Opened PR [#1](https://github.com/furkankoykiran/claude-codex-gateway/pull/1) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway): PR #1
+- **Oct 9** - Opened PR [#87](https://github.com/furkankoykiran/.claude/pull/87) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #87
+- **Oct 9** - Starred [luanmacea/MultiAlt](https://github.com/luanmacea/MultiAlt)
+- **Oct 9** - Published release [v0.1.3](https://github.com/furkankoykiran/claude-codex-gateway/releases/tag/v0.1.3) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
+- **Oct 9** - Published release [v0.1.2](https://github.com/furkankoykiran/claude-codex-gateway/releases/tag/v0.1.2) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
+- **Oct 9** - Published release [v0.1.1](https://github.com/furkankoykiran/claude-codex-gateway/releases/tag/v0.1.1) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
+- **Oct 9** - Published release [v0.1.0](https://github.com/furkankoykiran/claude-codex-gateway/releases/tag/v0.1.0) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
 - **Oct 9** - Created branch `main` in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
 - **Oct 8** - Starred [github/annotation-toolkit](https://github.com/github/annotation-toolkit)
 - **Oct 7** - Created branch `feat/turkish-localization` in [furkankoykiran/nutrition-mcp](https://github.com/furkankoykiran/nutrition-mcp)
 - **Oct 7** - Created branch `tmp-probe` in [furkankoykiran/nutrition-mcp](https://github.com/furkankoykiran/nutrition-mcp)
 - **Oct 8** - Merged PR [#223](https://github.com/akutishevsky/nutrition-mcp/pull/223) in [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp): PR #223
-- **Oct 7** - Opened issue [#2566](https://github.com/henrygd/beszel/issues/2566) in [henrygd/beszel](https://github.com/henrygd/beszel): [Feature]: Disk usage growth trend / time-to-threshold estimate
-- **Oct 7** - Commented on issue [#222](https://github.com/akutishevsky/nutrition-mcp/issues/222#issuecomment-6042938352) in [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp)
-- **Oct 7** - Opened PR [#223](https://github.com/akutishevsky/nutrition-mcp/pull/223) in [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp): PR #223
-- **Oct 7** - Opened issue [#222](https://github.com/akutishevsky/nutrition-mcp/issues/222) in [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp): Add Turkish (tr) as a site and widget locale
-- **Oct 7** - Forked [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp)
-- **Oct 7** - Starred [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads)
-- **Oct 7** - Starred [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp)
-- **Oct 7** - Starred [henrygd/beszel](https://github.com/henrygd/beszel)
-- **Oct 5** - Created branch `fix/catalog-shrinking-tools-not-review` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Oct 6** - Starred [blixvip/NullMotion](https://github.com/blixvip/NullMotion)
-- **Oct 6** - Starred [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Oct 5** - Merged PR [#82](https://github.com/furkankoykiran/.claude/pull/82) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #82
-- **Oct 5** - Opened PR [#82](https://github.com/furkankoykiran/.claude/pull/82) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #82
-- **Oct 5** - Created branch `feat/remove-manim-and-readme-video` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Oct 5** - Merged PR [#81](https://github.com/furkankoykiran/.claude/pull/81) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #81
 
 <!-- ACTIVITY_END -->
 
