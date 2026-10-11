@@ -128,6 +128,12 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 9** - Created branch `feat/gemini-anthropic-gateway` in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway)
+- **Oct 10** - Starred [sunflower-land/sunflower-land](https://github.com/sunflower-land/sunflower-land)
+- **Oct 10** - Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)
+- **Oct 10** - Opened issue [#23](https://github.com/luanmacea/MultiAlt/issues/23) in [luanmacea/MultiAlt](https://github.com/luanmacea/MultiAlt): Second monitor: Roblox window stays in foreground after Anti-AFK cycle, focus never returns
+- **Oct 10** - Starred [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)
+- **Oct 9** - Created branch `feat/unified-provider-control-plane` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Oct 9** - Merged PR [#87](https://github.com/furkankoykiran/.claude/pull/87) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #87
 - **Oct 9** - Created branch `fix/system-messages-test-parity` in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
 - **Oct 9** - Created branch `main` in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway)
@@ -142,12 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 9** - Published release [v0.1.3](https://github.com/furkankoykiran/claude-codex-gateway/releases/tag/v0.1.3) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
 - **Oct 9** - Published release [v0.1.2](https://github.com/furkankoykiran/claude-codex-gateway/releases/tag/v0.1.2) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
 - **Oct 9** - Published release [v0.1.1](https://github.com/furkankoykiran/claude-codex-gateway/releases/tag/v0.1.1) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
-- **Oct 9** - Published release [v0.1.0](https://github.com/furkankoykiran/claude-codex-gateway/releases/tag/v0.1.0) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
-- **Oct 9** - Created branch `main` in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
-- **Oct 8** - Starred [github/annotation-toolkit](https://github.com/github/annotation-toolkit)
-- **Oct 7** - Created branch `feat/turkish-localization` in [furkankoykiran/nutrition-mcp](https://github.com/furkankoykiran/nutrition-mcp)
-- **Oct 7** - Created branch `tmp-probe` in [furkankoykiran/nutrition-mcp](https://github.com/furkankoykiran/nutrition-mcp)
-- **Oct 8** - Merged PR [#223](https://github.com/akutishevsky/nutrition-mcp/pull/223) in [akutishevsky/nutrition-mcp](https://github.com/akutishevsky/nutrition-mcp): PR #223
 
 <!-- ACTIVITY_END -->
 
