@@ -128,6 +128,10 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 12** - Starred [storytold/artcraft](https://github.com/storytold/artcraft)
+- **Oct 12** - Starred [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+- **Oct 12** - Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+- **Oct 11** - Starred [Eyevinn/hls-proxy](https://github.com/Eyevinn/hls-proxy)
 - **Oct 9** - Created branch `feat/gemini-anthropic-gateway` in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway)
 - **Oct 10** - Starred [sunflower-land/sunflower-land](https://github.com/sunflower-land/sunflower-land)
 - **Oct 10** - Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)
@@ -144,10 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 9** - Opened PR [#1](https://github.com/furkankoykiran/claude-gemini-gateway/pull/1) in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway): PR #1
 - **Oct 9** - Opened PR [#1](https://github.com/furkankoykiran/claude-codex-gateway/pull/1) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway): PR #1
 - **Oct 9** - Opened PR [#87](https://github.com/furkankoykiran/.claude/pull/87) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #87
-- **Oct 9** - Starred [luanmacea/MultiAlt](https://github.com/luanmacea/MultiAlt)
-- **Oct 9** - Published release [v0.1.3](https://github.com/furkankoykiran/claude-codex-gateway/releases/tag/v0.1.3) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
-- **Oct 9** - Published release [v0.1.2](https://github.com/furkankoykiran/claude-codex-gateway/releases/tag/v0.1.2) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
-- **Oct 9** - Published release [v0.1.1](https://github.com/furkankoykiran/claude-codex-gateway/releases/tag/v0.1.1) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
 
 <!-- ACTIVITY_END -->
 
