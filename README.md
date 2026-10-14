@@ -128,6 +128,15 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 12** - Created branch `brand/final-foundation` in [furkankoykiran/fcode](https://github.com/furkankoykiran/fcode)
+- **Oct 12** - Created branch `feat/gateway-family-standardization` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
+- **Oct 13** - Merged PR [#3](https://github.com/furkankoykiran/claude-codex-gateway/pull/3) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway): PR #3
+- **Oct 13** - Created branch `fix/codex-gateway-submodule-update` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
+- **Oct 13** - Merged PR [#95](https://github.com/furkankoykiran/.claude/pull/95) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #95
+- **Oct 13** - Opened PR [#95](https://github.com/furkankoykiran/.claude/pull/95) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #95
+- **Oct 13** - Opened PR [#3](https://github.com/furkankoykiran/claude-codex-gateway/pull/3) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway): PR #3
+- **Oct 13** - Created branch `main` in [furkankoykiran/fsecurity](https://github.com/furkankoykiran/fsecurity)
+- **Oct 12** - Created branch `feat/antigravity-cli-adapter` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Oct 12** - Created branch `foundation/governance-and-ci` in [furkankoykiran/fcode](https://github.com/furkankoykiran/fcode)
 - **Oct 12** - Created branch `feat/antigravity-cli-adapter` in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway)
 - **Oct 12** - Created branch `main` in [furkankoykiran/fcode](https://github.com/furkankoykiran/fcode)
@@ -139,15 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 12** - Merged PR [#5](https://github.com/furkankoykiran/claude-gemini-gateway/pull/5) in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway): PR #5
 - **Oct 12** - Opened PR [#5](https://github.com/furkankoykiran/claude-gemini-gateway/pull/5) in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway): PR #5
 - **Oct 12** - Opened PR [#92](https://github.com/furkankoykiran/.claude/pull/92) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #92
-- **Oct 12** - Merged PR [#4](https://github.com/furkankoykiran/claude-gemini-gateway/pull/4) in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway): PR #4
-- **Oct 12** - Merged PR [#1](https://github.com/furkankoykiran/fcode/pull/1) in [furkankoykiran/fcode](https://github.com/furkankoykiran/fcode): PR #1
-- **Oct 12** - Merged PR [#2](https://github.com/furkankoykiran/fcode/pull/2) in [furkankoykiran/fcode](https://github.com/furkankoykiran/fcode): PR #2
-- **Oct 12** - Opened PR [#2](https://github.com/furkankoykiran/fcode/pull/2) in [furkankoykiran/fcode](https://github.com/furkankoykiran/fcode): PR #2
-- **Oct 12** - Opened PR [#4](https://github.com/furkankoykiran/claude-gemini-gateway/pull/4) in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway): PR #4
-- **Oct 12** - Merged PR [#3](https://github.com/furkankoykiran/claude-gemini-gateway/pull/3) in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway): PR #3
-- **Oct 12** - Opened PR [#3](https://github.com/furkankoykiran/claude-gemini-gateway/pull/3) in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway): PR #3
-- **Oct 12** - Merged PR [#2](https://github.com/furkankoykiran/claude-gemini-gateway/pull/2) in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway): PR #2
-- **Oct 12** - Merged PR [#2](https://github.com/furkankoykiran/claude-codex-gateway/pull/2) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway): PR #2
 
 <!-- ACTIVITY_END -->
 
