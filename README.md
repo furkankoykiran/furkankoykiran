@@ -128,6 +128,13 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 13** - Created branch `fix/codex-dynamic-tools-cwd-parity` in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
+- **Oct 15** - Starred [GeraldYa/portfolio-template](https://github.com/GeraldYa/portfolio-template)
+- **Oct 15** - Starred [jonathanrao99/Restaurant-Template](https://github.com/jonathanrao99/Restaurant-Template)
+- **Oct 15** - Starred [9d8dev/directory](https://github.com/9d8dev/directory)
+- **Oct 15** - Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
+- **Oct 15** - Starred [medusajs/dtc-starter](https://github.com/medusajs/dtc-starter)
+- **Oct 14** - Starred [iamumeransari/claude-show-your-work](https://github.com/iamumeransari/claude-show-your-work)
 - **Oct 12** - Created branch `brand/final-foundation` in [furkankoykiran/fcode](https://github.com/furkankoykiran/fcode)
 - **Oct 12** - Created branch `feat/gateway-family-standardization` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Oct 13** - Merged PR [#3](https://github.com/furkankoykiran/claude-codex-gateway/pull/3) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway): PR #3
@@ -141,13 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 12** - Created branch `feat/antigravity-cli-adapter` in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway)
 - **Oct 12** - Created branch `main` in [furkankoykiran/fcode](https://github.com/furkankoykiran/fcode)
 - **Oct 13** - Starred [xerj-org/xerj](https://github.com/xerj-org/xerj)
-- **Oct 12** - Merged PR [#93](https://github.com/furkankoykiran/.claude/pull/93) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #93
-- **Oct 12** - Opened PR [#93](https://github.com/furkankoykiran/.claude/pull/93) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #93
-- **Oct 12** - Created branch `fix/dynamic-api-provider-runtime` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Oct 12** - Merged PR [#92](https://github.com/furkankoykiran/.claude/pull/92) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #92
-- **Oct 12** - Merged PR [#5](https://github.com/furkankoykiran/claude-gemini-gateway/pull/5) in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway): PR #5
-- **Oct 12** - Opened PR [#5](https://github.com/furkankoykiran/claude-gemini-gateway/pull/5) in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway): PR #5
-- **Oct 12** - Opened PR [#92](https://github.com/furkankoykiran/.claude/pull/92) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #92
 
 <!-- ACTIVITY_END -->
 
