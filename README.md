@@ -128,6 +128,9 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 15** - Starred [knadh/listmonk](https://github.com/knadh/listmonk)
+- **Oct 15** - Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)
+- **Oct 15** - Starred [udaysharmadev/Gravitas](https://github.com/udaysharmadev/Gravitas)
 - **Oct 13** - Created branch `fix/codex-dynamic-tools-cwd-parity` in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
 - **Oct 15** - Starred [GeraldYa/portfolio-template](https://github.com/GeraldYa/portfolio-template)
 - **Oct 15** - Starred [jonathanrao99/Restaurant-Template](https://github.com/jonathanrao99/Restaurant-Template)
@@ -145,9 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 13** - Created branch `main` in [furkankoykiran/fsecurity](https://github.com/furkankoykiran/fsecurity)
 - **Oct 12** - Created branch `feat/antigravity-cli-adapter` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
 - **Oct 12** - Created branch `foundation/governance-and-ci` in [furkankoykiran/fcode](https://github.com/furkankoykiran/fcode)
-- **Oct 12** - Created branch `feat/antigravity-cli-adapter` in [furkankoykiran/claude-gemini-gateway](https://github.com/furkankoykiran/claude-gemini-gateway)
-- **Oct 12** - Created branch `main` in [furkankoykiran/fcode](https://github.com/furkankoykiran/fcode)
-- **Oct 13** - Starred [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
 <!-- ACTIVITY_END -->
 
