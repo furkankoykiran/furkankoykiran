@@ -128,6 +128,16 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 16** - Starred [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)
+- **Oct 16** - Starred [titanwings/distilly](https://github.com/titanwings/distilly)
+- **Oct 16** - Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+- **Oct 16** - Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+- **Oct 16** - Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
+- **Oct 16** - Starred [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)
+- **Oct 16** - Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+- **Oct 16** - Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+- **Oct 16** - Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+- **Oct 16** - Starred [morluto/rea](https://github.com/morluto/rea)
 - **Oct 15** - Starred [knadh/listmonk](https://github.com/knadh/listmonk)
 - **Oct 15** - Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)
 - **Oct 15** - Starred [udaysharmadev/Gravitas](https://github.com/udaysharmadev/Gravitas)
@@ -138,16 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 15** - Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
 - **Oct 15** - Starred [medusajs/dtc-starter](https://github.com/medusajs/dtc-starter)
 - **Oct 14** - Starred [iamumeransari/claude-show-your-work](https://github.com/iamumeransari/claude-show-your-work)
-- **Oct 12** - Created branch `brand/final-foundation` in [furkankoykiran/fcode](https://github.com/furkankoykiran/fcode)
-- **Oct 12** - Created branch `feat/gateway-family-standardization` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Oct 13** - Merged PR [#3](https://github.com/furkankoykiran/claude-codex-gateway/pull/3) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway): PR #3
-- **Oct 13** - Created branch `fix/codex-gateway-submodule-update` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Oct 13** - Merged PR [#95](https://github.com/furkankoykiran/.claude/pull/95) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #95
-- **Oct 13** - Opened PR [#95](https://github.com/furkankoykiran/.claude/pull/95) in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude): PR #95
-- **Oct 13** - Opened PR [#3](https://github.com/furkankoykiran/claude-codex-gateway/pull/3) in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway): PR #3
-- **Oct 13** - Created branch `main` in [furkankoykiran/fsecurity](https://github.com/furkankoykiran/fsecurity)
-- **Oct 12** - Created branch `feat/antigravity-cli-adapter` in [furkankoykiran/.claude](https://github.com/furkankoykiran/.claude)
-- **Oct 12** - Created branch `foundation/governance-and-ci` in [furkankoykiran/fcode](https://github.com/furkankoykiran/fcode)
 
 <!-- ACTIVITY_END -->
 
