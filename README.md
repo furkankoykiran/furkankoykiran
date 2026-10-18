@@ -128,6 +128,10 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 18** - Starred [pollinations/pollinations](https://github.com/pollinations/pollinations)
+- **Oct 18** - Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)
+- **Oct 17** - Starred [Miftahul-Islam-Efaz/Motion-graphics-skill](https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill)
+- **Oct 17** - Starred [earendil-works/pi](https://github.com/earendil-works/pi)
 - **Oct 16** - Starred [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)
 - **Oct 16** - Starred [titanwings/distilly](https://github.com/titanwings/distilly)
 - **Oct 16** - Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
@@ -144,10 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 13** - Created branch `fix/codex-dynamic-tools-cwd-parity` in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
 - **Oct 15** - Starred [GeraldYa/portfolio-template](https://github.com/GeraldYa/portfolio-template)
 - **Oct 15** - Starred [jonathanrao99/Restaurant-Template](https://github.com/jonathanrao99/Restaurant-Template)
-- **Oct 15** - Starred [9d8dev/directory](https://github.com/9d8dev/directory)
-- **Oct 15** - Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
-- **Oct 15** - Starred [medusajs/dtc-starter](https://github.com/medusajs/dtc-starter)
-- **Oct 14** - Starred [iamumeransari/claude-show-your-work](https://github.com/iamumeransari/claude-show-your-work)
 
 <!-- ACTIVITY_END -->
 
