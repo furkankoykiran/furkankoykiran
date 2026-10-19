@@ -128,6 +128,9 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 19** - Starred [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer)
+- **Oct 18** - Starred [Thysrael/Horizon](https://github.com/Thysrael/Horizon)
+- **Oct 18** - Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
 - **Oct 18** - Starred [pollinations/pollinations](https://github.com/pollinations/pollinations)
 - **Oct 18** - Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)
 - **Oct 17** - Starred [Miftahul-Islam-Efaz/Motion-graphics-skill](https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill)
@@ -145,9 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 15** - Starred [knadh/listmonk](https://github.com/knadh/listmonk)
 - **Oct 15** - Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)
 - **Oct 15** - Starred [udaysharmadev/Gravitas](https://github.com/udaysharmadev/Gravitas)
-- **Oct 13** - Created branch `fix/codex-dynamic-tools-cwd-parity` in [furkankoykiran/claude-codex-gateway](https://github.com/furkankoykiran/claude-codex-gateway)
-- **Oct 15** - Starred [GeraldYa/portfolio-template](https://github.com/GeraldYa/portfolio-template)
-- **Oct 15** - Starred [jonathanrao99/Restaurant-Template](https://github.com/jonathanrao99/Restaurant-Template)
 
 <!-- ACTIVITY_END -->
 
