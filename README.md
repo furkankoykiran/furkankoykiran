@@ -128,12 +128,13 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 19** - Starred [youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)
+- **Oct 19** - Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
 - **Oct 19** - Starred [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer)
 - **Oct 18** - Starred [Thysrael/Horizon](https://github.com/Thysrael/Horizon)
 - **Oct 18** - Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
 - **Oct 18** - Starred [pollinations/pollinations](https://github.com/pollinations/pollinations)
 - **Oct 18** - Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Oct 17** - Starred [Miftahul-Islam-Efaz/Motion-graphics-skill](https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill)
 - **Oct 17** - Starred [earendil-works/pi](https://github.com/earendil-works/pi)
 - **Oct 16** - Starred [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)
 - **Oct 16** - Starred [titanwings/distilly](https://github.com/titanwings/distilly)
@@ -147,7 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 16** - Starred [morluto/rea](https://github.com/morluto/rea)
 - **Oct 15** - Starred [knadh/listmonk](https://github.com/knadh/listmonk)
 - **Oct 15** - Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)
-- **Oct 15** - Starred [udaysharmadev/Gravitas](https://github.com/udaysharmadev/Gravitas)
 
 <!-- ACTIVITY_END -->
 
