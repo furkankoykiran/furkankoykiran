@@ -128,6 +128,8 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 21** - Starred [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
+- **Oct 20** - Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
 - **Oct 19** - Starred [youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)
 - **Oct 19** - Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
 - **Oct 19** - Starred [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer)
@@ -146,8 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 16** - Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
 - **Oct 16** - Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 - **Oct 16** - Starred [morluto/rea](https://github.com/morluto/rea)
-- **Oct 15** - Starred [knadh/listmonk](https://github.com/knadh/listmonk)
-- **Oct 15** - Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)
 
 <!-- ACTIVITY_END -->
 
