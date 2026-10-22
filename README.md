@@ -128,6 +128,9 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 22** - Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
+- **Oct 21** - Starred [ethanplusai/harvey](https://github.com/ethanplusai/harvey)
+- **Oct 21** - Starred [mattpocock/skills](https://github.com/mattpocock/skills)
 - **Oct 21** - Starred [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
 - **Oct 20** - Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
 - **Oct 19** - Starred [youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)
@@ -145,9 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 16** - Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 - **Oct 16** - Starred [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)
 - **Oct 16** - Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
-- **Oct 16** - Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
-- **Oct 16** - Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-- **Oct 16** - Starred [morluto/rea](https://github.com/morluto/rea)
 
 <!-- ACTIVITY_END -->
 
