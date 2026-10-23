@@ -128,6 +128,8 @@ Creating decentralized applications and smart contract integrations with focus o
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Oct 22** - Merged PR [#7](https://github.com/furkankoykiran/awesome-trending-repos/pull/7) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #7
+- **Oct 22** - Opened PR [#7](https://github.com/furkankoykiran/awesome-trending-repos/pull/7) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #7
 - **Oct 22** - Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
 - **Oct 21** - Starred [ethanplusai/harvey](https://github.com/ethanplusai/harvey)
 - **Oct 21** - Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -146,8 +148,6 @@ Creating decentralized applications and smart contract integrations with focus o
 - **Oct 16** - Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 - **Oct 16** - Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 - **Oct 16** - Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
-- **Oct 16** - Starred [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)
-- **Oct 16** - Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
 <!-- ACTIVITY_END -->
 
