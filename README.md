@@ -163,7 +163,7 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 19.9k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
 - **[keploy/keploy](https://github.com/keploy/keploy)** ★ 18.7k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.8k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
-- **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 897: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
+- **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 896: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
 - **[google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk)** ★ 138: [Implement session deletion API](https://github.com/google-labs-code/jules-sdk/pull/184)
 
 **11 merged pull requests across 8 open-source projects.** Full list: [furkankoykiran.com.tr/en/contributions](https://furkankoykiran.com.tr/en/contributions/)
@@ -174,6 +174,12 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
+- **Oct 24** - Merged PR [#2](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/2) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
+- **Oct 24** - Opened PR [#2](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/2) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
+- **Oct 24** - Merged PR [#1](https://github.com/furkankoykiran/blog/pull/1) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
+- **Oct 24** - Opened PR [#1](https://github.com/furkankoykiran/blog/pull/1) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
+- **Oct 24** - Merged PR [#1](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/1) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
+- **Oct 24** - Opened PR [#1](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/1) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
 - **Oct 23** - Opened issue [#104665](https://github.com/anthropics/claude-code/issues/104665) in [anthropics/claude-code](https://github.com/anthropics/claude-code): [BUG] Agent Map (/tasks) and ListAgents report stale/inconsistent subagent status while work is still in progress
 - **Oct 23** - Starred [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack)
 - **Oct 23** - Pushed to [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
@@ -188,12 +194,6 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **Oct 19** - Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
 - **Oct 19** - Starred [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer)
 - **Oct 19** - Starred [Thysrael/Horizon](https://github.com/Thysrael/Horizon)
-- **Oct 18** - Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
-- **Oct 18** - Starred [pollinations/pollinations](https://github.com/pollinations/pollinations)
-- **Oct 18** - Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)
-- **Oct 17** - Starred [earendil-works/pi](https://github.com/earendil-works/pi)
-- **Oct 17** - Starred [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)
-- **Oct 16** - Starred [titanwings/distilly](https://github.com/titanwings/distilly)
 <!-- ACTIVITY_END -->
 
 ---
