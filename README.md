@@ -159,7 +159,7 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 <!-- CONTRIBUTIONS_START -->
 - **[github/spec-kit](https://github.com/github/spec-kit)** ★ 142.6k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
 - **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 98.4k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 56.6k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 56.7k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
 - **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 19.9k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
 - **[keploy/keploy](https://github.com/keploy/keploy)** ★ 18.7k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.8k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
@@ -174,6 +174,15 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
+- **Oct 24** - Pushed to [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
+- **Oct 24** - Merged PR [#3](https://github.com/furkankoykiran/blog/pull/3) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
+- **Oct 24** - Pushed to [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
+- **Oct 24** - Merged PR [#3](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/3) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
+- **Oct 24** - Opened PR [#3](https://github.com/furkankoykiran/blog/pull/3) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
+- **Oct 24** - Opened PR [#3](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/3) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
+- **Oct 24** - Opened issue [#8](https://github.com/furkankoykiran/awesome-trending-repos/issues/8) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): Daily workflow never commits public/data/feed.json
+- **Oct 24** - Merged PR [#2](https://github.com/furkankoykiran/blog/pull/2) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
+- **Oct 24** - Opened PR [#2](https://github.com/furkankoykiran/blog/pull/2) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
 - **Oct 24** - Merged PR [#2](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/2) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
 - **Oct 24** - Opened PR [#2](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/2) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
 - **Oct 24** - Merged PR [#1](https://github.com/furkankoykiran/blog/pull/1) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
@@ -185,15 +194,6 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **Oct 23** - Pushed to [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
 - **Oct 23** - Merged PR [#7](https://github.com/furkankoykiran/awesome-trending-repos/pull/7) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
 - **Oct 23** - Opened PR [#7](https://github.com/furkankoykiran/awesome-trending-repos/pull/7) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
-- **Oct 22** - Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
-- **Oct 21** - Starred [ethanplusai/harvey](https://github.com/ethanplusai/harvey)
-- **Oct 21** - Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-- **Oct 21** - Starred [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
-- **Oct 20** - Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
-- **Oct 20** - Starred [youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)
-- **Oct 19** - Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
-- **Oct 19** - Starred [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer)
-- **Oct 19** - Starred [Thysrael/Horizon](https://github.com/Thysrael/Horizon)
 <!-- ACTIVITY_END -->
 
 ---
