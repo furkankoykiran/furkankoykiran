@@ -2,15 +2,17 @@
 
 # Hi, I'm Furkan Köykıran
 
-### Python Developer | Web3 Enthusiast | MCP Server Builder | Trading Systems
+### MCP Servers | AI Agents | Developer Tools | Python Automation | Trading Systems
+
+<a href="https://furkankoykiran.com.tr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2F7CF6&center=true&vCenter=true&width=720&height=44&lines=Building+MCP+servers+%26+AI+agents;Developer+tools+that+save+real+time;Python+automation+%26+trading+systems" alt="Building MCP servers and AI agents. Developer tools that save real time. Python automation and trading systems."></a>
 
 [![Website](https://img.shields.io/badge/Website-furkankoykiran.com.tr-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://furkankoykiran.com.tr)
+[![Blog](https://img.shields.io/badge/Blog-blog.furkankoykiran.com.tr-2DD4BF?style=for-the-badge&logo=rss&logoColor=white)](https://blog.furkankoykiran.com.tr/en/)
 [![Email](https://img.shields.io/badge/Email-furkankoykiran@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkankoykiran@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Turkey-red?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-[![Dev.to](https://img.shields.io/badge/Dev.to-furkankoykiran-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/furkankoykiran)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/furkankoykiran?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1c1917)](https://www.twitter.com/furkankoykiran)
-[![GitHub followers](https://img.shields.io/github/followers/furkankoykiran?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/furkankoykiran)
+[![Open to work](https://img.shields.io/badge/Open%20to%20work-Backend%20%C2%B7%20AI%20agents%20%C2%B7%20Dev%20tools-22C55E?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/furkankoykiran/)
+![Location: Türkiye, open to remote](https://img.shields.io/badge/Location-T%C3%BCrkiye%20%C2%B7%20Open%20to%20remote-red?style=for-the-badge&logo=google-maps&logoColor=white)
+[![GitHub followers](https://img.shields.io/github/followers/furkankoykiran?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/furkankoykiran?tab=followers)
 
 </div>
 
@@ -22,21 +24,26 @@
 class Developer:
     def __init__(self):
         self.name = "Furkan Köykıran"
-        self.role = "Python Developer & MCP Specialist"
-        self.location = "Turkey"
+        self.role = "Software Developer · MCP Servers & AI Agents"
+        self.status = "Recent graduate · Open to work"
+        self.location = "Türkiye · Open to remote"
         self.focus = [
             "Model Context Protocol (MCP) Servers",
-            "AI/ML Integration",
-            "Trading Automation",
-            "Web3 & Blockchain"
+            "AI Agents & LLM Tooling",
+            "Developer Tools",
+            "Python Automation & Trading Systems",
+            "Open-Source Contributions",
         ]
+        self.next = "Founding my own company"
 
     def building(self):
         return {
-            "mcp_servers": ["OmniWire-MCP", "DevTo-MCP", "whop-mcp"],
-            "ai_tools": ["AI Face Detector", "Computer Vision"],
-            "trading": ["Telegram Wallet P2P SDK", "Market Analytics"],
-            "productivity": ["Memoryze", "Codelyze"]
+            "mcp_servers": ["DevTo-MCP", "OmniWire-MCP", "freqtrade-mcp", "whop-mcp", "upwork-mcp"],
+            "ai_agents": ["Quorum", "claude-gemini-gateway", "claude-codex-gateway"],
+            "dev_tools": [".claude", "awesome-trending-repos", "contextify-cli"],
+            "trading": ["telegram-wallet-p2p-sdk", "speedapi_lib"],
+            "ml": ["ai-face-detector"],
+            "productivity": ["Memoryze", "codelyze"],
         }
 
 me = Developer()
@@ -49,29 +56,28 @@ me = Developer()
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cgo%2Cbash&theme=light">
+  <img src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cgo%2Cbash&theme=dark" alt="Python, TypeScript, JavaScript, Go, Bash">
+</picture>
 
 ### AI & ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch%2Ctensorflow%2Csklearn&theme=light">
+  <img src="https://skillicons.dev/icons?i=pytorch%2Ctensorflow%2Csklearn&theme=dark" alt="PyTorch, TensorFlow, scikit-learn">
+</picture>
 
-### Web3 & Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+### Backend & Data
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cbun%2Cfastapi%2Cflask%2Cpostgres%2Csqlite%2Credis%2Csupabase&theme=light">
+  <img src="https://skillicons.dev/icons?i=nodejs%2Cbun%2Cfastapi%2Cflask%2Cpostgres%2Csqlite%2Credis%2Csupabase&theme=dark" alt="Node.js, Bun, FastAPI, Flask, PostgreSQL, SQLite, Redis, Supabase">
+</picture>
 
-### Tools & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### DevOps & Tools
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker%2Cgithubactions%2Clinux%2Cnginx%2Ccloudflare%2Cgit%2Cvscode&theme=light">
+  <img src="https://skillicons.dev/icons?i=docker%2Cgithubactions%2Clinux%2Cnginx%2Ccloudflare%2Cgit%2Cvscode&theme=dark" alt="Docker, GitHub Actions, Linux, Nginx, Cloudflare, Git, VS Code">
+</picture>
 
 </div>
 
@@ -81,24 +87,36 @@ me = Developer()
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=furkankoykiran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&card_width=500"/>
+<a href="https://github.com/furkankoykiran?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkankoykiran/furkankoykiran/output/stats-light.svg">
+    <img height="180" src="https://raw.githubusercontent.com/furkankoykiran/furkankoykiran/output/stats-dark.svg" alt="GitHub stats for furkankoykiran: stars, commits, pull requests, issues and contributions">
+  </picture>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkankoykiran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500"/>
+<a href="https://github.com/furkankoykiran?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkankoykiran/furkankoykiran/output/top-langs-light.svg">
+    <img height="180" src="https://raw.githubusercontent.com/furkankoykiran/furkankoykiran/output/top-langs-dark.svg" alt="Most used languages across public repositories">
+  </picture>
 </a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkankoykiran&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=furkankoykiran&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkankoykiran&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak: total contributions, current streak and longest streak">
+</picture>
 
 </div>
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furkankoykiran&theme=tokyo-night&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkankoykiran/furkankoykiran/output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/furkankoykiran/furkankoykiran/output/snake-dark.svg" alt="Contribution graph of the last year, animated as a snake eating the green squares">
+</picture>
 
 </div>
 
@@ -106,49 +124,76 @@ me = Developer()
 
 ## What I Build
 
-### Model Context Protocol (MCP) Servers
-Building production-ready MCP servers that bridge AI assistants with external services. Developing fault-tolerant news aggregation systems, community platform integrations, payment management solutions, and cryptocurrency trading analytics tools. Focus on TypeScript implementation with comprehensive error handling and real-time capabilities.
+### MCP Servers & AI Agents
+Production-ready MCP servers that connect AI assistants to real services: DEV Community publishing, fault-tolerant news aggregation, Freqtrade bot control, payments and freelance platforms. Mostly TypeScript with strict validation, retries and rate-limit handling, plus multi-agent systems in Python.
+
+### Developer Tools
+Tools I use every day and publish: a reproducible Claude Code toolkit with pinned, reviewed skills, gateways that let Claude Code run on other model providers, and a trending-repos tracker that runs entirely on GitHub Actions.
+
+### Python Automation & Trading Systems
+Trading bots, market data SDKs and spread analytics for crypto P2P markets, built around risk management and reliable automation.
 
 ### AI & Machine Learning
-Creating deep learning solutions for authenticity verification and computer vision applications. Building models for deepfake detection with high accuracy using transfer learning and modern neural network architectures. Developing automated testing and validation systems for AI-generated content.
+Computer vision with transfer learning, such as a MobileNetV2 model that separates AI-generated faces from real ones, served with FastAPI.
 
-### Trading & Financial Automation
-Developing algorithmic trading systems for cryptocurrency and forex markets. Building real-time market analytics tools, spread analysis platforms, and peer-to-peer trading intelligence systems. Creating automated bots for various trading platforms with focus on risk management and performance optimization.
+---
 
-### Productivity & Developer Tools
-Building spaced repetition knowledge management systems and coding profile analyzers. Creating tools that help developers track their competitive programming progress across multiple platforms. Developing automation solutions that streamline daily workflows and enhance productivity.
+## Featured Projects
 
-### Web3 & Blockchain Applications
-Creating decentralized applications and smart contract integrations with focus on DeFi protocols and blockchain infrastructure. Building tools for cryptocurrency wallet management, P2P trading, and blockchain analytics.
+<!-- FEATURED_START -->
+- **[DevTo-MCP](https://github.com/furkankoykiran/DevTo-MCP)** (TypeScript · ★ 6): MCP server for the DEV Community (Forem) API: articles, comments, tags and reading lists. Published on npm. [Details →](https://furkankoykiran.com.tr/en/projects/devto-mcp/)
+- **[freqtrade-mcp](https://github.com/furkankoykiran/freqtrade-mcp)** (TypeScript · ★ 2): Lets AI agents query and control a Freqtrade trading bot through its REST API. [Details →](https://furkankoykiran.com.tr/en/projects/freqtrade-mcp/)
+- **[OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP)** (TypeScript · ★ 6): Fault-tolerant news MCP server that normalises RSS, Atom, JSON and HTML feeds behind circuit breakers. [Details →](https://furkankoykiran.com.tr/en/projects/omniwire-mcp/)
+- **[claude-code-toolkit](https://github.com/furkankoykiran/.claude)** (TypeScript · ★ 5): One-command, reproducible Claude Code setup; every skill is pinned to a reviewed commit. [Details →](https://furkankoykiran.com.tr/en/projects/claude/)
+- **[awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)** (JavaScript · ★ 23): Daily curated list of trending GitHub repositories with a live dashboard, run entirely on GitHub Actions. [Details →](https://furkankoykiran.com.tr/en/projects/awesome-trending-repos/)
+- **[Quorum](https://github.com/furkankoykiran/Quorum)** (Python): Multi-agent trading committee: agents debate and vote on every trade, with Shapley-based profit attribution. [Details →](https://furkankoykiran.com.tr/en/projects/quorum/)
+- **[telegram-wallet-p2p-sdk](https://github.com/furkankoykiran/telegram-wallet-p2p-sdk)** (Python · ★ 7): Python, Node.js and MCP clients for the Telegram Wallet P2P market: listings, best prices and spread analytics. [Details →](https://furkankoykiran.com.tr/en/projects/telegram-wallet-p2p-sdk/)
+- **[ai-face-detector](https://github.com/furkankoykiran/ai-face-detector)** (Python · ★ 5): MobileNetV2 transfer-learning model that tells AI-generated faces from real ones, served with FastAPI. [Details →](https://furkankoykiran.com.tr/en/projects/ai-face-detector/)
+- **[EarthquakeSim](https://github.com/furkankoykiran/EarthquakeSim)** (JavaScript): Browser-based 3D earthquake emergency training simulator with aftershocks, scoring and CSV reports. [Details →](https://furkankoykiran.com.tr/en/projects/earthquakesim/)
+<!-- FEATURED_END -->
+
+---
+
+## Open-Source Contributions
+
+<!-- CONTRIBUTIONS_START -->
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 142.6k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 98.4k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 56.6k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
+- **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 19.9k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
+- **[keploy/keploy](https://github.com/keploy/keploy)** ★ 18.7k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
+- **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.8k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
+- **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 897: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
+- **[google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk)** ★ 138: [Implement session deletion API](https://github.com/google-labs-code/jules-sdk/pull/184)
+
+**11 merged pull requests across 8 open-source projects.** Full list: [furkankoykiran.com.tr/en/contributions](https://furkankoykiran.com.tr/en/contributions/)
+<!-- CONTRIBUTIONS_END -->
 
 ---
 
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
-<!-- This section is automatically updated daily with recent GitHub activity -->
-
-- **Oct 22** - Merged PR [#7](https://github.com/furkankoykiran/awesome-trending-repos/pull/7) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #7
-- **Oct 22** - Opened PR [#7](https://github.com/furkankoykiran/awesome-trending-repos/pull/7) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): PR #7
+- **Oct 23** - Opened issue [#104665](https://github.com/anthropics/claude-code/issues/104665) in [anthropics/claude-code](https://github.com/anthropics/claude-code): [BUG] Agent Map (/tasks) and ListAgents report stale/inconsistent subagent status while work is still in progress
+- **Oct 23** - Starred [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack)
+- **Oct 23** - Pushed to [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
+- **Oct 23** - Merged PR [#7](https://github.com/furkankoykiran/awesome-trending-repos/pull/7) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
+- **Oct 23** - Opened PR [#7](https://github.com/furkankoykiran/awesome-trending-repos/pull/7) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
 - **Oct 22** - Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
 - **Oct 21** - Starred [ethanplusai/harvey](https://github.com/ethanplusai/harvey)
 - **Oct 21** - Starred [mattpocock/skills](https://github.com/mattpocock/skills)
 - **Oct 21** - Starred [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
 - **Oct 20** - Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
-- **Oct 19** - Starred [youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)
+- **Oct 20** - Starred [youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)
 - **Oct 19** - Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
 - **Oct 19** - Starred [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer)
-- **Oct 18** - Starred [Thysrael/Horizon](https://github.com/Thysrael/Horizon)
+- **Oct 19** - Starred [Thysrael/Horizon](https://github.com/Thysrael/Horizon)
 - **Oct 18** - Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
 - **Oct 18** - Starred [pollinations/pollinations](https://github.com/pollinations/pollinations)
 - **Oct 18** - Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)
 - **Oct 17** - Starred [earendil-works/pi](https://github.com/earendil-works/pi)
-- **Oct 16** - Starred [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)
+- **Oct 17** - Starred [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)
 - **Oct 16** - Starred [titanwings/distilly](https://github.com/titanwings/distilly)
-- **Oct 16** - Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
-- **Oct 16** - Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
-- **Oct 16** - Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
-
 <!-- ACTIVITY_END -->
 
 ---
@@ -156,20 +201,18 @@ Creating decentralized applications and smart contract integrations with focus o
 ## Latest Blog Posts
 
 <!-- BLOG_START -->
-<!-- This section is automatically updated with recent blog posts from personal blog -->
-
-- [GitHub Actions Dakikaları Bitti: Kendi Sunucuma Self-Hosted Runner Kurdum](https://blog.furkankoykiran.com.tr/posts/github-actions-self-hosted-runner-tr/) (May 6, 2026)
-- [Free CI Minutes Are Gone: Setting Up a GitHub Actions Self-Hosted Runner on Linux](https://blog.furkankoykiran.com.tr/posts/github-actions-self-hosted-runner-en/) (May 6, 2026)
-- [freqtrade-mcp: Bota Claude Üzerinden Sor](https://blog.furkankoykiran.com.tr/posts/freqtrade-mcp-server-tr/) (Apr 4, 2026)
-- [freqtrade-mcp: Ask Claude to Check Your Trades](https://blog.furkankoykiran.com.tr/posts/freqtrade-mcp-server-en/) (Apr 4, 2026)
-- [awesome-trending-repos: GitHub Trending için Modern Web Arayüzü](https://blog.furkankoykiran.com.tr/posts/awesome-trending-repos-web/) (Mar 27, 2026)
-
+- [GitHub Actions Self-Hosted Runner on Linux: Setup Guide](https://blog.furkankoykiran.com.tr/en/posts/github-actions-self-hosted-runner/) (May 6, 2026)
+- [freqtrade-mcp: An MCP Server for Your Freqtrade Bot](https://blog.furkankoykiran.com.tr/en/posts/freqtrade-mcp-server/) (Apr 4, 2026)
+- [awesome-trending-repos: Tracking GitHub Trending Daily](https://blog.furkankoykiran.com.tr/en/posts/awesome-trending-repos-web/) (Mar 27, 2026)
+- [CLI-Anything Browser Harness: My First MCP Backend PR](https://blog.furkankoykiran.com.tr/en/posts/cli-anything-browser-automation-contribution/) (Mar 22, 2026)
+- [Keploy Contribution: Go defer and HTTP Body Leaks](https://blog.furkankoykiran.com.tr/en/posts/my-open-source-contribution-keploy/) (Mar 20, 2026)
 <!-- BLOG_END -->
 
 <div align="center">
 
-[![Read More](https://img.shields.io/badge/Read%20More-Blog-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.furkankoykiran.com.tr)
-[![Dev.to](https://img.shields.io/badge/Dev.to%20Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/furkankoykiran)
+[![All posts in English](https://img.shields.io/badge/All%20posts-English-00ADD8?style=for-the-badge&logo=rss&logoColor=white)](https://blog.furkankoykiran.com.tr/en/)
+[![All posts in Turkish](https://img.shields.io/badge/All%20posts-T%C3%BCrk%C3%A7e-E30A17?style=for-the-badge&logo=rss&logoColor=white)](https://blog.furkankoykiran.com.tr/)
+[![RSS feed](https://img.shields.io/badge/RSS-Feed-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://blog.furkankoykiran.com.tr/en/feed.xml)
 
 </div>
 
@@ -179,12 +222,12 @@ Creating decentralized applications and smart contract integrations with focus o
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkankoykiran)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/furkankoykiran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkankoykiran/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/furkankoykiran)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/furkankoykiran)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@furkankoykiran)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/furkankoykiran)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/UCXGn4Rqllr3GISS6pwKkYhw)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@furkankoykiran)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/furkankoykiran)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXGn4Rqllr3GISS6pwKkYhw)
 
 </div>
 
@@ -206,7 +249,8 @@ If you find my projects helpful, consider supporting me:
 <div align="center">
 
 ### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![A random programming quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -214,8 +258,6 @@ If you find my projects helpful, consider supporting me:
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=furkankoykiran&color=0891b2&style=for-the-badge&label=Profile+Views)
-
-**Thanks for visiting! Feel free to explore my repositories.**
+![Profile views](https://komarev.com/ghpvc/?username=furkankoykiran&color=0891b2&style=for-the-badge&label=Profile+Views)
 
 </div>

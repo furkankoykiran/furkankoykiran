@@ -1,83 +1,151 @@
-name: Update Recent GitHub Activity
+name: Update profile README
 
-# This schedule stopped firing on 2026-07-03 and nobody noticed for two months.
+# GitHub disables scheduled workflows in public repositories after 60 days
+# without repository activity, and pushes made with GITHUB_TOKEN do not count.
+# The README commit is therefore pushed with ACTIVITY_PAT (a fine-grained PAT
+# with Contents: read and write on this repository) so the schedule stays on.
 #
-# GitHub disables scheduled workflows in PUBLIC repositories after 60 days with
-# no repository activity, and a push made with the default GITHUB_TOKEN does not
-# count as activity. So this workflow committed to README.md roughly daily,
-# looked busy, and was counted as idle the whole time. The clock ran out 57 days
-# after the last human commit (2026-05-07), and the README has been frozen at
-# "Jun 16" ever since.
-#
-# Two things keep it alive now: pushing with a PAT when one is configured, so
-# the bot's own commits reset the activity clock, and a cadence that matches how
-# often the content actually changes.
+# Jobs:
+#   update-activity  generated README sections (update-activity.js)
+#   visuals          stats cards and contribution snake, pushed to the `output` branch
 
 on:
   schedule:
-    # Once a day. Hourly was 24 dispatches for a file that changed on four days
-    # in all of June, and GitHub was already dropping most of them (observed
-    # starts drifted 06:59 -> 13:57 UTC).
-    - cron: '20 5 * * *'
-  workflow_dispatch: # Allow manual trigger
+    - cron: '20 5 * * *'  # daily, 05:20 UTC
+  workflow_dispatch:
 
-permissions:
-  contents: read
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
 
 jobs:
   update-activity:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
-      contents: write  # Required to commit and push changes
-
+      contents: write  # push README.md when ACTIVITY_PAT is missing
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Check out repository
+        uses: actions/checkout@v7
         with:
           fetch-depth: 1
-          # ACTIVITY_PAT is a fine-grained PAT with Contents: read and write on
-          # this repository. With it, the push below is attributed to a real
-          # user and counts as repository activity, so the 60-day inactivity
-          # clock never runs out. Without it this falls back to GITHUB_TOKEN and
-          # keeps working — it just goes back to needing a human commit every
-          # couple of months to stay scheduled.
           token: ${{ secrets.ACTIVITY_PAT || secrets.GITHUB_TOKEN }}
-          persist-credentials: true
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
         with:
-          node-version: '20'
+          node-version: '24'
 
-      - name: Update README with recent activity
+      - name: Update README sections
         run: node update-activity.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # read-only API use
 
       - name: Commit and push if changed
+        env:
+          ACTIVITY_PAT: ${{ secrets.ACTIVITY_PAT }}
         run: |
           set -euo pipefail
           if git diff --quiet -- README.md; then
-            echo "README.md is unchanged; nothing to push."
+            echo "README.md is unchanged."
             exit 0
           fi
           if [ -n "${ACTIVITY_PAT:-}" ]; then
-            git config --local user.email "furkankoykiran@gmail.com"
-            git config --local user.name "Furkan Köykıran"
+            git config user.name "Furkan Köykıran"
+            git config user.email "furkankoykiran@gmail.com"
           else
-            git config --local user.email "github-actions[bot]@users.noreply.github.com"
-            git config --local user.name "github-actions[bot]"
+            echo "::warning::ACTIVITY_PAT is not set; this push will not count as repository activity."
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           fi
           git add README.md
-          git commit -m "chore: update recent GitHub activity [skip ci]"
+          git commit -m "chore: update profile README [skip ci]"
           git push
-        env:
-          ACTIVITY_PAT: ${{ secrets.ACTIVITY_PAT }}
 
-      - name: Warn when the schedule is running on borrowed time
+  visuals:
+    # Cards are rendered here instead of loaded from public image servers. A
+    # card that fails to render keeps the previous file on the `output` branch.
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write  # push to the output branch
+    env:
+      PROFILE_USER: ${{ github.repository_owner }}
+    steps:
+      - name: Check out the output branch, or create it
         env:
-          ACTIVITY_PAT: ${{ secrets.ACTIVITY_PAT }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [ -z "${ACTIVITY_PAT:-}" ]; then
-            echo "::warning::ACTIVITY_PAT is not set, so pushes from this workflow do not count as repository activity. GitHub disables a public repository's schedules after 60 days without any — which is exactly what happened here between 2026-07-03 and 2026-09-07. Add a fine-grained PAT with Contents: read and write as the ACTIVITY_PAT secret."
+          set -euo pipefail
+          url="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads "$url" output >/dev/null 2>&1; then
+            git clone --quiet --depth 1 --branch output "$url" dist
+          else
+            git init --quiet -b output dist
+            git -C dist remote add origin "$url"
           fi
+
+      - name: Stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
+        with:
+          card: stats
+          options: username=${{ env.PROFILE_USER }}&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&card_width=500&theme=tokyonight
+          path: dist/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
+        with:
+          card: stats
+          options: username=${{ env.PROFILE_USER }}&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&card_width=500&theme=default
+          path: dist/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Top languages card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
+        with:
+          card: top-langs
+          options: username=${{ env.PROFILE_USER }}&layout=compact&langs_count=8&hide_border=true&card_width=500&theme=tokyonight
+          path: dist/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Top languages card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
+        with:
+          card: top-langs
+          options: username=${{ env.PROFILE_USER }}&layout=compact&langs_count=8&hide_border=true&card_width=500&theme=default
+          path: dist/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        continue-on-error: true
+        with:
+          github_user_name: ${{ env.PROFILE_USER }}
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#22b8e8
+            dist/snake-light.svg?palette=github-light&color_snake=#2f7cf6
+
+      - name: Push to the output branch
+        working-directory: dist
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No visual changes."
+            exit 0
+          fi
+          git commit --quiet -m "chore: update profile cards and snake [skip ci]"
+          git push origin HEAD:output
