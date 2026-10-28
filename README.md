@@ -157,11 +157,11 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Open-Source Contributions
 
 <!-- CONTRIBUTIONS_START -->
-- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 143.1k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
-- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 98.6k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 57.3k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
-- **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 19.9k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
-- **[keploy/keploy](https://github.com/keploy/keploy)** ★ 18.8k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 143.5k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 98.7k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 57.5k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
+- **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
+- **[keploy/keploy](https://github.com/keploy/keploy)** ★ 18.9k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.8k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
 - **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 897: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
 - **[google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk)** ★ 138: [Implement session deletion API](https://github.com/google-labs-code/jules-sdk/pull/184)
@@ -174,6 +174,7 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
+- **Oct 28** - Starred [interplains/zero-breach](https://github.com/interplains/zero-breach)
 - **Oct 25** - Starred [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks)
 - **Oct 24** - Merged PR [#3](https://github.com/furkankoykiran/blog/pull/3) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
 - **Oct 24** - Pushed to [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
@@ -193,7 +194,6 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **Oct 23** - Opened issue [#104665](https://github.com/anthropics/claude-code/issues/104665) in [anthropics/claude-code](https://github.com/anthropics/claude-code): [BUG] Agent Map (/tasks) and ListAgents report stale/inconsistent subagent status while work is still in progress
 - **Oct 23** - Starred [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack)
 - **Oct 23** - Merged PR [#7](https://github.com/furkankoykiran/awesome-trending-repos/pull/7) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
-- **Oct 23** - Opened PR [#7](https://github.com/furkankoykiran/awesome-trending-repos/pull/7) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
 <!-- ACTIVITY_END -->
 
 ---
