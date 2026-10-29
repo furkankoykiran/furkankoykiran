@@ -157,9 +157,9 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Open-Source Contributions
 
 <!-- CONTRIBUTIONS_START -->
-- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 143.5k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
-- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 98.7k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 57.5k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 143.8k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 98.8k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 57.6k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
 - **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
 - **[keploy/keploy](https://github.com/keploy/keploy)** ★ 18.9k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.8k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
