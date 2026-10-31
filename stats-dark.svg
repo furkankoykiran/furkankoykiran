@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Furkan K&#246;yk&#305;ran&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 82, Total Commits  : 2305, Total PRs: 202, Total Issues: 44, Contributed to (last year): 30</desc>
+        <desc id="descId">Total Stars Earned: 82, Total Commits  : 2327, Total PRs: 202, Total Issues: 44, Contributed to (last year): 30</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 73.114317983241;
+        stroke-dashoffset: 73.00450484171364;
       }
     }
   
