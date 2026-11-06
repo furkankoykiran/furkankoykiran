@@ -157,13 +157,13 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Open-Source Contributions
 
 <!-- CONTRIBUTIONS_START -->
-- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 147.7k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 148.1k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
 - **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 99.4k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
 - **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 58.3k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
 - **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20.1k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
-- **[keploy/keploy](https://github.com/keploy/keploy)** ★ 19.4k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
+- **[keploy/keploy](https://github.com/keploy/keploy)** ★ 19.5k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.8k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
-- **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 897: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
+- **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 898: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
 - **[google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk)** ★ 139: [Implement session deletion API](https://github.com/google-labs-code/jules-sdk/pull/184)
 
 **11 merged pull requests across 8 open-source projects.** Full list: [furkankoykiran.com.tr/en/contributions](https://furkankoykiran.com.tr/en/contributions/)
@@ -174,6 +174,7 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
+- **Nov 6** - Starred [gitcoffee-os/postbot](https://github.com/gitcoffee-os/postbot)
 - **Nov 4** - Starred [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)
 - **Nov 4** - Starred [anothaDev/luci-theme-vantage](https://github.com/anothaDev/luci-theme-vantage)
 - **Nov 3** - Starred [monero-project/monero](https://github.com/monero-project/monero)
@@ -193,7 +194,6 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **Oct 24** - Merged PR [#2](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/2) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
 - **Oct 24** - Opened PR [#2](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/2) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
 - **Oct 24** - Merged PR [#1](https://github.com/furkankoykiran/blog/pull/1) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
-- **Oct 24** - Opened PR [#1](https://github.com/furkankoykiran/blog/pull/1) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
 <!-- ACTIVITY_END -->
 
 ---
