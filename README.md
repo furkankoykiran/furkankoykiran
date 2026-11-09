@@ -157,11 +157,11 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Open-Source Contributions
 
 <!-- CONTRIBUTIONS_START -->
-- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 148.6k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
-- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 99.6k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 58.4k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 148.9k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 99.7k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 58.5k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
 - **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20.2k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
-- **[keploy/keploy](https://github.com/keploy/keploy)** ★ 19.5k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
+- **[keploy/keploy](https://github.com/keploy/keploy)** ★ 19.6k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.8k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
 - **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 898: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
 - **[google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk)** ★ 140: [Implement session deletion API](https://github.com/google-labs-code/jules-sdk/pull/184)
@@ -174,6 +174,8 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
+- **Nov 9** - Starred [shinyobjectz/raea](https://github.com/shinyobjectz/raea)
+- **Nov 9** - Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
 - **Nov 6** - Starred [gitcoffee-os/postbot](https://github.com/gitcoffee-os/postbot)
 - **Nov 4** - Starred [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)
 - **Nov 4** - Starred [anothaDev/luci-theme-vantage](https://github.com/anothaDev/luci-theme-vantage)
@@ -192,8 +194,6 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **Oct 24** - Merged PR [#2](https://github.com/furkankoykiran/blog/pull/2) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
 - **Oct 24** - Opened PR [#2](https://github.com/furkankoykiran/blog/pull/2) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
 - **Oct 24** - Merged PR [#2](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/2) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
-- **Oct 24** - Opened PR [#2](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/2) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
-- **Oct 24** - Merged PR [#1](https://github.com/furkankoykiran/blog/pull/1) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
 <!-- ACTIVITY_END -->
 
 ---
