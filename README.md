@@ -157,11 +157,11 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Open-Source Contributions
 
 <!-- CONTRIBUTIONS_START -->
-- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 149.5k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
-- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 100k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 58.6k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 149.6k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 100.1k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 58.7k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
 - **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20.2k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
-- **[keploy/keploy](https://github.com/keploy/keploy)** ★ 19.7k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
+- **[keploy/keploy](https://github.com/keploy/keploy)** ★ 19.8k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.9k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
 - **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 900: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
 - **[google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk)** ★ 140: [Implement session deletion API](https://github.com/google-labs-code/jules-sdk/pull/184)
@@ -174,6 +174,12 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
+- **Nov 13** - Starred [nota-daw/nota](https://github.com/nota-daw/nota)
+- **Nov 13** - Starred [PawiX25/twifork](https://github.com/PawiX25/twifork)
+- **Nov 13** - Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
+- **Nov 13** - Starred [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+- **Nov 13** - Starred [Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)
+- **Nov 13** - Starred [KatrielMoses/voidaccess](https://github.com/KatrielMoses/voidaccess)
 - **Nov 9** - Starred [shinyobjectz/raea](https://github.com/shinyobjectz/raea)
 - **Nov 9** - Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
 - **Nov 6** - Starred [gitcoffee-os/postbot](https://github.com/gitcoffee-os/postbot)
@@ -188,12 +194,6 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **Oct 25** - Starred [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks)
 - **Oct 24** - Merged PR [#3](https://github.com/furkankoykiran/blog/pull/3) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
 - **Oct 24** - Merged PR [#3](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/3) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
-- **Oct 24** - Opened PR [#3](https://github.com/furkankoykiran/blog/pull/3) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
-- **Oct 24** - Opened PR [#3](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/3) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
-- **Oct 24** - Opened issue [#8](https://github.com/furkankoykiran/awesome-trending-repos/issues/8) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos): Daily workflow never commits public/data/feed.json
-- **Oct 24** - Merged PR [#2](https://github.com/furkankoykiran/blog/pull/2) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
-- **Oct 24** - Opened PR [#2](https://github.com/furkankoykiran/blog/pull/2) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
-- **Oct 24** - Merged PR [#2](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/2) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
 <!-- ACTIVITY_END -->
 
 ---
