@@ -157,13 +157,13 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Open-Source Contributions
 
 <!-- CONTRIBUTIONS_START -->
-- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 149.6k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 149.8k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
 - **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 100.1k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
 - **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 58.7k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
 - **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20.2k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
 - **[keploy/keploy](https://github.com/keploy/keploy)** ★ 19.8k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.9k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
-- **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 900: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
+- **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 902: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
 - **[google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk)** ★ 140: [Implement session deletion API](https://github.com/google-labs-code/jules-sdk/pull/184)
 
 **11 merged pull requests across 8 open-source projects.** Full list: [furkankoykiran.com.tr/en/contributions](https://furkankoykiran.com.tr/en/contributions/)
@@ -174,6 +174,10 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
+- **Nov 14** - Starred [caldoai/skills](https://github.com/caldoai/skills)
+- **Nov 14** - Starred [vyralcontent/content-skills](https://github.com/vyralcontent/content-skills)
+- **Nov 13** - Merged PR [#14](https://github.com/furkankoykiran/Leadwalk/pull/14) in [furkankoykiran/Leadwalk](https://github.com/furkankoykiran/Leadwalk)
+- **Nov 13** - Opened PR [#14](https://github.com/furkankoykiran/Leadwalk/pull/14) in [furkankoykiran/Leadwalk](https://github.com/furkankoykiran/Leadwalk)
 - **Nov 13** - Starred [nota-daw/nota](https://github.com/nota-daw/nota)
 - **Nov 13** - Starred [PawiX25/twifork](https://github.com/PawiX25/twifork)
 - **Nov 13** - Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
@@ -190,10 +194,6 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **Nov 3** - Starred [wj-sidiss/otopilot](https://github.com/wj-sidiss/otopilot)
 - **Oct 29** - Starred [shy1132/VacuumTube](https://github.com/shy1132/VacuumTube)
 - **Oct 29** - Starred [xixianloux/google-account-automanager](https://github.com/xixianloux/google-account-automanager)
-- **Oct 28** - Starred [interplains/zero-breach](https://github.com/interplains/zero-breach)
-- **Oct 25** - Starred [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks)
-- **Oct 24** - Merged PR [#3](https://github.com/furkankoykiran/blog/pull/3) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
-- **Oct 24** - Merged PR [#3](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/3) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
 <!-- ACTIVITY_END -->
 
 ---
