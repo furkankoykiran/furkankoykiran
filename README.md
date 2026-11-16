@@ -157,10 +157,10 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Open-Source Contributions
 
 <!-- CONTRIBUTIONS_START -->
-- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 149.9k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
-- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 100.2k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 58.7k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
-- **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20.2k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 150k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 100.3k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 58.8k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
+- **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20.3k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
 - **[keploy/keploy](https://github.com/keploy/keploy)** ★ 19.8k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.9k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
 - **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 902: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
@@ -174,6 +174,9 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
+- **Nov 16** - Starred [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools)
+- **Nov 16** - Starred [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+- **Nov 15** - Starred [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
 - **Nov 14** - Starred [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
 - **Nov 14** - Starred [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
 - **Nov 14** - Starred [huggingface/trl](https://github.com/huggingface/trl)
@@ -191,9 +194,6 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **Nov 13** - Starred [KatrielMoses/voidaccess](https://github.com/KatrielMoses/voidaccess)
 - **Nov 9** - Starred [shinyobjectz/raea](https://github.com/shinyobjectz/raea)
 - **Nov 9** - Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
-- **Nov 6** - Starred [gitcoffee-os/postbot](https://github.com/gitcoffee-os/postbot)
-- **Nov 4** - Starred [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)
-- **Nov 4** - Starred [anothaDev/luci-theme-vantage](https://github.com/anothaDev/luci-theme-vantage)
 <!-- ACTIVITY_END -->
 
 ---
