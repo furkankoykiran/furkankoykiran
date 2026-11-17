@@ -145,7 +145,7 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **[freqtrade-mcp](https://github.com/furkankoykiran/freqtrade-mcp)** (TypeScript · ★ 2): Lets AI agents query and control a Freqtrade trading bot through its REST API. [Details →](https://furkankoykiran.com.tr/en/projects/freqtrade-mcp/)
 - **[OmniWire-MCP](https://github.com/furkankoykiran/OmniWire-MCP)** (TypeScript · ★ 6): Fault-tolerant news MCP server that normalises RSS, Atom, JSON and HTML feeds behind circuit breakers. [Details →](https://furkankoykiran.com.tr/en/projects/omniwire-mcp/)
 - **[claude-code-toolkit](https://github.com/furkankoykiran/.claude)** (TypeScript · ★ 5): One-command, reproducible Claude Code setup; every skill is pinned to a reviewed commit. [Details →](https://furkankoykiran.com.tr/en/projects/claude/)
-- **[awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)** (JavaScript · ★ 22): Daily curated list of trending GitHub repositories with a live dashboard, run entirely on GitHub Actions. [Details →](https://furkankoykiran.com.tr/en/projects/awesome-trending-repos/)
+- **[awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)** (JavaScript · ★ 23): Daily curated list of trending GitHub repositories with a live dashboard, run entirely on GitHub Actions. [Details →](https://furkankoykiran.com.tr/en/projects/awesome-trending-repos/)
 - **[Quorum](https://github.com/furkankoykiran/Quorum)** (Python): Multi-agent trading committee: agents debate and vote on every trade, with Shapley-based profit attribution. [Details →](https://furkankoykiran.com.tr/en/projects/quorum/)
 - **[telegram-wallet-p2p-sdk](https://github.com/furkankoykiran/telegram-wallet-p2p-sdk)** (Python · ★ 7): Python, Node.js and MCP clients for the Telegram Wallet P2P market: listings, best prices and spread analytics. [Details →](https://furkankoykiran.com.tr/en/projects/telegram-wallet-p2p-sdk/)
 - **[ai-face-detector](https://github.com/furkankoykiran/ai-face-detector)** (Python · ★ 5): MobileNetV2 transfer-learning model that tells AI-generated faces from real ones, served with FastAPI. [Details →](https://furkankoykiran.com.tr/en/projects/ai-face-detector/)
@@ -157,13 +157,13 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Open-Source Contributions
 
 <!-- CONTRIBUTIONS_START -->
-- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 150k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
-- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 100.3k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 58.8k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 150.2k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 100.4k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 59k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
 - **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20.3k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
-- **[keploy/keploy](https://github.com/keploy/keploy)** ★ 19.8k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
+- **[keploy/keploy](https://github.com/keploy/keploy)** ★ 19.9k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.9k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
-- **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 902: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
+- **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 903: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
 - **[google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk)** ★ 141: [Implement session deletion API](https://github.com/google-labs-code/jules-sdk/pull/184)
 
 **11 merged pull requests across 8 open-source projects.** Full list: [furkankoykiran.com.tr/en/contributions](https://furkankoykiran.com.tr/en/contributions/)
@@ -174,6 +174,9 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
+- **Nov 16** - Starred [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca)
+- **Nov 16** - Starred [frida/frida](https://github.com/frida/frida)
+- **Nov 16** - Starred [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart)
 - **Nov 16** - Starred [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools)
 - **Nov 16** - Starred [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 - **Nov 15** - Starred [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
@@ -191,9 +194,6 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **Nov 13** - Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
 - **Nov 13** - Starred [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
 - **Nov 13** - Starred [Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)
-- **Nov 13** - Starred [KatrielMoses/voidaccess](https://github.com/KatrielMoses/voidaccess)
-- **Nov 9** - Starred [shinyobjectz/raea](https://github.com/shinyobjectz/raea)
-- **Nov 9** - Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
 <!-- ACTIVITY_END -->
 
 ---
