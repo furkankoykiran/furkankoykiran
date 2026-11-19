@@ -157,14 +157,14 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Open-Source Contributions
 
 <!-- CONTRIBUTIONS_START -->
-- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 150.4k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
-- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 100.5k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 59.4k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 150.6k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 100.6k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 60.3k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
 - **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20.3k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
 - **[keploy/keploy](https://github.com/keploy/keploy)** ★ 19.9k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.9k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
-- **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 904: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
-- **[google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk)** ★ 141: [Implement session deletion API](https://github.com/google-labs-code/jules-sdk/pull/184)
+- **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 905: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
+- **[google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk)** ★ 142: [Implement session deletion API](https://github.com/google-labs-code/jules-sdk/pull/184)
 
 **11 merged pull requests across 8 open-source projects.** Full list: [furkankoykiran.com.tr/en/contributions](https://furkankoykiran.com.tr/en/contributions/)
 <!-- CONTRIBUTIONS_END -->
@@ -174,6 +174,8 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
+- **Nov 19** - Starred [nilbuild/driver.js](https://github.com/nilbuild/driver.js)
+- **Nov 18** - Starred [DharambirAgrawal/clip-agent](https://github.com/DharambirAgrawal/clip-agent)
 - **Nov 18** - Starred [furkankoykiran/Leadwalk](https://github.com/furkankoykiran/Leadwalk)
 - **Nov 18** - Starred [dansugc/reverse-engineer-marketing](https://github.com/dansugc/reverse-engineer-marketing)
 - **Nov 17** - Starred [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)
@@ -192,8 +194,6 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **Nov 13** - Pushed to [furkankoykiran/Leadwalk](https://github.com/furkankoykiran/Leadwalk)
 - **Nov 13** - Merged PR [#14](https://github.com/furkankoykiran/Leadwalk/pull/14) in [furkankoykiran/Leadwalk](https://github.com/furkankoykiran/Leadwalk)
 - **Nov 13** - Opened PR [#14](https://github.com/furkankoykiran/Leadwalk/pull/14) in [furkankoykiran/Leadwalk](https://github.com/furkankoykiran/Leadwalk)
-- **Nov 13** - Starred [nota-daw/nota](https://github.com/nota-daw/nota)
-- **Nov 13** - Starred [PawiX25/twifork](https://github.com/PawiX25/twifork)
 <!-- ACTIVITY_END -->
 
 ---
