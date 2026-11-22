@@ -157,15 +157,16 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Open-Source Contributions
 
 <!-- CONTRIBUTIONS_START -->
-- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 150.9k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
-- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 100.7k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 61.8k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 151k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 100.8k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 62.4k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
 - **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20.3k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
 - **[keploy/keploy](https://github.com/keploy/keploy)** ★ 19.9k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.9k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
+- **[TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers)** ★ 1.1k: [Add Telegram Ads MCP to Marketing, Sales & CRM](https://github.com/TensorBlock/awesome-mcp-servers/pull/6565)
 - **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 904: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
 
-**10 merged pull requests across 7 open-source projects.** Full list: [furkankoykiran.com.tr/en/contributions](https://furkankoykiran.com.tr/en/contributions/)
+**11 merged pull requests across 8 open-source projects.** Full list: [furkankoykiran.com.tr/en/contributions](https://furkankoykiran.com.tr/en/contributions/)
 <!-- CONTRIBUTIONS_END -->
 
 ---
@@ -173,26 +174,26 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
-- **Nov 21** - Starred [pavnxet/duckai-api](https://github.com/pavnxet/duckai-api)
-- **Nov 19** - Starred [ShadowySphinX/Opencode-Unlimited-Limit-Bypass-](https://github.com/ShadowySphinX/Opencode-Unlimited-Limit-Bypass-)
-- **Nov 19** - Starred [BerkeOruc/oplire](https://github.com/BerkeOruc/oplire)
-- **Nov 19** - Starred [12errh/zen-proxy](https://github.com/12errh/zen-proxy)
-- **Nov 19** - Starred [6Kmfi6HP/opencode2api](https://github.com/6Kmfi6HP/opencode2api)
-- **Nov 19** - Starred [decolua/9router](https://github.com/decolua/9router)
-- **Nov 19** - Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
-- **Nov 19** - Starred [nilbuild/driver.js](https://github.com/nilbuild/driver.js)
-- **Nov 18** - Starred [DharambirAgrawal/clip-agent](https://github.com/DharambirAgrawal/clip-agent)
-- **Nov 18** - Starred [furkankoykiran/Leadwalk](https://github.com/furkankoykiran/Leadwalk)
-- **Nov 18** - Starred [dansugc/reverse-engineer-marketing](https://github.com/dansugc/reverse-engineer-marketing)
-- **Nov 17** - Starred [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)
-- **Nov 16** - Starred [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca)
-- **Nov 16** - Starred [frida/frida](https://github.com/frida/frida)
-- **Nov 16** - Starred [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart)
-- **Nov 16** - Starred [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools)
-- **Nov 16** - Starred [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
-- **Nov 15** - Starred [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
-- **Nov 14** - Starred [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
-- **Nov 14** - Starred [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
+- **Nov 22** - Starred [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
+- **Nov 22** - Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+- **Nov 22** - Starred [WhiteTowerAI/ohmygame](https://github.com/WhiteTowerAI/ohmygame)
+- **Nov 22** - Starred [furkankoykiran/telegram-ads-mcp](https://github.com/furkankoykiran/telegram-ads-mcp)
+- **Nov 21** - Pushed to [furkankoykiran/telegram-ads-mcp](https://github.com/furkankoykiran/telegram-ads-mcp)
+- **Nov 21** - Merged PR [#10](https://github.com/furkankoykiran/telegram-ads-mcp/pull/10) in [furkankoykiran/telegram-ads-mcp](https://github.com/furkankoykiran/telegram-ads-mcp)
+- **Nov 21** - Opened PR [#10](https://github.com/furkankoykiran/telegram-ads-mcp/pull/10) in [furkankoykiran/telegram-ads-mcp](https://github.com/furkankoykiran/telegram-ads-mcp)
+- **Nov 21** - Merged PR [#9](https://github.com/furkankoykiran/telegram-ads-mcp/pull/9) in [furkankoykiran/telegram-ads-mcp](https://github.com/furkankoykiran/telegram-ads-mcp)
+- **Nov 21** - Opened PR [#9](https://github.com/furkankoykiran/telegram-ads-mcp/pull/9) in [furkankoykiran/telegram-ads-mcp](https://github.com/furkankoykiran/telegram-ads-mcp)
+- **Nov 21** - Starred [unvoiddd/Dolphy-App](https://github.com/unvoiddd/Dolphy-App)
+- **Nov 21** - Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
+- **Nov 21** - Starred [diggerhq/opencomputer](https://github.com/diggerhq/opencomputer)
+- **Nov 21** - Merged PR [#8](https://github.com/furkankoykiran/telegram-ads-mcp/pull/8) in [furkankoykiran/telegram-ads-mcp](https://github.com/furkankoykiran/telegram-ads-mcp)
+- **Nov 21** - Opened PR [#8](https://github.com/furkankoykiran/telegram-ads-mcp/pull/8) in [furkankoykiran/telegram-ads-mcp](https://github.com/furkankoykiran/telegram-ads-mcp)
+- **Nov 21** - Merged PR [#7](https://github.com/furkankoykiran/telegram-ads-mcp/pull/7) in [furkankoykiran/telegram-ads-mcp](https://github.com/furkankoykiran/telegram-ads-mcp)
+- **Nov 21** - Opened PR [#7](https://github.com/furkankoykiran/telegram-ads-mcp/pull/7) in [furkankoykiran/telegram-ads-mcp](https://github.com/furkankoykiran/telegram-ads-mcp)
+- **Nov 21** - Opened PR [#6565](https://github.com/TensorBlock/awesome-mcp-servers/pull/6565) in [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers)
+- **Nov 21** - Forked [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers)
+- **Nov 21** - Opened PR [#471](https://github.com/ebertti/awesome-telegram/pull/471) in [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram)
+- **Nov 21** - Forked [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram)
 <!-- ACTIVITY_END -->
 
 ---
