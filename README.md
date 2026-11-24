@@ -157,9 +157,9 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Open-Source Contributions
 
 <!-- CONTRIBUTIONS_START -->
-- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 151.1k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
-- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 100.9k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 63.3k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 151.3k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 101k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 64.4k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
 - **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20.4k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
 - **[keploy/keploy](https://github.com/keploy/keploy)** ★ 20k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.9k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
@@ -174,6 +174,10 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
+- **Nov 24** - Starred [mddanishyusuf/kurz](https://github.com/mddanishyusuf/kurz)
+- **Nov 23** - Commented on PR [#20258](https://github.com/punkpeye/awesome-mcp-servers/pull/20258#issuecomment-7112836185) in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+- **Nov 23** - Starred [5hirish/duct](https://github.com/5hirish/duct)
+- **Nov 23** - Pushed to [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
 - **Nov 23** - Merged PR [#10](https://github.com/furkankoykiran/blog/pull/10) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
 - **Nov 23** - Commented on PR [#2](https://github.com/furkankoykiran/hues-and-cues/pull/2#issuecomment-7105405005) in [furkankoykiran/hues-and-cues](https://github.com/furkankoykiran/hues-and-cues)
 - **Nov 23** - Opened PR [#10](https://github.com/furkankoykiran/blog/pull/10) in [furkankoykiran/blog](https://github.com/furkankoykiran/blog)
@@ -186,14 +190,10 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **Nov 23** - Starred [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list)
 - **Nov 23** - Pushed to [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
 - **Nov 23** - Merged PR [#10](https://github.com/furkankoykiran/awesome-trending-repos/pull/10) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
+- **Nov 23** - Pushed to [furkankoykiran/wavelength](https://github.com/furkankoykiran/wavelength)
 - **Nov 23** - Merged PR [#3](https://github.com/furkankoykiran/wavelength/pull/3) in [furkankoykiran/wavelength](https://github.com/furkankoykiran/wavelength)
 - **Nov 23** - Merged PR [#4](https://github.com/furkankoykiran/hues-and-cues/pull/4) in [furkankoykiran/hues-and-cues](https://github.com/furkankoykiran/hues-and-cues)
 - **Nov 23** - Opened PR [#3](https://github.com/furkankoykiran/wavelength/pull/3) in [furkankoykiran/wavelength](https://github.com/furkankoykiran/wavelength)
-- **Nov 23** - Opened PR [#4](https://github.com/furkankoykiran/hues-and-cues/pull/4) in [furkankoykiran/hues-and-cues](https://github.com/furkankoykiran/hues-and-cues)
-- **Nov 23** - Merged PR [#4](https://github.com/furkankoykiran/XRLabLLM/pull/4) in [furkankoykiran/XRLabLLM](https://github.com/furkankoykiran/XRLabLLM)
-- **Nov 23** - Opened PR [#10](https://github.com/furkankoykiran/awesome-trending-repos/pull/10) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
-- **Nov 23** - Pushed to [furkankoykiran/wavelength](https://github.com/furkankoykiran/wavelength)
-- **Nov 23** - Merged PR [#2](https://github.com/furkankoykiran/wavelength/pull/2) in [furkankoykiran/wavelength](https://github.com/furkankoykiran/wavelength)
 <!-- ACTIVITY_END -->
 
 ---
