@@ -157,14 +157,14 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Open-Source Contributions
 
 <!-- CONTRIBUTIONS_START -->
-- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 151.3k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 151.4k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
 - **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 101k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 64.4k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 65.5k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
 - **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20.4k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
 - **[keploy/keploy](https://github.com/keploy/keploy)** ★ 20k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.9k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
 - **[TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers)** ★ 1.1k: [Add Telegram Ads MCP to Marketing, Sales & CRM](https://github.com/TensorBlock/awesome-mcp-servers/pull/6565)
-- **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 904: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
+- **[Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)** ★ 905: [Fixed error handling for errors returned with Twitter API 200 OK responses](https://github.com/Rishikant181/Rettiwt-API/pull/797)
 
 **11 merged pull requests across 8 open-source projects.** Full list: [furkankoykiran.com.tr/en/contributions](https://furkankoykiran.com.tr/en/contributions/)
 <!-- CONTRIBUTIONS_END -->
@@ -174,6 +174,9 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
+- **Nov 25** - Starred [1276486/ZERO-X-Bypass-Jailbreak](https://github.com/1276486/ZERO-X-Bypass-Jailbreak)
+- **Nov 25** - Starred [3641397194-wq/gpt6-Astra](https://github.com/3641397194-wq/gpt6-Astra)
+- **Nov 25** - Starred [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
 - **Nov 24** - Starred [mddanishyusuf/kurz](https://github.com/mddanishyusuf/kurz)
 - **Nov 23** - Commented on PR [#20258](https://github.com/punkpeye/awesome-mcp-servers/pull/20258#issuecomment-7112836185) in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - **Nov 23** - Starred [5hirish/duct](https://github.com/5hirish/duct)
@@ -191,9 +194,6 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **Nov 23** - Pushed to [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
 - **Nov 23** - Merged PR [#10](https://github.com/furkankoykiran/awesome-trending-repos/pull/10) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
 - **Nov 23** - Pushed to [furkankoykiran/wavelength](https://github.com/furkankoykiran/wavelength)
-- **Nov 23** - Merged PR [#3](https://github.com/furkankoykiran/wavelength/pull/3) in [furkankoykiran/wavelength](https://github.com/furkankoykiran/wavelength)
-- **Nov 23** - Merged PR [#4](https://github.com/furkankoykiran/hues-and-cues/pull/4) in [furkankoykiran/hues-and-cues](https://github.com/furkankoykiran/hues-and-cues)
-- **Nov 23** - Opened PR [#3](https://github.com/furkankoykiran/wavelength/pull/3) in [furkankoykiran/wavelength](https://github.com/furkankoykiran/wavelength)
 <!-- ACTIVITY_END -->
 
 ---
