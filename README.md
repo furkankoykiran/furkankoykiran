@@ -157,9 +157,9 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Open-Source Contributions
 
 <!-- CONTRIBUTIONS_START -->
-- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 152.1k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
+- **[github/spec-kit](https://github.com/github/spec-kit)** ★ 152.6k: [Add Goose AI agent support](https://github.com/github/spec-kit/pull/2015)
 - **[microsoft/playwright](https://github.com/microsoft/playwright)** ★ 101.2k: [Sanitize malformed Unicode in MCP responses](https://github.com/microsoft/playwright/pull/39625) · [Split header value only on first colon in headerParser](https://github.com/microsoft/playwright/pull/39401)
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 66.8k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ★ 67.3k: [Add security hardening for DOMShell MCP automation](https://github.com/HKUDS/CLI-Anything/pull/156) · [Add Browser automation CLI via DOMShell MCP server](https://github.com/HKUDS/CLI-Anything/pull/118)
 - **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** ★ 20.4k: [Add notebook metadata export with sources list](https://github.com/teng-lin/notebooklm-py/pull/174)
 - **[keploy/keploy](https://github.com/keploy/keploy)** ★ 20k: [Use-after-close in isGoBinary function](https://github.com/keploy/keploy/pull/3927) · [Close response bodies in MockOutgoing and UpdateMockParams](https://github.com/keploy/keploy/pull/3932)
 - **[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ★ 3.9k: [Add English README](https://github.com/Mouseww/anything-analyzer/pull/13)
@@ -174,6 +174,7 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 ## Recent GitHub Activity
 
 <!-- ACTIVITY_START -->
+- **Nov 27** - Starred [Temporalitas/ipv6-proxy-server](https://github.com/Temporalitas/ipv6-proxy-server)
 - **Nov 27** - Starred [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator)
 - **Nov 25** - Starred [1276486/ZERO-X-Bypass-Jailbreak](https://github.com/1276486/ZERO-X-Bypass-Jailbreak)
 - **Nov 25** - Starred [3641397194-wq/gpt6-Astra](https://github.com/3641397194-wq/gpt6-Astra)
@@ -193,7 +194,6 @@ Computer vision with transfer learning, such as a MobileNetV2 model that separat
 - **Nov 23** - Opened PR [#6](https://github.com/furkankoykiran/furkankoykiran.github.io/pull/6) in [furkankoykiran/furkankoykiran.github.io](https://github.com/furkankoykiran/furkankoykiran.github.io)
 - **Nov 23** - Starred [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list)
 - **Nov 23** - Pushed to [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
-- **Nov 23** - Merged PR [#10](https://github.com/furkankoykiran/awesome-trending-repos/pull/10) in [furkankoykiran/awesome-trending-repos](https://github.com/furkankoykiran/awesome-trending-repos)
 <!-- ACTIVITY_END -->
 
 ---
